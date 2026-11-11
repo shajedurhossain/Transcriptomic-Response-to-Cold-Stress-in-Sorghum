@@ -177,7 +177,7 @@ Most of the cold response is robust to the change: the genotype-aware model reco
 ## Reproducing the analysis
 
 ```bash
-git clone https://github.com/<your-username>/Transcriptomic-Response-to-Cold-Stress-in-Sorghum.git
+git clone https://github.com/shajedurhossain/Transcriptomic-Response-to-Cold-Stress-in-Sorghum.git
 cd Transcriptomic-Response-to-Cold-Stress-in-Sorghum
 
 conda env create -f environment.yml

@@ -7,5 +7,6 @@ authors:
     family-names: Hossain
     affiliation: "Justus-Liebig-Universität Gießen"
 type: software
+repository-code: "https://github.com/shajedurhossain/Transcriptomic-Response-to-Cold-Stress-in-Sorghum"
 license: MIT
 keywords: [sorghum, cold stress, RNA-seq, DESeq2, transcriptomics, iDEP]
