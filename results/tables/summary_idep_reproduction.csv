@@ -1,0 +1,4 @@
+"contrast","description","model","up","down","total","tested","idep_up","idep_down"
+"idep_tolerance_High_vs_Low","High vs Low tolerance lines (all samples pooled)","~ tolerance + condition",936,1138,2074,22681,936,1131
+"idep_cold_vs_control","Cold vs Control (all lines pooled)","~ tolerance + condition",2137,1930,4067,22681,2137,1930
+"idep_interaction","Tolerance x cold interaction (no genotype term)","~ tolerance * condition",148,136,284,22677,148,136

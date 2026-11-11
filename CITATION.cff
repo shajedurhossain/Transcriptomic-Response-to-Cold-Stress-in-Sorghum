@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Transcriptomic Response to Cold Stress in Sorghum"
+abstract: "RNA-seq analysis of cold stress in six Sorghum bicolor lines differing in cold tolerance (M.Sc. thesis, Justus-Liebig-Universität Gießen)."
+authors:
+  - given-names: Md Shajedur
+    family-names: Hossain
+    affiliation: "Justus-Liebig-Universität Gießen"
+type: software
+license: MIT
+keywords: [sorghum, cold stress, RNA-seq, DESeq2, transcriptomics, iDEP]

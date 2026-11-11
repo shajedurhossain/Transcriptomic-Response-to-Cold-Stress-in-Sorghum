@@ -1,0 +1,37 @@
+sample_id,library_id,genotype,line_name,tolerance,tolerance_code,condition,condition_code,replicate,growth_batch,plants_pooled
+Sb1_LT_C_1,Sb1-C1,Sb1,SB14011,Low,LT,Control,C,1,original,3
+Sb1_LT_C_2,Sb1-C2,Sb1,SB14011,Low,LT,Control,C,2,original,3
+Sb1_LT_C_3,Sb1-C3,Sb1,SB14011,Low,LT,Control,C,3,original,3
+Sb1_LT_S_1,Sb1-S1,Sb1,SB14011,Low,LT,Cold,S,1,original,3
+Sb1_LT_S_2,Sb1-S2,Sb1,SB14011,Low,LT,Cold,S,2,original,3
+Sb1_LT_S_3,Sb1-S3,Sb1,SB14011,Low,LT,Cold,S,3,original,3
+Sb2_HT_C_1,Sb2-C1,Sb2,GG12 5051,High,HT,Control,C,1,original,3
+Sb2_HT_C_2,Sb2-C2,Sb2,GG12 5051,High,HT,Control,C,2,original,3
+Sb2_HT_C_3,Sb2-C3,Sb2,GG12 5051,High,HT,Control,C,3,original,3
+Sb2_HT_S_1,Sb2-S1,Sb2,GG12 5051,High,HT,Cold,S,1,original,3
+Sb2_HT_S_2,Sb2-S2,Sb2,GG12 5051,High,HT,Cold,S,2,original,3
+Sb2_HT_S_3,Sb2-S3,Sb2,GG12 5051,High,HT,Cold,S,3,original,3
+Sb3_HT_C_1,Sb3-C4,Sb3,ES-17-02,High,HT,Control,C,1,regrown,3
+Sb3_HT_C_2,Sb3-C5,Sb3,ES-17-02,High,HT,Control,C,2,regrown,3
+Sb3_HT_C_3,Sb3-C6,Sb3,ES-17-02,High,HT,Control,C,3,regrown,3
+Sb3_HT_S_1,Sb3-S1,Sb3,ES-17-02,High,HT,Cold,S,1,original,3
+Sb3_HT_S_2,Sb3-S4,Sb3,ES-17-02,High,HT,Cold,S,2,regrown,3
+Sb3_HT_S_3,Sb3-S5,Sb3,ES-17-02,High,HT,Cold,S,3,regrown,3
+Sb4_LT_C_1,Sb4-C4,Sb4,GG12 338,Low,LT,Control,C,1,regrown,3
+Sb4_LT_C_2,Sb4-C5,Sb4,GG12 338,Low,LT,Control,C,2,regrown,3
+Sb4_LT_C_3,Sb4-C6,Sb4,GG12 338,Low,LT,Control,C,3,regrown,3
+Sb4_LT_S_1,Sb4-S4,Sb4,GG12 338,Low,LT,Cold,S,1,regrown,3
+Sb4_LT_S_2,Sb4-S5,Sb4,GG12 338,Low,LT,Cold,S,2,regrown,3
+Sb4_LT_S_3,Sb4-S6,Sb4,GG12 338,Low,LT,Cold,S,3,regrown,3
+Sb5_LT_C_1,Sb5-C1,Sb5,B18107,Low,LT,Control,C,1,original,3
+Sb5_LT_C_2,Sb5-C2,Sb5,B18107,Low,LT,Control,C,2,original,3
+Sb5_LT_C_3,Sb5-C3,Sb5,B18107,Low,LT,Control,C,3,original,3
+Sb5_LT_S_1,Sb5-S1,Sb5,B18107,Low,LT,Cold,S,1,original,3
+Sb5_LT_S_2,Sb5-S2,Sb5,B18107,Low,LT,Cold,S,2,original,3
+Sb5_LT_S_3,Sb5-S3,Sb5,B18107,Low,LT,Cold,S,3,original,3
+Sb6_HT_C_1,Sb6-C4,Sb6,GG12 477,High,HT,Control,C,1,regrown,3
+Sb6_HT_C_2,Sb6-C5,Sb6,GG12 477,High,HT,Control,C,2,regrown,3
+Sb6_HT_C_3,Sb6-C6,Sb6,GG12 477,High,HT,Control,C,3,regrown,3
+Sb6_HT_S_1,Sb6-S4,Sb6,GG12 477,High,HT,Cold,S,1,regrown,3
+Sb6_HT_S_2,Sb6-S5,Sb6,GG12 477,High,HT,Cold,S,2,regrown,3
+Sb6_HT_S_3,Sb6-S6,Sb6,GG12 477,High,HT,Cold,S,3,regrown,3

@@ -1,0 +1,6 @@
+"check","contrast","main_DEGs","sensitivity_DEGs","shared","jaccard"
+"M1 without Sb3-S1","cold_vs_control_low_tolerance",4780,4784,4752,0.988
+"M1 without Sb3-S1","cold_vs_control_high_tolerance",4008,4221,3864,0.885
+"M1 without Sb3-S1","cold_response_High_vs_Low",488,549,444,0.749
+"M3 + batch covariate","tolerance_High_vs_Low_control",563,1247,442,0.323
+"M3 + batch covariate","tolerance_High_vs_Low_cold",190,832,163,0.19

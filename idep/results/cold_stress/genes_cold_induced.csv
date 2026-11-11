@@ -1,0 +1,2043 @@
+gene_id,meaning,idep_label,symbol,entrez_id,chromosome,type,description
+SORBI_3001G003400,cold_induced,Downregulated,,8059240,1,C,Hypothetical protein
+SORBI_3001G008900,cold_induced,Downregulated,,8060858,1,C,Hypothetical protein
+SORBI_3001G009200,cold_induced,Downregulated,,8061399,1,C,Hypothetical protein
+SORBI_3001G009400,cold_induced,Downregulated,,8061400,1,C,Putative pentatricopeptide repeat-containing protein At1g03510
+SORBI_3001G009700,cold_induced,Downregulated,,8060863,1,C,Hypothetical protein
+SORBI_3001G010100,cold_induced,Downregulated,,8061402,1,C,Hypothetical protein
+SORBI_3001G010200,cold_induced,Downregulated,,110431261,1,C,Hypothetical protein
+SORBI_3001G011400,cold_induced,Downregulated,,8060869,1,C,Hypothetical protein
+SORBI_3001G011700,cold_induced,Downregulated,,8060870,1,C,Hypothetical protein
+SORBI_3001G012200,cold_induced,Downregulated,,8060873,1,C,Hypothetical protein
+SORBI_3001G012400,cold_induced,Downregulated,UGT85B1,8060874,1,C,
+SORBI_3001G012600,cold_induced,Downregulated,,110430191,1,C,Hypothetical protein
+SORBI_3001G012800,cold_induced,Downregulated,,8061415,1,C,Hypothetical protein
+SORBI_3001G013800,cold_induced,Downregulated,,8060878,1,C,Hypothetical protein
+SORBI_3001G015600,cold_induced,Downregulated,,8060890,1,C,Hypothetical protein
+SORBI_3001G017100,cold_induced,Downregulated,,110431230,1,C,Hypothetical protein
+SORBI_3001G017300,cold_induced,Downregulated,,8061642,1,C,Hypothetical protein
+SORBI_3001G019500,cold_induced,Downregulated,,8079654,1,C,Hypothetical protein
+SORBI_3001G020200,cold_induced,Downregulated,,8079658,1,C,Hypothetical protein
+SORBI_3001G020600,cold_induced,Downregulated,,8079659,1,C,Hypothetical protein
+SORBI_3001G021500,cold_induced,Downregulated,,8080185,1,C,Hypothetical protein
+SORBI_3001G023500,cold_induced,Downregulated,,8080196,1,C,Hypothetical protein
+SORBI_3001G023700,cold_induced,Downregulated,,110430456,1,C,Hypothetical protein
+SORBI_3001G025201,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G026900,cold_induced,Downregulated,,8079687,1,C,Hypothetical protein
+SORBI_3001G029600,cold_induced,Downregulated,,8079702,1,C,Hypothetical protein
+SORBI_3001G029800,cold_induced,Downregulated,,8079703,1,C,Hypothetical protein
+SORBI_3001G032900,cold_induced,Downregulated,,8057355,1,C,Hypothetical protein
+SORBI_3001G033300,cold_induced,Downregulated,,8057359,1,C,Hypothetical protein
+SORBI_3001G034100,cold_induced,Downregulated,,8057365,1,C,Similar to TA11 protein (Fragment)
+SORBI_3001G035000,cold_induced,Downregulated,,8057368,1,C,Hypothetical protein
+SORBI_3001G035100,cold_induced,Downregulated,,8057369,1,C,Hypothetical protein
+SORBI_3001G037400,cold_induced,Downregulated,,8057059,1,C,Hypothetical protein
+SORBI_3001G038200,cold_induced,Downregulated,,8057382,1,C,Hypothetical protein
+SORBI_3001G040200,cold_induced,Downregulated,NAC5,8057074,1,C,
+SORBI_3001G040600,cold_induced,Downregulated,,8057393,1,C,Hypothetical protein
+SORBI_3001G042500,cold_induced,Downregulated,,8061418,1,C,Hypothetical protein
+SORBI_3001G043000,cold_induced,Downregulated,,8061420,1,C,Hypothetical protein
+SORBI_3001G045600,cold_induced,Downregulated,,8057103,1,C,Hypothetical protein
+SORBI_3001G046000,cold_induced,Downregulated,,8057106,1,C,RbcX2
+SORBI_3001G046800,cold_induced,Downregulated,,8061123,1,C,Hypothetical protein
+SORBI_3001G059700,cold_induced,Downregulated,,8061181,1,C,Hypothetical protein
+SORBI_3001G062300,cold_induced,Downregulated,,8084125,1,C,Hypothetical protein
+SORBI_3001G063500,cold_induced,Downregulated,,8083907,1,C,Hypothetical protein
+SORBI_3001G063600,cold_induced,Downregulated,,8084132,1,C,Hypothetical protein
+SORBI_3001G064200,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G064500,cold_induced,Downregulated,,110430211,1,C,Hypothetical protein
+SORBI_3001G064900,cold_induced,Downregulated,,8083912,1,C,Hypothetical protein
+SORBI_3001G065800,cold_induced,Downregulated,,8083917,1,C,Hypothetical protein
+SORBI_3001G066000,cold_induced,Downregulated,,8084145,1,C,Hypothetical protein
+SORBI_3001G068600,cold_induced,Downregulated,,8084153,1,C,Hypothetical protein
+SORBI_3001G070000,cold_induced,Downregulated,,8084159,1,C,Hypothetical protein
+SORBI_3001G071700,cold_induced,Downregulated,,8084167,1,C,Hypothetical protein
+SORBI_3001G073300,cold_induced,Downregulated,,8084177,1,C,Hypothetical protein
+SORBI_3001G073800,cold_induced,Downregulated,,8083954,1,C,Hypothetical protein
+SORBI_3001G075600,cold_induced,Downregulated,,8083961,1,C,Hypothetical protein
+SORBI_3001G075800,cold_induced,Downregulated,,8084186,1,C,Hypothetical protein
+SORBI_3001G076900,cold_induced,Downregulated,,8086181,1,C,Hypothetical protein
+SORBI_3001G077300,cold_induced,Downregulated,,110431877,1,C,"Thioredoxin-like protein HCF164, chloroplastic"
+SORBI_3001G077400,cold_induced,Downregulated,,8086184,1,C,"Allene oxide synthase, chloroplastic"
+SORBI_3001G077600,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G077800,cold_induced,Downregulated,,8086186,1,C,Hypothetical protein
+SORBI_3001G079500,cold_induced,Downregulated,,8086194,1,C,Hypothetical protein
+SORBI_3001G080000,cold_induced,Downregulated,,8086197,1,C,Hypothetical protein
+SORBI_3001G081600,cold_induced,Downregulated,,8085908,1,C,Hypothetical protein
+SORBI_3001G082900,cold_induced,Downregulated,,8086210,1,C,Hypothetical protein
+SORBI_3001G084000,cold_induced,Downregulated,,8086215,1,C,Hypothetical protein
+SORBI_3001G084100,cold_induced,Downregulated,,110436990,1,C,Hypothetical protein
+SORBI_3001G084400,cold_induced,Downregulated,,8086217,1,C,Hypothetical protein
+SORBI_3001G084500,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G086200,cold_induced,Downregulated,,8085923,1,C,Hypothetical protein
+SORBI_3001G086800,cold_induced,Downregulated,,8086230,1,C,Hypothetical protein
+SORBI_3001G087700,cold_induced,Downregulated,,8086239,1,C,Oligopeptide transporter
+SORBI_3001G088300,cold_induced,Downregulated,,8085933,1,C,Hypothetical protein
+SORBI_3001G093500,cold_induced,Downregulated,,110431858,1,C,Hypothetical protein
+SORBI_3001G095700,cold_induced,Downregulated,,8060491,1,C,Hypothetical protein
+SORBI_3001G095900,cold_induced,Downregulated,,110431682,1,C,Hypothetical protein
+SORBI_3001G096400,cold_induced,Downregulated,,8060497,1,C,Hypothetical protein
+SORBI_3001G098000,cold_induced,Downregulated,,110434988,1,C,Hypothetical protein
+SORBI_3001G098600,cold_induced,Downregulated,,8085974,1,C,Hypothetical protein
+SORBI_3001G099100,cold_induced,Downregulated,,8085976,1,C,Hypothetical protein
+SORBI_3001G100501,cold_induced,Downregulated,,8060516,1,C,Hypothetical protein
+SORBI_3001G100600,cold_induced,Downregulated,,8060517,1,C,Hypothetical protein
+SORBI_3001G102800,cold_induced,Downregulated,,8060526,1,C,Hypothetical protein
+SORBI_3001G102901,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G103000,cold_induced,Downregulated,,8059952,1,C,Hypothetical protein
+SORBI_3001G103200,cold_induced,Downregulated,,8060529,1,C,Hypothetical protein
+SORBI_3001G105000,cold_induced,Downregulated,,8059961,1,C,Hypothetical protein
+SORBI_3001G108700,cold_induced,Downregulated,,8063351,1,C,Hypothetical protein
+SORBI_3001G109000,cold_induced,Downregulated,,8063354,1,C,Hypothetical protein
+SORBI_3001G111700,cold_induced,Downregulated,,8059995,1,C,Hypothetical protein
+SORBI_3001G112600,cold_induced,Downregulated,,110436378,1,C,Actin 1
+SORBI_3001G117600,cold_induced,Downregulated,,8062910,1,C,Pentatricopeptide repeat-containing protein At4g22760
+SORBI_3001G120100,cold_induced,Downregulated,,110433930,1,C,Hypothetical protein
+SORBI_3001G122200,cold_induced,Downregulated,,8063408,1,C,SET domain group 37
+SORBI_3001G122900,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G123500,cold_induced,Downregulated,,8062938,1,C,Hypothetical protein
+SORBI_3001G124600,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G125800,cold_induced,Downregulated,,8063420,1,C,Hypothetical protein
+SORBI_3001G128000,cold_induced,Downregulated,,8054128,1,C,Hypothetical protein
+SORBI_3001G128100,cold_induced,Downregulated,,8062954,1,C,Hypothetical protein
+SORBI_3001G131200,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G134000,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G134100,cold_induced,Downregulated,,8067264,1,C,"CBM48 domain-containing protein, Compound granule formation and starch synthesi"
+SORBI_3001G134500,cold_induced,Downregulated,,8067265,1,C,Hypothetical protein
+SORBI_3001G138600,cold_induced,Downregulated,,8054180,1,C,Hypothetical protein
+SORBI_3001G139300,cold_induced,Downregulated,,8056726,1,C,Hypothetical protein
+SORBI_3001G142800,cold_induced,Downregulated,,8057181,1,C,Hypothetical protein
+SORBI_3001G143000,cold_induced,Downregulated,,8056746,1,C,Hypothetical protein
+SORBI_3001G143100,cold_induced,Downregulated,,8056747,1,C,Hypothetical protein
+SORBI_3001G144100,cold_induced,Downregulated,,8057187,1,C,Hypothetical protein
+SORBI_3001G145200,cold_induced,Downregulated,,8057194,1,C,Hypothetical protein
+SORBI_3001G146200,cold_induced,Downregulated,,8056760,1,C,Hypothetical protein
+SORBI_3001G146400,cold_induced,Downregulated,,110434425,1,C,Hypothetical protein
+SORBI_3001G146500,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G153200,cold_induced,Downregulated,,8062196,1,C,Hypothetical protein
+SORBI_3001G155300,cold_induced,Downregulated,,8062208,1,C,Hypothetical protein
+SORBI_3001G157100,cold_induced,Downregulated,,8062214,1,C,Hypothetical protein
+SORBI_3001G157400,cold_induced,Downregulated,,8062217,1,C,Hypothetical protein
+SORBI_3001G157900,cold_induced,Downregulated,,8062222,1,C,Hypothetical protein
+SORBI_3001G158200,cold_induced,Downregulated,,8062224,1,C,Hypothetical protein
+SORBI_3001G158900,cold_induced,Downregulated,,8062228,1,C,Hypothetical protein
+SORBI_3001G159300,cold_induced,Downregulated,,8062462,1,C,Hypothetical protein
+SORBI_3001G160800,cold_induced,Downregulated,,8062471,1,C,Hypothetical protein
+SORBI_3001G161500,cold_induced,Downregulated,,8062245,1,C,Hypothetical protein
+SORBI_3001G166300,cold_induced,Downregulated,,8062260,1,C,Hypothetical protein
+SORBI_3001G166401,cold_induced,Downregulated,,8062261,1,C,Hypothetical protein
+SORBI_3001G170700,cold_induced,Downregulated,,8062524,1,C,Hypothetical protein
+SORBI_3001G172050,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G172400,cold_induced,Downregulated,,8062533,1,C,Hypothetical protein
+SORBI_3001G173900,cold_induced,Downregulated,,8064528,1,C,Hypothetical protein
+SORBI_3001G180200,cold_induced,Downregulated,,8064554,1,C,Hypothetical protein
+SORBI_3001G183000,cold_induced,Downregulated,,8063020,1,C,Hypothetical protein
+SORBI_3001G184300,cold_induced,Downregulated,,8065637,1,C,Hypothetical protein
+SORBI_3001G185500,cold_induced,Downregulated,,110434510,1,C,Hypothetical protein
+SORBI_3001G185600,cold_induced,Downregulated,,8065645,1,C,Hypothetical protein
+SORBI_3001G185800,cold_induced,Downregulated,,8065646,1,C,Hypothetical protein
+SORBI_3001G186401,cold_induced,Downregulated,,110431722,1,C,Hypothetical protein
+SORBI_3001G186500,cold_induced,Downregulated,,8065649,1,C,Hypothetical protein
+SORBI_3001G187700,cold_induced,Downregulated,,8065658,1,C,Hypothetical protein
+SORBI_3001G192100,cold_induced,Downregulated,,8065151,1,C,Hypothetical protein
+SORBI_3001G192400,cold_induced,Downregulated,,8065684,1,C,Hypothetical protein
+SORBI_3001G192800,cold_induced,Downregulated,,8065153,1,C,Hypothetical protein
+SORBI_3001G194300,cold_induced,Downregulated,,8065696,1,C,Hypothetical protein
+SORBI_3001G195000,cold_induced,Downregulated,,8065160,1,C,Hypothetical protein
+SORBI_3001G195100,cold_induced,Downregulated,,8065851,1,C,Hypothetical protein
+SORBI_3001G195800,cold_induced,Downregulated,,8065167,1,C,At4g10380
+SORBI_3001G196900,cold_induced,Downregulated,,8065860,1,C,Hypothetical protein
+SORBI_3001G198000,cold_induced,Downregulated,,8065180,1,C,Hypothetical protein
+SORBI_3001G199632,cold_induced,Downregulated,,8065188,1,C,Hypothetical protein
+SORBI_3001G201000,cold_induced,Downregulated,,8067074,1,C,Hypothetical protein
+SORBI_3001G202600,cold_induced,Downregulated,,8067086,1,C,Hypothetical protein
+SORBI_3001G207700,cold_induced,Downregulated,,8065819,1,C,Hypothetical protein
+SORBI_3001G207800,cold_induced,Downregulated,,8067103,1,C,Hypothetical protein
+SORBI_3001G209000,cold_induced,Downregulated,,8067106,1,C,Hypothetical protein
+SORBI_3001G209800,cold_induced,Downregulated,,8067112,1,C,Hypothetical protein
+SORBI_3001G212300,cold_induced,Downregulated,,8067384,1,C,Hypothetical protein
+SORBI_3001G212350,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G214000,cold_induced,Downregulated,,8067129,1,C,"Dicer-like protein, Phased small RNA biogenesi"
+SORBI_3001G214100,cold_induced,Downregulated,,110433106,1,C,Hypothetical protein
+SORBI_3001G215600,cold_induced,Downregulated,,8067400,1,C,Hypothetical protein
+SORBI_3001G217000,cold_induced,Downregulated,,8067405,1,C,Hypothetical protein
+SORBI_3001G217200,cold_induced,Downregulated,,8070476,1,C,Hypothetical protein
+SORBI_3001G221400,cold_induced,Downregulated,,8070493,1,C,Hypothetical protein
+SORBI_3001G221800,cold_induced,Downregulated,,110437003,1,C,Hypothetical protein
+SORBI_3001G224700,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G230400,cold_induced,Downregulated,,8059278,1,C,Hypothetical protein
+SORBI_3001G233400,cold_induced,Downregulated,,8071382,1,C,Hypothetical protein
+SORBI_3001G239400,cold_induced,Downregulated,,8067362,1,C,Hypothetical protein
+SORBI_3001G239500,cold_induced,Downregulated,,8067363,1,C,"Starch synthase, chloroplastic/amyloplastic (Fragment)"
+SORBI_3001G242600,cold_induced,Downregulated,,8064883,1,C,Hypothetical protein
+SORBI_3001G242900,cold_induced,Downregulated,,8064886,1,C,"Cys2/His2-type zinc finger transcription factor, Heading dat"
+SORBI_3001G244200,cold_induced,Downregulated,,8064894,1,C,Hypothetical protein
+SORBI_3001G244600,cold_induced,Downregulated,,8064896,1,C,Hypothetical protein
+SORBI_3001G244700,cold_induced,Downregulated,,8059455,1,C,Hypothetical protein
+SORBI_3001G244800,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G247300,cold_induced,Downregulated,,8064910,1,C,Hypothetical protein
+SORBI_3001G249500,cold_induced,Downregulated,,8064923,1,C,Hypothetical protein
+SORBI_3001G249600,cold_induced,Downregulated,,8066146,1,C,Hypothetical protein
+SORBI_3001G250200,cold_induced,Downregulated,,8075872,1,C,Hypothetical protein
+SORBI_3001G253900,cold_induced,Downregulated,,8067537,1,C,Hypothetical protein
+SORBI_3001G254600,cold_induced,Downregulated,,8076604,1,C,Hypothetical protein
+SORBI_3001G259600,cold_induced,Downregulated,,8067865,1,C,Hypothetical protein
+SORBI_3001G259700,cold_induced,Downregulated,,8067866,1,C,Hypothetical protein
+SORBI_3001G261476,cold_induced,Downregulated,Sb0012s006000,8155683,1,C,
+SORBI_3001G263100,cold_induced,Downregulated,,8059661,1,C,Hypothetical protein
+SORBI_3001G263900,cold_induced,Downregulated,,8083829,1,C,Hypothetical protein
+SORBI_3001G264700,cold_induced,Downregulated,,8062787,1,C,Hypothetical protein
+SORBI_3001G267400,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G273100,cold_induced,Downregulated,,8083605,1,C,Hypothetical protein
+SORBI_3001G273700,cold_induced,Downregulated,,8083613,1,C,Hypothetical protein
+SORBI_3001G274600,cold_induced,Downregulated,,8083891,1,C,Hypothetical protein
+SORBI_3001G276300,cold_induced,Downregulated,,8083635,1,C,Hypothetical protein
+SORBI_3001G276400,cold_induced,Downregulated,,8083636,1,C,Hypothetical protein
+SORBI_3001G279300,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G282800,cold_induced,Downregulated,,8055123,1,C,Hypothetical protein
+SORBI_3001G283100,cold_induced,Downregulated,,110431860,1,C,Hypothetical protein
+SORBI_3001G283300,cold_induced,Downregulated,,8055127,1,C,Hypothetical protein
+SORBI_3001G284400,cold_induced,Downregulated,,8086289,1,C,"H3K9 demethylase, Floral organ developmen"
+SORBI_3001G286000,cold_induced,Downregulated,,8055595,1,C,Hypothetical protein
+SORBI_3001G287600,cold_induced,Downregulated,,8055143,1,C,Hypothetical protein
+SORBI_3001G288100,cold_induced,Downregulated,,8055146,1,C,Hypothetical protein
+SORBI_3001G288900,cold_induced,Downregulated,,8055150,1,C,Hypothetical protein
+SORBI_3001G289500,cold_induced,Downregulated,,8055153,1,C,AT4g27600/T29A15_90
+SORBI_3001G292400,cold_induced,Downregulated,,8058050,1,C,Hypothetical protein
+SORBI_3001G295100,cold_induced,Downregulated,,8055632,1,C,Hypothetical protein
+SORBI_3001G295700,cold_induced,Downregulated,,8055636,1,C,Hypothetical protein
+SORBI_3001G295900,cold_induced,Downregulated,,8055637,1,C,Hypothetical protein
+SORBI_3001G296300,cold_induced,Downregulated,,8055639,1,C,Hypothetical protein
+SORBI_3001G297500,cold_induced,Downregulated,,8058075,1,C,Transcription factor KUA1
+SORBI_3001G298100,cold_induced,Downregulated,,8055649,1,C,Hypothetical protein
+SORBI_3001G298400,cold_induced,Downregulated,,8058078,1,C,Hypothetical protein
+SORBI_3001G300400,cold_induced,Downregulated,,8058088,1,C,Hypothetical protein
+SORBI_3001G300500,cold_induced,Downregulated,,8055660,1,C,Hypothetical protein
+SORBI_3001G300700,cold_induced,Downregulated,,8058089,1,C,Hypothetical protein
+SORBI_3001G300800,cold_induced,Downregulated,,8055661,1,C,Hypothetical protein
+SORBI_3001G301500,cold_induced,Downregulated,,8058096,1,C,Hypothetical protein
+SORBI_3001G301600,cold_induced,Downregulated,,8058097,1,C,Hypothetical protein
+SORBI_3001G302200,cold_induced,Downregulated,,8058099,1,C,Hypothetical protein
+SORBI_3001G303000,cold_induced,Downregulated,,8058747,1,C,Hypothetical protein
+SORBI_3001G304600,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G305100,cold_induced,Downregulated,,8058760,1,C,Pectin acetylesterase 9
+SORBI_3001G309900,cold_induced,Downregulated,,8062849,1,C,Hypothetical protein
+SORBI_3001G312600,cold_induced,Downregulated,MLO,8062857,1,C,
+SORBI_3001G313000,cold_induced,Downregulated,,8058808,1,C,Hypothetical protein
+SORBI_3001G314800,cold_induced,Downregulated,,8062610,1,C,Hypothetical protein
+SORBI_3001G315000,cold_induced,Downregulated,,8062870,1,C,Hypothetical protein
+SORBI_3001G316300,cold_induced,Downregulated,,8062614,1,C,Hypothetical protein
+SORBI_3001G316900,cold_induced,Downregulated,,8062618,1,C,Hypothetical protein
+SORBI_3001G317600,cold_induced,Downregulated,,8062882,1,C,Hypothetical protein
+SORBI_3001G317800,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G319500,cold_induced,Downregulated,,8063176,1,C,Hypothetical protein
+SORBI_3001G319800,cold_induced,Downregulated,,8062888,1,C,Hypothetical protein
+SORBI_3001G320500,cold_induced,Downregulated,,8063178,1,C,Hypothetical protein
+SORBI_3001G321800,cold_induced,Downregulated,,8062895,1,C,Hypothetical protein
+SORBI_3001G322100,cold_induced,Downregulated,,8062897,1,C,Hypothetical protein
+SORBI_3001G322200,cold_induced,Downregulated,,8063187,1,C,Hypothetical protein
+SORBI_3001G322500,cold_induced,Downregulated,,8062898,1,C,Trehalase
+SORBI_3001G322832,cold_induced,Downregulated,,8062901,1,C,Hypothetical protein
+SORBI_3001G324900,cold_induced,Downregulated,,8066230,1,C,Hypothetical protein
+SORBI_3001G328500,cold_induced,Downregulated,,8063213,1,C,Hypothetical protein
+SORBI_3001G329400,cold_induced,Downregulated,,8063217,1,C,Hypothetical protein
+SORBI_3001G330100,cold_induced,Downregulated,,8066257,1,C,Hypothetical protein
+SORBI_3001G331500,cold_induced,Downregulated,,8066267,1,C,Hypothetical protein
+SORBI_3001G331600,cold_induced,Downregulated,,8066268,1,C,Hypothetical protein
+SORBI_3001G332400,cold_induced,Downregulated,,8066273,1,C,Hypothetical protein
+SORBI_3001G333600,cold_induced,Downregulated,,8066034,1,C,Hypothetical protein
+SORBI_3001G334900,cold_induced,Downregulated,,8066286,1,C,Hypothetical protein
+SORBI_3001G335800,cold_induced,Downregulated,,8066041,1,C,Hypothetical protein
+SORBI_3001G336700,cold_induced,Downregulated,,8070042,1,C,BRITTLE CULM1
+SORBI_3001G338500,cold_induced,Downregulated,,8070048,1,C,Hypothetical protein
+SORBI_3001G338700,cold_induced,Downregulated,,8070049,1,C,Similar to Potential histone-like transcription factor
+SORBI_3001G341600,cold_induced,Downregulated,,8077059,1,C,Hypothetical protein
+SORBI_3001G342400,cold_induced,Downregulated,,8077061,1,C,Hypothetical protein
+SORBI_3001G343300,cold_induced,Downregulated,,8077069,1,C,Hypothetical protein
+SORBI_3001G344700,cold_induced,Downregulated,,8080436,1,C,Hypothetical protein
+SORBI_3001G344800,cold_induced,Downregulated,,8077079,1,C,Hypothetical protein
+SORBI_3001G344900,cold_induced,Downregulated,,8077080,1,C,Hypothetical protein
+SORBI_3001G345100,cold_induced,Downregulated,,8077081,1,C,Hypothetical protein
+SORBI_3001G345900,cold_induced,Downregulated,,8077087,1,C,Hypothetical protein
+SORBI_3001G346100,cold_induced,Downregulated,,8077089,1,C,Hypothetical protein
+SORBI_3001G347400,cold_induced,Downregulated,,8077100,1,C,Hypothetical protein
+SORBI_3001G349650,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G349700,cold_induced,Downregulated,,8080455,1,C,Hypothetical protein
+SORBI_3001G350700,cold_induced,Downregulated,,8077115,1,C,"Serine/threonine protein kinase, Hyperosmotic stress respons"
+SORBI_3001G350900,cold_induced,Downregulated,,8080458,1,C,Hypothetical protein
+SORBI_3001G351000,cold_induced,Downregulated,,8077116,1,C,Hypothetical protein
+SORBI_3001G356800,cold_induced,Downregulated,,8080477,1,C,Hypothetical protein
+SORBI_3001G358300,cold_induced,Downregulated,,8080488,1,C,Hypothetical protein
+SORBI_3001G359300,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G361700,cold_induced,Downregulated,,8082605,1,C,Hypothetical protein
+SORBI_3001G366100,cold_induced,Downregulated,,8082622,1,C,Hypothetical protein
+SORBI_3001G366200,cold_induced,Downregulated,,8082623,1,C,Hypothetical protein
+SORBI_3001G366500,cold_induced,Downregulated,,8080808,1,C,Hypothetical protein
+SORBI_3001G368900,cold_induced,Downregulated,,8082643,1,C,Hypothetical protein
+SORBI_3001G370600,cold_induced,Downregulated,,110431599,1,C,Hypothetical protein
+SORBI_3001G371700,cold_induced,Downregulated,,110431891,1,C,Hypothetical protein
+SORBI_3001G373900,cold_induced,Downregulated,,8082297,1,C,Hypothetical protein
+SORBI_3001G379900,cold_induced,Downregulated,,8082329,1,C,Hypothetical protein
+SORBI_3001G380900,cold_induced,Downregulated,,8083663,1,C,Hypothetical protein
+SORBI_3001G381700,cold_induced,Downregulated,,8082343,1,C,Hypothetical protein
+SORBI_3001G381800,cold_induced,Downregulated,,8083665,1,C,Hypothetical protein
+SORBI_3001G382400,cold_induced,Downregulated,,8082347,1,C,Hypothetical protein
+SORBI_3001G383700,cold_induced,Downregulated,,110429587,1,C,Hypothetical protein
+SORBI_3001G383800,cold_induced,Downregulated,,8083673,1,C,Hypothetical protein
+SORBI_3001G386000,cold_induced,Downregulated,,8083682,1,C,Hypothetical protein
+SORBI_3001G389600,cold_induced,Downregulated,,8055909,1,C,Hypothetical protein
+SORBI_3001G390200,cold_induced,Downregulated,CIPK27,8055912,1,C,
+SORBI_3001G391200,cold_induced,Downregulated,,8066991,1,C,Non-intrinsic ABC protein 9
+SORBI_3001G391300,cold_induced,Downregulated,,8081053,1,C,Hypothetical protein
+SORBI_3001G391500,cold_induced,Downregulated,,8083710,1,C,MYB transcription factor
+SORBI_3001G393200,cold_induced,Downregulated,,8081064,1,C,Hypothetical protein
+SORBI_3001G393500,cold_induced,Downregulated,,8081068,1,C,Calcium-binding protein CP1
+SORBI_3001G397700,cold_induced,Downregulated,,8084000,1,C,Hypothetical protein
+SORBI_3001G397800,cold_induced,Downregulated,,8081086,1,C,Hypothetical protein
+SORBI_3001G399900,cold_induced,Downregulated,,8081101,1,C,Hypothetical protein
+SORBI_3001G400400,cold_induced,Downregulated,,8084011,1,C,Hypothetical protein
+SORBI_3001G401600,cold_induced,Downregulated,,8084015,1,C,Hypothetical protein
+SORBI_3001G402200,cold_induced,Downregulated,,8081112,1,C,Short-chain dehydrogenase reductase 2a
+SORBI_3001G405000,cold_induced,Downregulated,,110432484,1,C,Hypothetical protein
+SORBI_3001G405400,cold_induced,Downregulated,,110436581,1,C,Hypothetical protein
+SORBI_3001G405800,cold_induced,Downregulated,,8084717,1,C,TMS1
+SORBI_3001G406100,cold_induced,Downregulated,,8081428,1,C,Mitochondrial succinate-fumarate transporter 1
+SORBI_3001G406300,cold_induced,Downregulated,,8081429,1,C,Hypothetical protein
+SORBI_3001G407000,cold_induced,Downregulated,,8081434,1,C,TRICHOME BIREFRINGENCE-LIKE 45
+SORBI_3001G407600,cold_induced,Downregulated,,8084033,1,C,Hypothetical protein
+SORBI_3001G409100,cold_induced,Downregulated,,8084039,1,C,Hypothetical protein
+SORBI_3001G409300,cold_induced,Downregulated,,8084040,1,C,Hypothetical protein
+SORBI_3001G409700,cold_induced,Downregulated,,8084881,1,C,Hypothetical protein
+SORBI_3001G411200,cold_induced,Downregulated,,8081451,1,C,Hypothetical protein
+SORBI_3001G415000,cold_induced,Downregulated,,8081466,1,C,Hypothetical protein
+SORBI_3001G416600,cold_induced,Downregulated,,8084911,1,C,Hypothetical protein
+SORBI_3001G418000,cold_induced,Downregulated,,8084919,1,C,Hypothetical protein
+SORBI_3001G420100,cold_induced,Downregulated,,8084930,1,C,Hypothetical protein
+SORBI_3001G421500,cold_induced,Downregulated,,8081507,1,C,Hypothetical protein
+SORBI_3001G422850,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G425300,cold_induced,Downregulated,,8085601,1,C,Hypothetical protein
+SORBI_3001G425750,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G429000,cold_induced,Downregulated,,8054297,1,C,Hypothetical protein
+SORBI_3001G429700,cold_induced,Downregulated,,8054303,1,C,Hypothetical protein
+SORBI_3001G431500,cold_induced,Downregulated,,8078830,1,C,Hypothetical protein
+SORBI_3001G434000,cold_induced,Downregulated,,8078838,1,C,Hypothetical protein
+SORBI_3001G435800,cold_induced,Downregulated,,110433394,1,C,Hypothetical protein
+SORBI_3001G436500,cold_induced,Downregulated,Sb0186s002010,8155605,1,C,
+SORBI_3001G436600,cold_induced,Downregulated,,8078849,1,C,Hypothetical protein
+SORBI_3001G437500,cold_induced,Downregulated,,8054345,1,C,Hypothetical protein
+SORBI_3001G439200,cold_induced,Downregulated,,8078857,1,C,Hypothetical protein
+SORBI_3001G440200,cold_induced,Downregulated,,110436870,1,C,Hypothetical protein
+SORBI_3001G440500,cold_induced,Downregulated,,8078863,1,C,Hypothetical protein
+SORBI_3001G440600,cold_induced,Downregulated,,8056821,1,C,Hypothetical protein
+SORBI_3001G441100,cold_induced,Downregulated,,8056822,1,C,Hypothetical protein
+SORBI_3001G442300,cold_induced,Downregulated,,8056827,1,C,Hypothetical protein
+SORBI_3001G445700,cold_induced,Downregulated,,8056845,1,C,Hypothetical protein
+SORBI_3001G445900,cold_induced,Downregulated,,8056846,1,C,Cytochrome P450 90B1
+SORBI_3001G446100,cold_induced,Downregulated,,8085243,1,C,Hypothetical protein
+SORBI_3001G446200,cold_induced,Downregulated,,8085244,1,C,Hypothetical protein
+SORBI_3001G446850,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G447400,cold_induced,Downregulated,,8085250,1,C,Hypothetical protein
+SORBI_3001G447600,cold_induced,Downregulated,,8056854,1,C,Hypothetical protein
+SORBI_3001G449100,cold_induced,Downregulated,,8085263,1,C,Hypothetical protein
+SORBI_3001G450300,cold_induced,Downregulated,,8085271,1,C,Hypothetical protein
+SORBI_3001G450500,cold_induced,Downregulated,,8056863,1,C,Hypothetical protein
+SORBI_3001G450700,cold_induced,Downregulated,,8085272,1,C,Similar to HSP protein (Fragment)
+SORBI_3001G451500,cold_induced,Downregulated,gs,8056868,1,C,
+SORBI_3001G451700,cold_induced,Downregulated,,8085277,1,C,Hypothetical protein
+SORBI_3001G451800,cold_induced,Downregulated,,8056870,1,C,Hypothetical protein
+SORBI_3001G453200,cold_induced,Downregulated,,8085289,1,C,Hypothetical protein
+SORBI_3001G454700,cold_induced,Downregulated,,8056882,1,C,Hypothetical protein
+SORBI_3001G456400,cold_induced,Downregulated,,8085306,1,C,Hypothetical protein
+SORBI_3001G460000,cold_induced,Downregulated,,8067460,1,C,Hypothetical protein
+SORBI_3001G460700,cold_induced,Downregulated,,110431807,1,C,Hypothetical protein
+SORBI_3001G461000,cold_induced,Downregulated,,8054215,1,C,Hypothetical protein
+SORBI_3001G462800,cold_induced,Downregulated,,8054222,1,C,Hypothetical protein
+SORBI_3001G463100,cold_induced,Downregulated,,8081858,1,C,Hypothetical protein
+SORBI_3001G463301,cold_induced,Downregulated,,8081859,1,C,Hypothetical protein
+SORBI_3001G464000,cold_induced,Downregulated,,8081864,1,C,Hypothetical protein
+SORBI_3001G464800,cold_induced,Downregulated,,8054229,1,C,Hypothetical protein
+SORBI_3001G464900,cold_induced,Downregulated,,8081867,1,C,Hypothetical protein
+SORBI_3001G469600,cold_induced,Downregulated,,8054251,1,C,Hypothetical protein
+SORBI_3001G469700,cold_induced,Downregulated,,110431824,1,C,Undecaprenyl pyrophosphate synthetase family protein
+SORBI_3001G470000,cold_induced,Downregulated,,8081887,1,C,Hypothetical protein
+SORBI_3001G470600,cold_induced,Downregulated,,8081890,1,C,Hypothetical protein
+SORBI_3001G471800,cold_induced,Downregulated,,8081894,1,C,Hypothetical protein
+SORBI_3001G472800,cold_induced,Downregulated,,110432775,1,C,Hypothetical protein
+SORBI_3001G476100,cold_induced,Downregulated,,8081992,1,C,Hypothetical protein
+SORBI_3001G476700,cold_induced,Downregulated,,8081995,1,C,Hypothetical protein
+SORBI_3001G477300,cold_induced,Downregulated,,8057641,1,C,FIP1
+SORBI_3001G481100,cold_induced,Downregulated,,8057668,1,C,Hypothetical protein
+SORBI_3001G481850,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G481900,cold_induced,Downregulated,,8057670,1,C,Hypothetical protein
+SORBI_3001G482100,cold_induced,Downregulated,,8057672,1,C,Hypothetical protein
+SORBI_3001G482600,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G482700,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G482800,cold_induced,Downregulated,,8059788,1,C,"TIFY domain-containing transcriptional regulator, Salt and dehydration stress toleranc"
+SORBI_3001G485100,cold_induced,Downregulated,,8082025,1,C,Hypothetical protein
+SORBI_3001G486100,cold_induced,Downregulated,,,1,C,Hypothetical protein
+SORBI_3001G489000,cold_induced,Downregulated,,8082115,1,C,Hypothetical protein
+SORBI_3001G489075,cold_induced,Downregulated,,8082116,1,C,Hypothetical protein
+SORBI_3001G489500,cold_induced,Downregulated,,8059815,1,C,Hypothetical protein
+SORBI_3001G489600,cold_induced,Downregulated,,8082119,1,C,Hypothetical protein
+SORBI_3001G496200,cold_induced,Downregulated,,8082148,1,C,Hypothetical protein
+SORBI_3001G498000,cold_induced,Downregulated,,8059859,1,C,Hypothetical protein
+SORBI_3001G499100,cold_induced,Downregulated,,8080533,1,C,ABC transporter G family member 22
+SORBI_3001G501100,cold_induced,Downregulated,,8080546,1,C,Hypothetical protein
+SORBI_3001G508800,cold_induced,Downregulated,,8080586,1,C,Hypothetical protein
+SORBI_3001G509300,cold_induced,Downregulated,,8085508,1,C,Hypothetical protein
+SORBI_3001G512200,cold_induced,Downregulated,,8085526,1,C,Hypothetical protein
+SORBI_3001G514800,cold_induced,Downregulated,,8085673,1,C,Hypothetical protein
+SORBI_3001G518800,cold_induced,Downregulated,,8061436,1,C,Hypothetical protein
+SORBI_3001G519800,cold_induced,Downregulated,,110431784,1,C,Hypothetical protein
+SORBI_3001G520800,cold_induced,Downregulated,,8061441,1,C,Hypothetical protein
+SORBI_3001G521200,cold_induced,Downregulated,,8085699,1,C,Hypothetical protein
+SORBI_3001G522300,cold_induced,Downregulated,,8061447,1,C,Hypothetical protein
+SORBI_3001G522500,cold_induced,Downregulated,,8085705,1,C,Hypothetical protein
+SORBI_3001G523000,cold_induced,Downregulated,,110431728,1,C,Hypothetical protein
+SORBI_3001G523200,cold_induced,Downregulated,CIPK09,8085707,1,C,
+SORBI_3001G526000,cold_induced,Downregulated,,8061645,1,C,Hypothetical protein
+SORBI_3001G526200,cold_induced,Downregulated,,8077964,1,C,Homeobox protein knotted-1-like 7
+SORBI_3001G528100,cold_induced,Downregulated,,8085726,1,C,Hypothetical protein
+SORBI_3001G532501,cold_induced,Downregulated,,8078000,1,C,Hypothetical protein
+SORBI_3001G533200,cold_induced,Downregulated,,8059485,1,C,Hypothetical protein
+SORBI_3001G534532,cold_induced,Downregulated,,8059492,1,C,Hypothetical protein
+SORBI_3001G536600,cold_induced,Downregulated,,8078019,1,C,Hypothetical protein
+SORBI_3001G538866,cold_induced,Downregulated,,8078033,1,C,Hypothetical protein
+SORBI_3001G540300,cold_induced,Downregulated,,8059519,1,C,Hypothetical protein
+SORBI_3001G540900,cold_induced,Downregulated,,8059525,1,C,Hypothetical protein
+SORBI_3001G543500,cold_induced,Downregulated,,110431939,1,C,Hypothetical protein
+SORBI_3001G543600,cold_induced,Downregulated,,8059541,1,C,TRN2
+SORBI_3001G544400,cold_induced,Downregulated,,8059544,1,C,Hypothetical protein
+SORBI_3002G001100,cold_induced,Downregulated,,8054485,2,C,Hypothetical protein
+SORBI_3002G001900,cold_induced,Downregulated,,8081577,2,C,Hypothetical protein
+SORBI_3002G002300,cold_induced,Downregulated,,8081578,2,C,Hypothetical protein
+SORBI_3002G008200,cold_induced,Downregulated,,8054518,2,C,Hypothetical protein
+SORBI_3002G009000,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G017500,cold_induced,Downregulated,,8084283,2,C,Hypothetical protein
+SORBI_3002G018300,cold_induced,Downregulated,,8084289,2,C,Hypothetical protein
+SORBI_3002G020200,cold_induced,Downregulated,,8059889,2,C,Hypothetical protein
+SORBI_3002G020500,cold_induced,Downregulated,,8059891,2,C,Hypothetical protein
+SORBI_3002G021300,cold_induced,Downregulated,,8059898,2,C,Hypothetical protein
+SORBI_3002G025300,cold_induced,Downregulated,,8059922,2,C,Hypothetical protein
+SORBI_3002G026200,cold_induced,Downregulated,,8086379,2,C,Hypothetical protein
+SORBI_3002G030300,cold_induced,Downregulated,,8079912,2,C,Hypothetical protein
+SORBI_3002G036900,cold_induced,Downregulated,,8081129,2,C,Hypothetical protein
+SORBI_3002G041000,cold_induced,Downregulated,,8086434,2,C,Hypothetical protein
+SORBI_3002G041100,cold_induced,Downregulated,,8081150,2,C,Hypothetical protein
+SORBI_3002G043400,cold_induced,Downregulated,,110432417,2,C,Hypothetical protein
+SORBI_3002G043800,cold_induced,Downregulated,,8081163,2,C,Hypothetical protein
+SORBI_3002G045200,cold_induced,Downregulated,,8060699,2,C,Hypothetical protein
+SORBI_3002G047400,cold_induced,Downregulated,,8060709,2,C,"Protein MET1, chloroplastic"
+SORBI_3002G050700,cold_induced,Downregulated,,8081186,2,C,Hypothetical protein
+SORBI_3002G050900,cold_induced,Downregulated,,8060727,2,C,Hypothetical protein
+SORBI_3002G052000,cold_induced,Downregulated,,8060733,2,C,Hypothetical protein
+SORBI_3002G055900,cold_induced,Downregulated,,8056625,2,C,Hypothetical protein
+SORBI_3002G056500,cold_induced,Downregulated,,8060760,2,C,Hypothetical protein
+SORBI_3002G057600,cold_induced,Downregulated,,8060769,2,C,Hypothetical protein
+SORBI_3002G062000,cold_induced,Downregulated,,8063635,2,C,Hypothetical protein
+SORBI_3002G068500,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G068800,cold_induced,Downregulated,,8075086,2,C,Hypothetical protein
+SORBI_3002G072500,cold_induced,Downregulated,,8063691,2,C,Hypothetical protein
+SORBI_3002G073600,cold_induced,Downregulated,,8078419,2,C,Hypothetical protein
+SORBI_3002G073700,cold_induced,Downregulated,,8078421,2,C,Hypothetical protein
+SORBI_3002G075500,cold_induced,Downregulated,,8069092,2,C,Hypothetical protein
+SORBI_3002G077100,cold_induced,Downregulated,,8069101,2,C,Hypothetical protein
+SORBI_3002G080100,cold_induced,Downregulated,NAC25,8069118,2,C,
+SORBI_3002G082600,cold_induced,Downregulated,,110432161,2,C,Hypothetical protein
+SORBI_3002G085100,cold_induced,Downregulated,,8069137,2,C,Hypothetical protein
+SORBI_3002G085400,cold_induced,Downregulated,,8081774,2,C,Hypothetical protein
+SORBI_3002G088200,cold_induced,Downregulated,,8081792,2,C,Hypothetical protein
+SORBI_3002G094600,cold_induced,Downregulated,,8054430,2,C,Hypothetical protein
+SORBI_3002G094800,cold_induced,Downregulated,,8054431,2,C,Hypothetical protein
+SORBI_3002G095400,cold_induced,Downregulated,,8054434,2,C,"Manganese and Cadmium transporter, Mn and Cd uptak"
+SORBI_3002G104900,cold_induced,Downregulated,,8057275,2,C,Hypothetical protein
+SORBI_3002G109100,cold_induced,Downregulated,,8057298,2,C,Hypothetical protein
+SORBI_3002G109300,cold_induced,Downregulated,,8057299,2,C,Hypothetical protein
+SORBI_3002G111100,cold_induced,Downregulated,,8084636,2,C,Hypothetical protein
+SORBI_3002G112300,cold_induced,Downregulated,,8057318,2,C,Hypothetical protein
+SORBI_3002G113500,cold_induced,Downregulated,,8057913,2,C,Hypothetical protein
+SORBI_3002G118600,cold_induced,Downregulated,,110432835,2,C,Hypothetical protein
+SORBI_3002G119100,cold_induced,Downregulated,,8059728,2,C,Hypothetical protein
+SORBI_3002G126600,cold_induced,Downregulated,CYP73A33,8059757,2,C,
+SORBI_3002G128200,cold_induced,Downregulated,,110432859,2,C,Hypothetical protein
+SORBI_3002G131800,cold_induced,Downregulated,,8061672,2,C,Hypothetical protein
+SORBI_3002G134100,cold_induced,Downregulated,,8062537,2,C,Hypothetical protein
+SORBI_3002G134300,cold_induced,Downregulated,,8062542,2,C,Hypothetical protein
+SORBI_3002G134400,cold_induced,Downregulated,,8061693,2,C,Hypothetical protein
+SORBI_3002G138700,cold_induced,Downregulated,,8061718,2,C,Hypothetical protein
+SORBI_3002G140300,cold_induced,Downregulated,,8062582,2,C,Hypothetical protein
+SORBI_3002G142500,cold_induced,Downregulated,,8063864,2,C,Hypothetical protein
+SORBI_3002G148700,cold_induced,Downregulated,,110433180,2,C,Hypothetical protein
+SORBI_3002G152700,cold_induced,Downregulated,,8063469,2,C,"Rhodanese-like domain-containing protein 9, chloroplastic"
+SORBI_3002G160300,cold_induced,Downregulated,PFP-ALPHA,8071861,2,C,
+SORBI_3002G160800,cold_induced,Downregulated,,8064664,2,C,Hypothetical protein
+SORBI_3002G161400,cold_induced,Downregulated,,8064666,2,C,Hypothetical protein
+SORBI_3002G172401,cold_induced,Downregulated,,8067717,2,C,Hypothetical protein
+SORBI_3002G174300,cold_induced,Downregulated,,8055531,2,C,Hypothetical protein
+SORBI_3002G175400,cold_induced,Downregulated,,8054590,2,C,Hypothetical protein
+SORBI_3002G178000,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G180400,cold_induced,Downregulated,,8055573,2,C,Hypothetical protein
+SORBI_3002G181800,cold_induced,Downregulated,,8055580,2,C,Hypothetical protein
+SORBI_3002G183400,cold_induced,Downregulated,,8055592,2,C,Hypothetical protein
+SORBI_3002G183900,cold_induced,Downregulated,,8056172,2,C,Hypothetical protein
+SORBI_3002G184200,cold_induced,Downregulated,,8065366,2,C,Hypothetical protein
+SORBI_3002G184300,cold_induced,Downregulated,,8065367,2,C,Hypothetical protein
+SORBI_3002G185200,cold_induced,Downregulated,,8056177,2,C,Hypothetical protein
+SORBI_3002G186400,cold_induced,Downregulated,,110432986,2,C,Hypothetical protein
+SORBI_3002G186500,cold_induced,Downregulated,,8065381,2,C,Hypothetical protein
+SORBI_3002G187900,cold_induced,Downregulated,,8065387,2,C,Hypothetical protein
+SORBI_3002G190300,cold_induced,Downregulated,,8056205,2,C,Hypothetical protein
+SORBI_3002G193600,cold_induced,Downregulated,,8056224,2,C,Hypothetical protein
+SORBI_3002G194400,cold_induced,Downregulated,,8056229,2,C,Hypothetical protein
+SORBI_3002G196200,cold_induced,Downregulated,,8055801,2,C,Hypothetical protein
+SORBI_3002G196900,cold_induced,Downregulated,,8055802,2,C,Hypothetical protein
+SORBI_3002G198700,cold_induced,Downregulated,,8060235,2,C,Hypothetical protein
+SORBI_3002G199500,cold_induced,Downregulated,,8060240,2,C,Hypothetical protein
+SORBI_3002G200700,cold_induced,Downregulated,,8060245,2,C,Hypothetical protein
+SORBI_3002G201000,cold_induced,Downregulated,,8070622,2,C,Hypothetical protein
+SORBI_3002G201100,cold_induced,Downregulated,,110432742,2,C,Hypothetical protein
+SORBI_3002G201500,cold_induced,Downregulated,,8060247,2,C,Hypothetical protein
+SORBI_3002G201900,cold_induced,Downregulated,,8060249,2,C,Hypothetical protein
+SORBI_3002G202500,cold_induced,Downregulated,,8068361,2,C,Hypothetical protein
+SORBI_3002G203000,cold_induced,Downregulated,CIPK16,8060254,2,C,
+SORBI_3002G203100,cold_induced,Downregulated,CIPK14,8060255,2,C,
+SORBI_3002G203900,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G206100,cold_induced,Downregulated,,8055992,2,C,Hypothetical protein
+SORBI_3002G206200,cold_induced,Downregulated,,8055993,2,C,Monogalactosyl diacylglycerol synthase 1
+SORBI_3002G206300,cold_induced,Downregulated,,8060271,2,C,Hypothetical protein
+SORBI_3002G206600,cold_induced,Downregulated,,8055997,2,C,Hypothetical protein
+SORBI_3002G206700,cold_induced,Downregulated,,8060272,2,C,S-adenosylmethionine decarboxylase
+SORBI_3002G206750,cold_induced,Downregulated,SAMDC1,,2,C,
+SORBI_3002G206800,cold_induced,Downregulated,,8060274,2,C,Hypothetical protein
+SORBI_3002G207300,cold_induced,Downregulated,,8056001,2,C,Hypothetical protein
+SORBI_3002G207900,cold_induced,Downregulated,,8060280,2,C,Hypothetical protein
+SORBI_3002G208200,cold_induced,Downregulated,,8060282,2,C,Hypothetical protein
+SORBI_3002G211000,cold_induced,Downregulated,,8060298,2,C,Hypothetical protein
+SORBI_3002G213300,cold_induced,Downregulated,,8080980,2,C,Hypothetical protein
+SORBI_3002G213500,cold_induced,Downregulated,,8080984,2,C,Hypothetical protein
+SORBI_3002G214200,cold_induced,Downregulated,,8062736,2,C,Hypothetical protein
+SORBI_3002G214300,cold_induced,Downregulated,,8080990,2,C,Hypothetical protein
+SORBI_3002G214800,cold_induced,Downregulated,,8062740,2,C,"Jasmonate ZIM-domain protein, Jasmonate-induced resistance to bacterial blight, Repressor of jasmonic acid signalin"
+SORBI_3002G217100,cold_induced,Downregulated,,8081002,2,C,Hypothetical protein
+SORBI_3002G217400,cold_induced,Downregulated,,8081003,2,C,Hypothetical protein
+SORBI_3002G219300,cold_induced,Downregulated,,8062759,2,C,Hypothetical protein
+SORBI_3002G219366,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G220000,cold_induced,Downregulated,,110433007,2,C,Hypothetical protein
+SORBI_3002G220900,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G223700,cold_induced,Downregulated,,8062815,2,C,"RHOMBOID-like protein 10, chloroplastic"
+SORBI_3002G223900,cold_induced,Downregulated,,8063698,2,C,Hypothetical protein
+SORBI_3002G226300,cold_induced,Downregulated,,8063706,2,C,CML30
+SORBI_3002G226400,cold_induced,Downregulated,,8083223,2,C,Hypothetical protein
+SORBI_3002G227700,cold_induced,Downregulated,,110432854,2,C,Hypothetical protein
+SORBI_3002G227800,cold_induced,Downregulated,,8083230,2,C,Hypothetical protein
+SORBI_3002G227900,cold_induced,Downregulated,,110432354,2,C,Hypothetical protein
+SORBI_3002G228000,cold_induced,Downregulated,,110432225,2,C,Hypothetical protein
+SORBI_3002G231100,cold_induced,Downregulated,,8083250,2,C,Hypothetical protein
+SORBI_3002G231700,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G232200,cold_induced,Downregulated,,8063732,2,C,Hypothetical protein
+SORBI_3002G237750,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G237900,cold_induced,Downregulated,,8063748,2,C,Hypothetical protein
+SORBI_3002G239900,cold_induced,Downregulated,,8055833,2,C,Hypothetical protein
+SORBI_3002G241100,cold_induced,Downregulated,,8055842,2,C,Hypothetical protein
+SORBI_3002G244300,cold_induced,Downregulated,,110432381,2,C,Hypothetical protein
+SORBI_3002G245400,cold_induced,Downregulated,,8055864,2,C,Hypothetical protein
+SORBI_3002G245800,cold_induced,Downregulated,,8055868,2,C,"A20/AN1 zinc-finger protein, Response to multiple biotic stresses, Regulation of abiotic stress response"
+SORBI_3002G246000,cold_induced,Downregulated,,8055870,2,C,Hypothetical protein
+SORBI_3002G248900,cold_induced,Downregulated,,8064858,2,C,Hypothetical protein
+SORBI_3002G250300,cold_induced,Downregulated,,8054741,2,C,Hypothetical protein
+SORBI_3002G250900,cold_induced,Downregulated,,8054744,2,C,Hypothetical protein
+SORBI_3002G251000,cold_induced,Downregulated,,8055883,2,C,Hypothetical protein
+SORBI_3002G252000,cold_induced,Downregulated,,8054752,2,C,Hypothetical protein
+SORBI_3002G252300,cold_induced,Downregulated,,8055886,2,C,Hypothetical protein
+SORBI_3002G257100,cold_induced,Downregulated,,8054780,2,C,Hypothetical protein
+SORBI_3002G258400,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G259200,cold_induced,Downregulated,,8054793,2,C,Hypothetical protein
+SORBI_3002G260700,cold_induced,Downregulated,,8054803,2,C,Hypothetical protein
+SORBI_3002G261000,cold_induced,Downregulated,,8058984,2,C,Hypothetical protein
+SORBI_3002G261100,cold_induced,Downregulated,,8058985,2,C,Hypothetical protein
+SORBI_3002G261200,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G261400,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G262300,cold_induced,Downregulated,,8058995,2,C,Phospholipase A(1) LCAT3
+SORBI_3002G265200,cold_induced,Downregulated,,8054851,2,C,Hypothetical protein
+SORBI_3002G268200,cold_induced,Downregulated,,8059022,2,C,Hypothetical protein
+SORBI_3002G269100,cold_induced,Downregulated,,8054868,2,C,Hypothetical protein
+SORBI_3002G269300,cold_induced,Downregulated,,8054869,2,C,Hypothetical protein
+SORBI_3002G269400,cold_induced,Downregulated,CBF6,8054870,2,C,
+SORBI_3002G269500,cold_induced,Downregulated,,8054871,2,C,Hypothetical protein
+SORBI_3002G270000,cold_induced,Downregulated,,110432970,2,C,Hypothetical protein
+SORBI_3002G271000,cold_induced,Downregulated,,8054880,2,C,Hypothetical protein
+SORBI_3002G273300,cold_induced,Downregulated,,8054891,2,C,Hypothetical protein
+SORBI_3002G274000,cold_induced,Downregulated,,8062080,2,C,Hypothetical protein
+SORBI_3002G274500,cold_induced,Downregulated,,110432445,2,C,Hypothetical protein
+SORBI_3002G276400,cold_induced,Downregulated,,8063308,2,C,Hypothetical protein
+SORBI_3002G276600,cold_induced,Downregulated,,8063622,2,C,Endoglucanase 2
+SORBI_3002G277100,cold_induced,Downregulated,,8063311,2,C,TIM
+SORBI_3002G277200,cold_induced,Downregulated,,8066937,2,C,PIN domain-like family protein
+SORBI_3002G282300,cold_induced,Downregulated,,8054987,2,C,Hypothetical protein
+SORBI_3002G285450,cold_induced,Downregulated,,8063344,2,C,Hypothetical protein
+SORBI_3002G286400,cold_induced,Downregulated,,8067448,2,C,Hypothetical protein
+SORBI_3002G287400,cold_induced,Downregulated,,8074162,2,C,Hypothetical protein
+SORBI_3002G289400,cold_induced,Downregulated,,8074175,2,C,Hypothetical protein
+SORBI_3002G290400,cold_induced,Downregulated,,8077229,2,C,Hypothetical protein
+SORBI_3002G291800,cold_induced,Downregulated,,8074188,2,C,"Mitochondrial phosphate carrier protein 1, mitochondrial"
+SORBI_3002G292100,cold_induced,Downregulated,,110432867,2,C,Hypothetical protein
+SORBI_3002G292200,cold_induced,Downregulated,,8077237,2,C,Hypothetical protein
+SORBI_3002G293300,cold_induced,Downregulated,,8077245,2,C,Hypothetical protein
+SORBI_3002G293500,cold_induced,Downregulated,,8074191,2,C,Phosphate transporter 4
+SORBI_3002G295100,cold_induced,Downregulated,,8077255,2,C,Hypothetical protein
+SORBI_3002G299500,cold_induced,Downregulated,,8077275,2,C,Hypothetical protein
+SORBI_3002G300100,cold_induced,Downregulated,,8077279,2,C,Hypothetical protein
+SORBI_3002G302500,cold_induced,Downregulated,,8080680,2,C,Hypothetical protein
+SORBI_3002G302800,cold_induced,Downregulated,,8077434,2,C,Hypothetical protein
+SORBI_3002G305600,cold_induced,Downregulated,,8080693,2,C,Hypothetical protein
+SORBI_3002G306800,cold_induced,Downregulated,,8077457,2,C,Hypothetical protein
+SORBI_3002G307800,cold_induced,Downregulated,,8077460,2,C,Hypothetical protein
+SORBI_3002G308200,cold_induced,Downregulated,,8080705,2,C,Hypothetical protein
+SORBI_3002G310900,cold_induced,Downregulated,,8077475,2,C,Hypothetical protein
+SORBI_3002G311200,cold_induced,Downregulated,,8080718,2,C,Hypothetical protein
+SORBI_3002G311501,cold_induced,Downregulated,,8077478,2,C,Hypothetical protein
+SORBI_3002G311601,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G313800,cold_induced,Downregulated,dof6,8077488,2,C,
+SORBI_3002G314200,cold_induced,Downregulated,,8077491,2,C,Hypothetical protein
+SORBI_3002G314300,cold_induced,Downregulated,,8080734,2,C,Hypothetical protein
+SORBI_3002G314500,cold_induced,Downregulated,,8077492,2,C,Hypothetical protein
+SORBI_3002G314800,cold_induced,Downregulated,,8080736,2,C,Hypothetical protein
+SORBI_3002G318000,cold_induced,Downregulated,,8080117,2,C,Hypothetical protein
+SORBI_3002G321500,cold_induced,Downregulated,,8080139,2,C,Hypothetical protein
+SORBI_3002G322000,cold_induced,Downregulated,,8080141,2,C,Hypothetical protein
+SORBI_3002G322100,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G323900,cold_induced,Downregulated,,8080147,2,C,Hypothetical protein
+SORBI_3002G328400,cold_induced,Downregulated,,110432165,2,C,Hypothetical protein
+SORBI_3002G329400,cold_induced,Downregulated,,8084089,2,C,Hypothetical protein
+SORBI_3002G330300,cold_induced,Downregulated,,8084092,2,C,Similar to Chitin-inducible gibberellin-responsive protein
+SORBI_3002G335200,cold_induced,Downregulated,,8081734,2,C,Hypothetical protein
+SORBI_3002G336500,cold_induced,Downregulated,,8081741,2,C,Hypothetical protein
+SORBI_3002G337600,cold_induced,Downregulated,,8056324,2,C,Hypothetical protein
+SORBI_3002G338400,cold_induced,Downregulated,,8081746,2,C,Hypothetical protein
+SORBI_3002G338700,cold_induced,Downregulated,,8056331,2,C,Hypothetical protein
+SORBI_3002G338800,cold_induced,Downregulated,,8056332,2,C,Hypothetical protein
+SORBI_3002G341000,cold_induced,Downregulated,,8056341,2,C,Hypothetical protein
+SORBI_3002G341300,cold_induced,Downregulated,,8056343,2,C,Hypothetical protein
+SORBI_3002G341900,cold_induced,Downregulated,,8081763,2,C,Hypothetical protein
+SORBI_3002G345800,cold_induced,Downregulated,,8083900,2,C,Hypothetical protein
+SORBI_3002G345850,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G346300,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G347500,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G347900,cold_induced,Downregulated,,8055669,2,C,Hypothetical protein
+SORBI_3002G349300,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G351200,cold_induced,Downregulated,,8058348,2,C,Hypothetical protein
+SORBI_3002G351700,cold_induced,Downregulated,,8055689,2,C,Hypothetical protein
+SORBI_3002G352800,cold_induced,Downregulated,,110432996,2,C,Hypothetical protein
+SORBI_3002G354900,cold_induced,Downregulated,,8058364,2,C,Chitin-inducible gibberellin-responsive protein
+SORBI_3002G356101,cold_induced,Downregulated,,8058366,2,C,Hypothetical protein
+SORBI_3002G357000,cold_induced,Downregulated,,8078972,2,C,Hypothetical protein
+SORBI_3002G357800,cold_induced,Downregulated,,8058376,2,C,Hypothetical protein
+SORBI_3002G358300,cold_induced,Downregulated,,8058379,2,C,Hypothetical protein
+SORBI_3002G361900,cold_induced,Downregulated,,8060622,2,C,Hypothetical protein
+SORBI_3002G362700,cold_induced,Downregulated,,8078996,2,C,S-acyltransferase
+SORBI_3002G367900,cold_induced,Downregulated,,8079013,2,C,Hypothetical protein
+SORBI_3002G370100,cold_induced,Downregulated,,8079170,2,C,Hypothetical protein
+SORBI_3002G373200,cold_induced,Downregulated,,110432897,2,C,Hypothetical protein
+SORBI_3002G374100,cold_induced,Downregulated,,8079184,2,C,Hypothetical protein
+SORBI_3002G374400,cold_induced,Downregulated,,8079186,2,C,Hypothetical protein
+SORBI_3002G374600,cold_induced,Downregulated,,8079188,2,C,Hypothetical protein
+SORBI_3002G378700,cold_induced,Downregulated,,8079210,2,C,Hypothetical protein
+SORBI_3002G379600,cold_induced,Downregulated,,8079214,2,C,Hypothetical protein
+SORBI_3002G379700,cold_induced,Downregulated,,8061559,2,C,Hypothetical protein
+SORBI_3002G381700,cold_induced,Downregulated,,8063495,2,C,Hypothetical protein
+SORBI_3002G382700,cold_induced,Downregulated,,8079348,2,C,Hypothetical protein
+SORBI_3002G382800,cold_induced,Downregulated,,8079349,2,C,Hypothetical protein
+SORBI_3002G383100,cold_induced,Downregulated,,8079352,2,C,Hypothetical protein
+SORBI_3002G385700,cold_induced,Downregulated,,8079364,2,C,Hypothetical protein
+SORBI_3002G386000,cold_induced,Downregulated,,8079365,2,C,Hypothetical protein
+SORBI_3002G386200,cold_induced,Downregulated,,8063517,2,C,Hypothetical protein
+SORBI_3002G387400,cold_induced,Downregulated,,8063522,2,C,Hypothetical protein
+SORBI_3002G388400,cold_induced,Downregulated,,8063526,2,C,Hypothetical protein
+SORBI_3002G388700,cold_induced,Downregulated,,8079379,2,C,Hypothetical protein
+SORBI_3002G388900,cold_induced,Downregulated,,8079381,2,C,Hypothetical protein
+SORBI_3002G390100,cold_induced,Downregulated,CIPK17,8063532,2,C,
+SORBI_3002G390500,cold_induced,Downregulated,,8063534,2,C,Hypothetical protein
+SORBI_3002G394100,cold_induced,Downregulated,,8073094,2,C,Hypothetical protein
+SORBI_3002G394400,cold_induced,Downregulated,,8073096,2,C,Hypothetical protein
+SORBI_3002G396400,cold_induced,Downregulated,,8072209,2,C,Hypothetical protein
+SORBI_3002G396800,cold_induced,Downregulated,,8073105,2,C,Hypothetical protein
+SORBI_3002G403300,cold_induced,Downregulated,,8072249,2,C,Hypothetical protein
+SORBI_3002G403700,cold_induced,Downregulated,,8072251,2,C,Hypothetical protein
+SORBI_3002G404800,cold_induced,Downregulated,,8072257,2,C,Hypothetical protein
+SORBI_3002G405600,cold_induced,Downregulated,,8072261,2,C,Hypothetical protein
+SORBI_3002G408000,cold_induced,Downregulated,,8074407,2,C,Hypothetical protein
+SORBI_3002G408100,cold_induced,Downregulated,,8074408,2,C,Hypothetical protein
+SORBI_3002G413700,cold_induced,Downregulated,,8074431,2,C,E3 ubiquitin-protein ligase BAH1
+SORBI_3002G415600,cold_induced,Downregulated,,8078546,2,C,Ethylene-responsive transcription factor ERF071
+SORBI_3002G416000,cold_induced,Downregulated,,8078547,2,C,Hypothetical protein
+SORBI_3002G416700,cold_induced,Downregulated,,8078554,2,C,Hypothetical protein
+SORBI_3002G417300,cold_induced,Downregulated,CIPK25,110432514,2,C,
+SORBI_3002G417500,cold_induced,Downregulated,,8078559,2,C,Hypothetical protein
+SORBI_3002G418900,cold_induced,Downregulated,,8074457,2,C,Hypothetical protein
+SORBI_3002G419700,cold_induced,Downregulated,,8078566,2,C,Hypothetical protein
+SORBI_3002G420200,cold_induced,Downregulated,,8078570,2,C,Hypothetical protein
+SORBI_3002G420800,cold_induced,Downregulated,,8078573,2,C,Hypothetical protein
+SORBI_3002G422200,cold_induced,Downregulated,,8074469,2,C,Hypothetical protein
+SORBI_3002G422300,cold_induced,Downregulated,,8078580,2,C,"Transcription factor, Response to ethylene stimulus, Wound signalin"
+SORBI_3002G424350,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3002G425900,cold_induced,Downregulated,,8077506,2,C,Hypothetical protein
+SORBI_3002G426600,cold_induced,Downregulated,,8084970,2,C,Hypothetical protein
+SORBI_3002G426700,cold_induced,Downregulated,,8077512,2,C,Hypothetical protein
+SORBI_3002G428600,cold_induced,Downregulated,,8077522,2,C,Hypothetical protein
+SORBI_3002G430100,cold_induced,Downregulated,,8084992,2,C,Hypothetical protein
+SORBI_3002G430400,cold_induced,Downregulated,,,2,C,Hypothetical protein
+SORBI_3003G002100,cold_induced,Downregulated,,8078072,3,C,Hypothetical protein
+SORBI_3003G003450,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G005000,cold_induced,Downregulated,,110433558,3,C,Hypothetical protein
+SORBI_3003G009700,cold_induced,Downregulated,,8079467,3,C,Hypothetical protein
+SORBI_3003G010800,cold_induced,Downregulated,,8081368,3,C,Hypothetical protein
+SORBI_3003G012300,cold_induced,Downregulated,,8081377,3,C,Mitochondrial arginine transporter BAC2
+SORBI_3003G019900,cold_induced,Downregulated,,8081410,3,C,Hypothetical protein
+SORBI_3003G021100,cold_induced,Downregulated,,8079507,3,C,Hypothetical protein
+SORBI_3003G021800,cold_induced,Downregulated,,8079521,3,C,Hypothetical protein
+SORBI_3003G022300,cold_induced,Downregulated,,8079524,3,C,Hypothetical protein
+SORBI_3003G024400,cold_induced,Downregulated,CIPK20,8080496,3,C,
+SORBI_3003G025700,cold_induced,Downregulated,,8080503,3,C,Hypothetical protein
+SORBI_3003G027100,cold_induced,Downregulated,,8084322,3,C,Hypothetical protein
+SORBI_3003G027500,cold_induced,Downregulated,,8080514,3,C,Hypothetical protein
+SORBI_3003G028300,cold_induced,Downregulated,,8080519,3,C,Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein
+SORBI_3003G028800,cold_induced,Downregulated,,8084330,3,C,Hypothetical protein
+SORBI_3003G029200,cold_induced,Downregulated,,8084332,3,C,Hypothetical protein
+SORBI_3003G029400,cold_induced,Downregulated,,8084334,3,C,Hypothetical protein
+SORBI_3003G031400,cold_induced,Downregulated,,8082832,3,C,Hypothetical protein
+SORBI_3003G031700,cold_induced,Downregulated,,8084344,3,C,Hypothetical protein
+SORBI_3003G032900,cold_induced,Downregulated,,8082839,3,C,Hypothetical protein
+SORBI_3003G034000,cold_induced,Downregulated,,8066607,3,C,Hypothetical protein
+SORBI_3003G036100,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G036300,cold_induced,Downregulated,,8078738,3,C,Hypothetical protein
+SORBI_3003G040300,cold_induced,Downregulated,,8078759,3,C,Hypothetical protein
+SORBI_3003G041400,cold_induced,Downregulated,,8078765,3,C,Hypothetical protein
+SORBI_3003G041500,cold_induced,Downregulated,,8078766,3,C,Hypothetical protein
+SORBI_3003G042200,cold_induced,Downregulated,,8078771,3,C,Hypothetical protein
+SORBI_3003G042900,cold_induced,Downregulated,,8078774,3,C,Hypothetical protein
+SORBI_3003G043600,cold_induced,Downregulated,,8078776,3,C,Hypothetical protein
+SORBI_3003G043700,cold_induced,Downregulated,,8078777,3,C,Hypothetical protein
+SORBI_3003G044600,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G045900,cold_induced,Downregulated,,8078789,3,C,Hypothetical protein
+SORBI_3003G047700,cold_induced,Downregulated,,8056539,3,C,Hypothetical protein
+SORBI_3003G047900,cold_induced,Downregulated,,8056540,3,C,Hypothetical protein
+SORBI_3003G049700,cold_induced,Downregulated,,8078476,3,C,Hypothetical protein
+SORBI_3003G050500,cold_induced,Downregulated,,8056547,3,C,Hypothetical protein
+SORBI_3003G050800,cold_induced,Downregulated,,8078480,3,C,Hypothetical protein
+SORBI_3003G051000,cold_induced,Downregulated,,8078481,3,C,Hypothetical protein
+SORBI_3003G051300,cold_induced,Downregulated,,110434042,3,C,Hypothetical protein
+SORBI_3003G051400,cold_induced,Downregulated,,8056550,3,C,Hypothetical protein
+SORBI_3003G052000,cold_induced,Downregulated,,8078484,3,C,Hypothetical protein
+SORBI_3003G057100,cold_induced,Downregulated,,8056569,3,C,Hypothetical protein
+SORBI_3003G057650,cold_induced,Downregulated,,8056571,3,C,Hypothetical protein
+SORBI_3003G057900,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G058100,cold_induced,Downregulated,,8075099,3,C,Hypothetical protein
+SORBI_3003G067700,cold_induced,Downregulated,,8059140,3,C,Hypothetical protein
+SORBI_3003G068900,cold_induced,Downregulated,Sb1023s002010,110433670,3,C,
+SORBI_3003G070800,cold_induced,Downregulated,,8060795,3,C,Hypothetical protein
+SORBI_3003G073380,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G076900,cold_induced,Downregulated,,8073325,3,C,Hypothetical protein
+SORBI_3003G078501,cold_induced,Downregulated,,110433391,3,C,Hypothetical protein
+SORBI_3003G082401,cold_induced,Downregulated,,8061348,3,C,Hypothetical protein
+SORBI_3003G082600,cold_induced,Downregulated,,8061350,3,C,Hypothetical protein
+SORBI_3003G083200,cold_induced,Downregulated,,8073348,3,C,Hypothetical protein
+SORBI_3003G083500,cold_induced,Downregulated,,8073349,3,C,Hypothetical protein
+SORBI_3003G089300,cold_induced,Downregulated,,8079025,3,C,Hypothetical protein
+SORBI_3003G092900,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G093000,cold_induced,Downregulated,,8079043,3,C,Hypothetical protein
+SORBI_3003G093300,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G093400,cold_induced,Downregulated,,8070429,3,C,Hypothetical protein
+SORBI_3003G094600,cold_induced,Downregulated,,8079050,3,C,Hypothetical protein
+SORBI_3003G095200,cold_induced,Downregulated,a3,8070435,3,C,
+SORBI_3003G095500,cold_induced,Downregulated,,8079058,3,C,Hypothetical protein
+SORBI_3003G095700,cold_induced,Downregulated,,8070437,3,C,Hypothetical protein
+SORBI_3003G097500,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G097600,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G097701,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G097900,cold_induced,Downregulated,,8070446,3,C,Hypothetical protein
+SORBI_3003G099166,cold_induced,Downregulated,,8070452,3,C,Hypothetical protein
+SORBI_3003G099400,cold_induced,Downregulated,,8070454,3,C,Hypothetical protein
+SORBI_3003G100900,cold_induced,Downregulated,,110434089,3,C,Hypothetical protein
+SORBI_3003G101000,cold_induced,Downregulated,,8070461,3,C,Hypothetical protein
+SORBI_3003G102200,cold_induced,Downregulated,,8070469,3,C,Hypothetical protein
+SORBI_3003G103000,cold_induced,Downregulated,,8072352,3,C,Hypothetical protein
+SORBI_3003G107700,cold_induced,Downregulated,,8085056,3,C,Hypothetical protein
+SORBI_3003G108000,cold_induced,Downregulated,,8085057,3,C,Hypothetical protein
+SORBI_3003G108300,cold_induced,Downregulated,,8085060,3,C,Hypothetical protein
+SORBI_3003G113800,cold_induced,Downregulated,,8072402,3,C,Hypothetical protein
+SORBI_3003G115000,cold_induced,Downregulated,,110433450,3,C,Hypothetical protein
+SORBI_3003G119800,cold_induced,Downregulated,,8085817,3,C,Hypothetical protein
+SORBI_3003G120500,cold_induced,Downregulated,,8085821,3,C,Hypothetical protein
+SORBI_3003G120600,cold_induced,Downregulated,,8085822,3,C,Hypothetical protein
+SORBI_3003G121400,cold_induced,Downregulated,,8085828,3,C,Hypothetical protein
+SORBI_3003G125701,cold_induced,Downregulated,,8054634,3,C,Hypothetical protein
+SORBI_3003G125900,cold_induced,Downregulated,,8074515,3,C,Hypothetical protein
+SORBI_3003G127100,cold_induced,Downregulated,,8074519,3,C,Hypothetical protein
+SORBI_3003G127800,cold_induced,Downregulated,,8054647,3,C,Hypothetical protein
+SORBI_3003G131500,cold_induced,Downregulated,,8054669,3,C,Hypothetical protein
+SORBI_3003G134400,cold_induced,Downregulated,,8054678,3,C,Hypothetical protein
+SORBI_3003G134600,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G136600,cold_induced,Downregulated,,8078133,3,C,Hypothetical protein
+SORBI_3003G139500,cold_induced,Downregulated,CIPK21,8060301,3,C,
+SORBI_3003G140800,cold_induced,Downregulated,,8060306,3,C,Hypothetical protein
+SORBI_3003G142100,cold_induced,Downregulated,,8078165,3,C,Hypothetical protein
+SORBI_3003G143700,cold_induced,Downregulated,,110433903,3,C,Hypothetical protein
+SORBI_3003G143900,cold_induced,Downregulated,,8060319,3,C,Hypothetical protein
+SORBI_3003G145100,cold_induced,Downregulated,,8060330,3,C,Hypothetical protein
+SORBI_3003G146000,cold_induced,Downregulated,,8079614,3,C,Hypothetical protein
+SORBI_3003G146100,cold_induced,Downregulated,,8079615,3,C,Hypothetical protein
+SORBI_3003G146400,cold_induced,Downregulated,,8079616,3,C,Hypothetical protein
+SORBI_3003G146700,cold_induced,Downregulated,,8079619,3,C,Hypothetical protein
+SORBI_3003G150500,cold_induced,Downregulated,,8060365,3,C,"Protein ABC transporter 1, mitochondrial"
+SORBI_3003G150600,cold_induced,Downregulated,,110433292,3,C,Hypothetical protein
+SORBI_3003G153200,cold_induced,Downregulated,,8075301,3,C,Hypothetical protein
+SORBI_3003G153300,cold_induced,Downregulated,,8086310,3,C,Hypothetical protein
+SORBI_3003G153400,cold_induced,Downregulated,,8086311,3,C,Hypothetical protein
+SORBI_3003G156600,cold_induced,Downregulated,,8086331,3,C,Hypothetical protein
+SORBI_3003G157300,cold_induced,Downregulated,,110433298,3,C,Hypothetical protein
+SORBI_3003G158500,cold_induced,Downregulated,,8075331,3,C,Hypothetical protein
+SORBI_3003G158600,cold_induced,Downregulated,,8075332,3,C,Hypothetical protein
+SORBI_3003G160200,cold_induced,Downregulated,,8086346,3,C,Hypothetical protein
+SORBI_3003G180200,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G183600,cold_induced,Downregulated,,8075458,3,C,Hypothetical protein
+SORBI_3003G186500,cold_induced,Downregulated,,8075005,3,C,Hypothetical protein
+SORBI_3003G186800,cold_induced,Downregulated,,8075480,3,C,"Ascorbate transporter, chloroplastic"
+SORBI_3003G193800,cold_induced,Downregulated,,8078619,3,C,Hypothetical protein
+SORBI_3003G195300,cold_induced,Downregulated,,8078208,3,C,Hypothetical protein
+SORBI_3003G197100,cold_induced,Downregulated,,8078635,3,C,Hypothetical protein
+SORBI_3003G198200,cold_induced,Downregulated,,8078643,3,C,Hypothetical protein
+SORBI_3003G198400,cold_induced,Downregulated,,8078645,3,C,Hypothetical protein
+SORBI_3003G198800,cold_induced,Downregulated,,8078219,3,C,Hypothetical protein
+SORBI_3003G198900,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G199700,cold_induced,Downregulated,,8078652,3,C,Hypothetical protein
+SORBI_3003G199800,cold_induced,Downregulated,,110433388,3,C,Hypothetical protein
+SORBI_3003G202200,cold_induced,Downregulated,,8082460,3,C,Hypothetical protein
+SORBI_3003G203500,cold_induced,Downregulated,,110433548,3,C,Aldehyde/histidinol dehydrogenase domain containing protein
+SORBI_3003G206900,cold_induced,Downregulated,,8082188,3,C,Hypothetical protein
+SORBI_3003G210900,cold_induced,Downregulated,,8082207,3,C,Hypothetical protein
+SORBI_3003G214400,cold_induced,Downregulated,,8082228,3,C,Hypothetical protein
+SORBI_3003G218500,cold_induced,Downregulated,,8084816,3,C,Hypothetical protein
+SORBI_3003G224600,cold_induced,Downregulated,,8054403,3,C,Hypothetical protein
+SORBI_3003G226700,cold_induced,Downregulated,,8054912,3,C,Kinesin-like protein
+SORBI_3003G228300,cold_induced,Downregulated,,8054923,3,C,Hypothetical protein
+SORBI_3003G228900,cold_induced,Downregulated,,8084871,3,C,Hypothetical protein
+SORBI_3003G229600,cold_induced,Downregulated,,8084878,3,C,AT5g40850/MHK7_8
+SORBI_3003G229700,cold_induced,Downregulated,,8085839,3,C,Glycerol-3-phosphate acyltransferase 1
+SORBI_3003G231800,cold_induced,Downregulated,,8058207,3,C,Hypothetical protein
+SORBI_3003G232600,cold_induced,Downregulated,,8054932,3,C,Hypothetical protein
+SORBI_3003G232900,cold_induced,Downregulated,,8058211,3,C,Hypothetical protein
+SORBI_3003G233000,cold_induced,Downregulated,,8054934,3,C,Hypothetical protein
+SORBI_3003G233100,cold_induced,Downregulated,,8058213,3,C,Hypothetical protein
+SORBI_3003G233200,cold_induced,Downregulated,,8058215,3,C,"Cinnamoyl-CoA reductase-like gene family member, Defense respons"
+SORBI_3003G233300,cold_induced,Downregulated,,8058214,3,C,Hypothetical protein
+SORBI_3003G234000,cold_induced,Downregulated,,8058219,3,C,Hypothetical protein
+SORBI_3003G234101,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G234400,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G234500,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G238700,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G239300,cold_induced,Downregulated,,8058246,3,C,Hypothetical protein
+SORBI_3003G242000,cold_induced,Downregulated,,8058259,3,C,Hypothetical protein
+SORBI_3003G243300,cold_induced,Downregulated,,8057549,3,C,Hypothetical protein
+SORBI_3003G244000,cold_induced,Downregulated,,8058267,3,C,Hypothetical protein
+SORBI_3003G244100,cold_induced,Downregulated,,110433340,3,C,Hypothetical protein
+SORBI_3003G246300,cold_induced,Downregulated,,8060136,3,C,Hypothetical protein
+SORBI_3003G246900,cold_induced,Downregulated,,8061817,3,C,Hypothetical protein
+SORBI_3003G249400,cold_induced,Downregulated,,8060147,3,C,Hypothetical protein
+SORBI_3003G251700,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G252400,cold_induced,Downregulated,Sb0139s002010,110433949,3,C,
+SORBI_3003G254900,cold_induced,Downregulated,,8061852,3,C,Hypothetical protein
+SORBI_3003G258100,cold_induced,Downregulated,,8068023,3,C,Hypothetical protein
+SORBI_3003G260800,cold_induced,Downregulated,,8063075,3,C,Hypothetical protein
+SORBI_3003G262900,cold_induced,Downregulated,,8068041,3,C,Hypothetical protein
+SORBI_3003G267900,cold_induced,Downregulated,,8068062,3,C,Hypothetical protein
+SORBI_3003G268700,cold_induced,Downregulated,,110434163,3,C,Hypothetical protein
+SORBI_3003G269000,cold_induced,Downregulated,,8068066,3,C,Hypothetical protein
+SORBI_3003G269300,cold_induced,Downregulated,,8059144,3,C,Hypothetical protein
+SORBI_3003G269700,cold_induced,Downregulated,,8059147,3,C,Hypothetical protein
+SORBI_3003G270300,cold_induced,Downregulated,,8059150,3,C,Hypothetical protein
+SORBI_3003G271400,cold_induced,Downregulated,,8069763,3,C,Chloride channel protein
+SORBI_3003G272200,cold_induced,Downregulated,,8059158,3,C,Hypothetical protein
+SORBI_3003G272400,cold_induced,Downregulated,,8059159,3,C,Hypothetical protein
+SORBI_3003G273000,cold_induced,Downregulated,,8059163,3,C,Hypothetical protein
+SORBI_3003G275300,cold_induced,Downregulated,,8069781,3,C,Hypothetical protein
+SORBI_3003G276300,cold_induced,Downregulated,,8069791,3,C,Hypothetical protein
+SORBI_3003G276400,cold_induced,Downregulated,,8069792,3,C,"Alpha-amylase 3, chloroplastic"
+SORBI_3003G277600,cold_induced,Downregulated,,8059184,3,C,Hypothetical protein
+SORBI_3003G278400,cold_induced,Downregulated,,8069803,3,C,Hypothetical protein
+SORBI_3003G279300,cold_induced,Downregulated,,8069806,3,C,Hypothetical protein
+SORBI_3003G279500,cold_induced,Downregulated,,8059194,3,C,Hypothetical protein
+SORBI_3003G282400,cold_induced,Downregulated,,8069817,3,C,Hypothetical protein
+SORBI_3003G282901,cold_induced,Downregulated,,8059214,3,C,Hypothetical protein
+SORBI_3003G285600,cold_induced,Downregulated,,8069833,3,C,Hypothetical protein
+SORBI_3003G287500,cold_induced,Downregulated,,8062140,3,C,Hypothetical protein
+SORBI_3003G288200,cold_induced,Downregulated,,8075541,3,C,Hypothetical protein
+SORBI_3003G288600,cold_induced,Downregulated,,110433922,3,C,Hypothetical protein
+SORBI_3003G289200,cold_induced,Downregulated,,8062155,3,C,Hypothetical protein
+SORBI_3003G289800,cold_induced,Downregulated,,8075547,3,C,Hypothetical protein
+SORBI_3003G290300,cold_induced,Downregulated,,8062163,3,C,Hypothetical protein
+SORBI_3003G290500,cold_induced,Downregulated,,8062164,3,C,Hypothetical protein
+SORBI_3003G293800,cold_induced,Downregulated,,8075565,3,C,Hypothetical protein
+SORBI_3003G296100,cold_induced,Downregulated,,8075578,3,C,Hypothetical protein
+SORBI_3003G297200,cold_induced,Downregulated,,8072080,3,C,Hypothetical protein
+SORBI_3003G301200,cold_induced,Downregulated,,8075602,3,C,Hypothetical protein
+SORBI_3003G303600,cold_induced,Downregulated,,8072105,3,C,Hypothetical protein
+SORBI_3003G303700,cold_induced,Downregulated,,8079228,3,C,Hypothetical protein
+SORBI_3003G304100,cold_induced,Downregulated,,8079230,3,C,Hypothetical protein
+SORBI_3003G304300,cold_induced,Downregulated,,8079232,3,C,Hypothetical protein
+SORBI_3003G306100,cold_induced,Downregulated,,8079243,3,C,Hypothetical protein
+SORBI_3003G306900,cold_induced,Downregulated,,8079248,3,C,Hypothetical protein
+SORBI_3003G308100,cold_induced,Downregulated,,8079257,3,C,Hypothetical protein
+SORBI_3003G309600,cold_induced,Downregulated,,8072127,3,C,Hypothetical protein
+SORBI_3003G309700,cold_induced,Downregulated,,8079261,3,C,Hypothetical protein
+SORBI_3003G313800,cold_induced,Downregulated,,8085661,3,C,Cytokinin dehydrogenase 5
+SORBI_3003G313900,cold_induced,Downregulated,,110433808,3,C,Jacalin-related lectin 3
+SORBI_3003G314000,cold_induced,Downregulated,,8054696,3,C,Hypothetical protein
+SORBI_3003G314800,cold_induced,Downregulated,,110433980,3,C,Hypothetical protein
+SORBI_3003G315700,cold_induced,Downregulated,,8054704,3,C,Hypothetical protein
+SORBI_3003G316700,cold_induced,Downregulated,,8082354,3,C,Hypothetical protein
+SORBI_3003G317100,cold_induced,Downregulated,,8082355,3,C,Hypothetical protein
+SORBI_3003G317500,cold_induced,Downregulated,,8082357,3,C,Hypothetical protein
+SORBI_3003G318300,cold_induced,Downregulated,,8082365,3,C,Hypothetical protein
+SORBI_3003G318700,cold_induced,Downregulated,,8054716,3,C,Hypothetical protein
+SORBI_3003G319800,cold_induced,Downregulated,,110433436,3,C,Hypothetical protein
+SORBI_3003G320300,cold_induced,Downregulated,,8054725,3,C,Hypothetical protein
+SORBI_3003G323100,cold_induced,Downregulated,,8082386,3,C,Hypothetical protein
+SORBI_3003G323201,cold_induced,Downregulated,,8082387,3,C,Hypothetical protein
+SORBI_3003G324400,cold_induced,Downregulated,AP37,8082391,3,C,
+SORBI_3003G324500,cold_induced,Downregulated,,8055241,3,C,Hypothetical protein
+SORBI_3003G325100,cold_induced,Downregulated,,8082394,3,C,Hypothetical protein
+SORBI_3003G325400,cold_induced,Downregulated,,8055246,3,C,Hypothetical protein
+SORBI_3003G327800,cold_induced,Downregulated,,8082405,3,C,Hypothetical protein
+SORBI_3003G331700,cold_induced,Downregulated,,8055281,3,C,Hypothetical protein
+SORBI_3003G332300,cold_induced,Downregulated,,8082424,3,C,Hypothetical protein
+SORBI_3003G334000,cold_induced,Downregulated,,8085386,3,C,Hypothetical protein
+SORBI_3003G334600,cold_induced,Downregulated,NAC52,8085389,3,C,
+SORBI_3003G335300,cold_induced,Downregulated,,8055294,3,C,Hypothetical protein
+SORBI_3003G336000,cold_induced,Downregulated,,110433509,3,C,Hypothetical protein
+SORBI_3003G336900,cold_induced,Downregulated,,8055303,3,C,Hypothetical protein
+SORBI_3003G337400,cold_induced,Downregulated,,8085395,3,C,Cinnamate-4-hydroxylase
+SORBI_3003G337800,cold_induced,Downregulated,,8057714,3,C,Hypothetical protein
+SORBI_3003G337900,cold_induced,Downregulated,,8085397,3,C,Hypothetical protein
+SORBI_3003G338801,cold_induced,Downregulated,,8085403,3,C,Hypothetical protein
+SORBI_3003G339100,cold_induced,Downregulated,,8057719,3,C,Hypothetical protein
+SORBI_3003G339200,cold_induced,Downregulated,,8085404,3,C,Hypothetical protein
+SORBI_3003G339300,cold_induced,Downregulated,,8057720,3,C,Hypothetical protein
+SORBI_3003G339700,cold_induced,Downregulated,,110433589,3,C,Hypothetical protein
+SORBI_3003G341000,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G341100,cold_induced,Downregulated,,8057730,3,C,Hypothetical protein
+SORBI_3003G341300,cold_induced,Downregulated,,8085412,3,C,Hypothetical protein
+SORBI_3003G341600,cold_induced,Downregulated,,8057732,3,C,Hypothetical protein
+SORBI_3003G344400,cold_induced,Downregulated,,8057748,3,C,Hypothetical protein
+SORBI_3003G344700,cold_induced,Downregulated,,8057749,3,C,Hypothetical protein
+SORBI_3003G347000,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G347200,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G347520,cold_induced,Downregulated,,8057760,3,C,Hypothetical protein
+SORBI_3003G353400,cold_induced,Downregulated,,8060082,3,C,Hypothetical protein
+SORBI_3003G353500,cold_induced,Downregulated,,8058895,3,C,Hypothetical protein
+SORBI_3003G353800,cold_induced,Downregulated,,8060083,3,C,Hypothetical protein
+SORBI_3003G354900,cold_induced,Downregulated,,8060088,3,C,Hypothetical protein
+SORBI_3003G355200,cold_induced,Downregulated,,8060090,3,C,Hypothetical protein
+SORBI_3003G355300,cold_induced,Downregulated,,8060091,3,C,Hypothetical protein
+SORBI_3003G355400,cold_induced,Downregulated,,8058902,3,C,Hypothetical protein
+SORBI_3003G355500,cold_induced,Downregulated,,8060092,3,C,Hypothetical protein
+SORBI_3003G355600,cold_induced,Downregulated,,8060093,3,C,Hypothetical protein
+SORBI_3003G356900,cold_induced,Downregulated,,8058912,3,C,Hypothetical protein
+SORBI_3003G361100,cold_induced,Downregulated,,8058932,3,C,Hypothetical protein
+SORBI_3003G361700,cold_induced,Downregulated,,8060120,3,C,Hypothetical protein
+SORBI_3003G362100,cold_induced,Downregulated,,8058937,3,C,GABA transporter 1
+SORBI_3003G362300,cold_induced,Downregulated,,8060122,3,C,Hypothetical protein
+SORBI_3003G365500,cold_induced,Downregulated,,8062364,3,C,Hypothetical protein
+SORBI_3003G367500,cold_induced,Downregulated,,110433572,3,C,Hypothetical protein
+SORBI_3003G370000,cold_induced,Downregulated,,8062389,3,C,Hypothetical protein
+SORBI_3003G371250,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G371400,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G371600,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G372400,cold_induced,Downregulated,,8060995,3,C,Hypothetical protein
+SORBI_3003G373000,cold_induced,Downregulated,,8061001,3,C,Hypothetical protein
+SORBI_3003G373600,cold_induced,Downregulated,,8063116,3,C,Serine hydroxymethyltransferase 7
+SORBI_3003G374400,cold_induced,Downregulated,,8061005,3,C,Hypothetical protein
+SORBI_3003G375700,cold_induced,Downregulated,,8063125,3,C,Hypothetical protein
+SORBI_3003G379500,cold_induced,Downregulated,,8063144,3,C,Similar to GA C20oxidase2
+SORBI_3003G379600,cold_induced,Downregulated,,8063145,3,C,Hypothetical protein
+SORBI_3003G380600,cold_induced,Downregulated,,8062276,3,C,Hypothetical protein
+SORBI_3003G385100,cold_induced,Downregulated,,8078663,3,C,BTB/POZ and TAZ domain-containing protein 3
+SORBI_3003G386000,cold_induced,Downregulated,,8056099,3,C,Hypothetical protein
+SORBI_3003G389100,cold_induced,Downregulated,,8078678,3,C,Hypothetical protein
+SORBI_3003G389601,cold_induced,Downregulated,,,3,C,Hypothetical protein
+SORBI_3003G389700,cold_induced,Downregulated,,8078680,3,C,Hypothetical protein
+SORBI_3003G390700,cold_induced,Downregulated,,110434037,3,C,Hypothetical protein
+SORBI_3003G391600,cold_induced,Downregulated,,8056122,3,C,Hypothetical protein
+SORBI_3003G391900,cold_induced,Downregulated,,8056123,3,C,Hypothetical protein
+SORBI_3003G392900,cold_induced,Downregulated,,8078693,3,C,Hypothetical protein
+SORBI_3003G393500,cold_induced,Downregulated,,8056133,3,C,Hypothetical protein
+SORBI_3003G395900,cold_induced,Downregulated,,8078705,3,C,Hypothetical protein
+SORBI_3003G396000,cold_induced,Downregulated,,8078706,3,C,Hypothetical protein
+SORBI_3003G396900,cold_induced,Downregulated,,8078711,3,C,Hypothetical protein
+SORBI_3003G397000,cold_induced,Downregulated,,8078712,3,C,Hypothetical protein
+SORBI_3003G398100,cold_induced,Downregulated,,110434016,3,C,"ABC transporter B family member 26, chloroplastic"
+SORBI_3003G399400,cold_induced,Downregulated,,8056163,3,C,Hypothetical protein
+SORBI_3003G400000,cold_induced,Downregulated,,8056166,3,C,Hypothetical protein
+SORBI_3003G401800,cold_induced,Downregulated,,8059356,3,C,Hypothetical protein
+SORBI_3003G403300,cold_induced,Downregulated,,8079789,3,C,"Sucrose phosphate synthase, Sucrose synthesis in pollen germinatio"
+SORBI_3003G403800,cold_induced,Downregulated,,110433990,3,C,Hypothetical protein
+SORBI_3003G403900,cold_induced,Downregulated,,8079793,3,C,Hypothetical protein
+SORBI_3003G406000,cold_induced,Downregulated,,8079805,3,C,Hypothetical protein
+SORBI_3003G409700,cold_induced,Downregulated,,8059383,3,C,Hypothetical protein
+SORBI_3003G410800,cold_induced,Downregulated,,8059388,3,C,Hypothetical protein
+SORBI_3003G412600,cold_induced,Downregulated,,8059395,3,C,Hypothetical protein
+SORBI_3003G416500,cold_induced,Downregulated,,8059415,3,C,Hypothetical protein
+SORBI_3003G416800,cold_induced,Downregulated,,8054737,3,C,"PsbP domain-containing protein 7, chloroplastic"
+SORBI_3003G418900,cold_induced,Downregulated,,8062285,3,C,Hypothetical protein
+SORBI_3003G419100,cold_induced,Downregulated,,8062286,3,C,Hypothetical protein
+SORBI_3003G419900,cold_induced,Downregulated,,8081314,3,C,"Photosystem II protein Psb28, class 1 domain containing protein"
+SORBI_3003G424950,cold_induced,Downregulated,,8062317,3,C,Hypothetical protein
+SORBI_3003G425200,cold_induced,Downregulated,,8062319,3,C,Hypothetical protein
+SORBI_3003G425500,cold_induced,Downregulated,,8062320,3,C,Hypothetical protein
+SORBI_3003G425850,cold_induced,Downregulated,,8081333,3,C,Hypothetical protein
+SORBI_3003G428600,cold_induced,Downregulated,,8062334,3,C,Protein LONG AFTER FAR-RED 3
+SORBI_3003G428700,cold_induced,Downregulated,,8077368,3,C,Hypothetical protein
+SORBI_3003G430400,cold_induced,Downregulated,,8062340,3,C,Hypothetical protein
+SORBI_3003G431900,cold_induced,Downregulated,,8074089,3,C,Hypothetical protein
+SORBI_3003G432000,cold_induced,Downregulated,,8074090,3,C,Hypothetical protein
+SORBI_3003G432100,cold_induced,Downregulated,,8074091,3,C,Hypothetical protein
+SORBI_3003G434200,cold_induced,Downregulated,,8077392,3,C,Hypothetical protein
+SORBI_3003G438500,cold_induced,Downregulated,,8077414,3,C,Hypothetical protein
+SORBI_3003G440300,cold_induced,Downregulated,,8074122,3,C,Hypothetical protein
+SORBI_3003G443000,cold_induced,Downregulated,,8074133,3,C,Hypothetical protein
+SORBI_3004G000601,cold_induced,Downregulated,,8066465,4,C,Hypothetical protein
+SORBI_3004G000700,cold_induced,Downregulated,,8074150,4,C,AT4G22880 protein
+SORBI_3004G004800,cold_induced,Downregulated,SAI,8085173,4,C,
+SORBI_3004G005300,cold_induced,Downregulated,,8085177,4,C,Hypothetical protein
+SORBI_3004G011201,cold_induced,Downregulated,,8068219,4,C,Hypothetical protein
+SORBI_3004G012200,cold_induced,Downregulated,,8085201,4,C,Hypothetical protein
+SORBI_3004G015400,cold_induced,Downregulated,,8068239,4,C,Hypothetical protein
+SORBI_3004G015500,cold_induced,Downregulated,,8085218,4,C,Hypothetical protein
+SORBI_3004G019300,cold_induced,Downregulated,,8085234,4,C,Hypothetical protein
+SORBI_3004G019400,cold_induced,Downregulated,,110434455,4,C,Hypothetical protein
+SORBI_3004G020300,cold_induced,Downregulated,,8055043,4,C,Hypothetical protein
+SORBI_3004G023400,cold_induced,Downregulated,,8068278,4,C,"Protein LOW PSII ACCUMULATION 2, chloroplastic"
+SORBI_3004G025000,cold_induced,Downregulated,,110434658,4,C,Hypothetical protein
+SORBI_3004G025700,cold_induced,Downregulated,,8068284,4,C,Hypothetical protein
+SORBI_3004G028200,cold_induced,Downregulated,,8069917,4,C,Hypothetical protein
+SORBI_3004G028300,cold_induced,Downregulated,,8069918,4,C,Hypothetical protein
+SORBI_3004G032200,cold_induced,Downregulated,,8057524,4,C,Phosphopantetheine adenylyltransferase
+SORBI_3004G032300,cold_induced,Downregulated,,8057525,4,C,Hypothetical protein
+SORBI_3004G032400,cold_induced,Downregulated,,8069937,4,C,"L-aspartate oxidase, chloroplastic"
+SORBI_3004G035100,cold_induced,Downregulated,,8057542,4,C,Hypothetical protein
+SORBI_3004G035800,cold_induced,Downregulated,,8062817,4,C,Hypothetical protein
+SORBI_3004G035900,cold_induced,Downregulated,,8069948,4,C,Hypothetical protein
+SORBI_3004G044800,cold_induced,Downregulated,,8076071,4,C,Hypothetical protein
+SORBI_3004G049200,cold_induced,Downregulated,,8074668,4,C,Hypothetical protein
+SORBI_3004G051000,cold_induced,Downregulated,,8076101,4,C,Hypothetical protein
+SORBI_3004G053700,cold_induced,Downregulated,,8077168,4,C,Hypothetical protein
+SORBI_3004G059800,cold_induced,Downregulated,,8077196,4,C,"Ion transporter , Na+ transpor"
+SORBI_3004G060832,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G062500,cold_induced,Downregulated,,8079391,4,C,"4-coumarate:coenzyme A ligase, Lignin biosynthesis, Defense against woundin"
+SORBI_3004G064000,cold_induced,Downregulated,,8077615,4,C,Hypothetical protein
+SORBI_3004G064400,cold_induced,Downregulated,,8077619,4,C,Hypothetical protein
+SORBI_3004G064500,cold_induced,Downregulated,,8079398,4,C,Hypothetical protein
+SORBI_3004G065900,cold_induced,Downregulated,,8077628,4,C,"WRKY transcription factor, Defense respons"
+SORBI_3004G073000,cold_induced,Downregulated,,110434361,4,C,Hypothetical protein
+SORBI_3004G073800,cold_induced,Downregulated,,8079445,4,C,Hypothetical protein
+SORBI_3004G075900,cold_induced,Downregulated,,8079457,4,C,Glycosyltransferase (Fragment)
+SORBI_3004G076800,cold_induced,Downregulated,,8072363,4,C,Hypothetical protein
+SORBI_3004G084100,cold_induced,Downregulated,,8082920,4,C,Hypothetical protein
+SORBI_3004G084900,cold_induced,Downregulated,,8071656,4,C,Hypothetical protein
+SORBI_3004G085600,cold_induced,Downregulated,,8082929,4,C,Hypothetical protein
+SORBI_3004G086300,cold_induced,Downregulated,,8082933,4,C,(6-4)DNA photolyase
+SORBI_3004G086800,cold_induced,Downregulated,,8071662,4,C,Hypothetical protein
+SORBI_3004G092000,cold_induced,Downregulated,,110435051,4,C,Hypothetical protein
+SORBI_3004G094100,cold_induced,Downregulated,,8073765,4,C,"GATA transcription factor, Chloroplast development, Plant architectur"
+SORBI_3004G094600,cold_induced,Downregulated,,8073767,4,C,Hypothetical protein
+SORBI_3004G095500,cold_induced,Downregulated,,8073779,4,C,Cytochrome P450 711A1
+SORBI_3004G095600,cold_induced,Downregulated,,8085538,4,C,Hypothetical protein
+SORBI_3004G097700,cold_induced,Downregulated,,8073792,4,C,Hypothetical protein
+SORBI_3004G099200,cold_induced,Downregulated,,8073799,4,C,Hypothetical protein
+SORBI_3004G101400,cold_induced,Downregulated,,8073808,4,C,Similar to Heat shock transcription factor 29 (Fragment)
+SORBI_3004G103000,cold_induced,Downregulated,,8073819,4,C,RING-type E3 ubiquitin transferase
+SORBI_3004G105800,cold_induced,Downregulated,,8078307,4,C,Hypothetical protein
+SORBI_3004G107900,cold_induced,Downregulated,,8078318,4,C,Hypothetical protein
+SORBI_3004G111100,cold_induced,Downregulated,,8059037,4,C,Hypothetical protein
+SORBI_3004G111800,cold_induced,Downregulated,,8078337,4,C,Hypothetical protein
+SORBI_3004G112100,cold_induced,Downregulated,,8078338,4,C,Hypothetical protein
+SORBI_3004G112300,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G113900,cold_induced,Downregulated,,8078349,4,C,Hypothetical protein
+SORBI_3004G114500,cold_induced,Downregulated,,8059048,4,C,Hypothetical protein
+SORBI_3004G115900,cold_induced,Downregulated,,8078358,4,C,Hypothetical protein
+SORBI_3004G116800,cold_induced,Downregulated,,8078361,4,C,Hypothetical protein
+SORBI_3004G117400,cold_induced,Downregulated,,8059060,4,C,Hypothetical protein
+SORBI_3004G119700,cold_induced,Downregulated,,8080373,4,C,Hypothetical protein
+SORBI_3004G121200,cold_induced,Downregulated,,8059085,4,C,Hypothetical protein
+SORBI_3004G121900,cold_induced,Downregulated,,8080384,4,C,Hypothetical protein
+SORBI_3004G124800,cold_induced,Downregulated,,8080398,4,C,Hypothetical protein
+SORBI_3004G125200,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G125700,cold_induced,Downregulated,,8060378,4,C,Hypothetical protein
+SORBI_3004G127800,cold_induced,Downregulated,,8060394,4,C,Hypothetical protein
+SORBI_3004G128600,cold_induced,Downregulated,,8057430,4,C,Hypothetical protein
+SORBI_3004G128900,cold_induced,Downregulated,,8081627,4,C,Hypothetical protein
+SORBI_3004G129100,cold_induced,Downregulated,,8077747,4,C,Hypothetical protein
+SORBI_3004G130600,cold_induced,Downregulated,CBL05,8081639,4,C,
+SORBI_3004G136600,cold_induced,Downregulated,,8081671,4,C,Hypothetical protein
+SORBI_3004G141100,cold_induced,Downregulated,,8084482,4,C,Inositol-tetrakisphosphate 1-kinase
+SORBI_3004G143300,cold_induced,Downregulated,,8084502,4,C,High mobility group B protein 15
+SORBI_3004G147400,cold_induced,Downregulated,,8056693,4,C,Hypothetical protein
+SORBI_3004G151800,cold_induced,Downregulated,,8056063,4,C,Hypothetical protein
+SORBI_3004G153900,cold_induced,Downregulated,,110434906,4,C,Hypothetical protein
+SORBI_3004G158300,cold_induced,Downregulated,,8059597,4,C,Hypothetical protein
+SORBI_3004G160300,cold_induced,Downregulated,,8056809,4,C,Hypothetical protein
+SORBI_3004G167300,cold_induced,Downregulated,,8058655,4,C,Hypothetical protein
+SORBI_3004G168700,cold_induced,Downregulated,,8061025,4,C,Hypothetical protein
+SORBI_3004G169000,cold_induced,Downregulated,,8064233,4,C,Hypothetical protein
+SORBI_3004G169200,cold_induced,Downregulated,,8064235,4,C,Hypothetical protein
+SORBI_3004G169900,cold_induced,Downregulated,,8061028,4,C,Hypothetical protein
+SORBI_3004G171400,cold_induced,Downregulated,,8064247,4,C,Hypothetical protein
+SORBI_3004G171700,cold_induced,Downregulated,,8061043,4,C,Hypothetical protein
+SORBI_3004G177600,cold_induced,Downregulated,,8064273,4,C,Hypothetical protein
+SORBI_3004G178000,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G181300,cold_induced,Downregulated,,8072584,4,C,Hypothetical protein
+SORBI_3004G184800,cold_induced,Downregulated,,8072599,4,C,Hypothetical protein
+SORBI_3004G186300,cold_induced,Downregulated,,8072607,4,C,Hypothetical protein
+SORBI_3004G187800,cold_induced,Downregulated,,8072614,4,C,Hypothetical protein
+SORBI_3004G189500,cold_induced,Downregulated,,8072623,4,C,Hypothetical protein
+SORBI_3004G190100,cold_induced,Downregulated,,8055395,4,C,Hypothetical protein
+SORBI_3004G191400,cold_induced,Downregulated,,110435001,4,C,Hypothetical protein
+SORBI_3004G193000,cold_induced,Downregulated,,8070561,4,C,Protein NRT1/ PTR FAMILY 6.4
+SORBI_3004G197600,cold_induced,Downregulated,,8055428,4,C,Hypothetical protein
+SORBI_3004G199300,cold_induced,Downregulated,,8055442,4,C,Hypothetical protein
+SORBI_3004G199900,cold_induced,Downregulated,,8055817,4,C,Phosphate transporter 2
+SORBI_3004G201100,cold_induced,Downregulated,,8056468,4,C,Hypothetical protein
+SORBI_3004G203400,cold_induced,Downregulated,,8056482,4,C,Hypothetical protein
+SORBI_3004G205700,cold_induced,Downregulated,,8056491,4,C,Hypothetical protein
+SORBI_3004G206100,cold_induced,Downregulated,,8072423,4,C,Hypothetical protein
+SORBI_3004G208700,cold_induced,Downregulated,,8056503,4,C,Similar to Chitinase (EC 3.2.1.14) A
+SORBI_3004G211866,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G211900,cold_induced,Downregulated,,8059669,4,C,Hypothetical protein
+SORBI_3004G213300,cold_induced,Downregulated,,8059679,4,C,Hypothetical protein
+SORBI_3004G213500,cold_induced,Downregulated,,8072457,4,C,Hypothetical protein
+SORBI_3004G215800,cold_induced,Downregulated,,8072473,4,C,Hypothetical protein
+SORBI_3004G217450,cold_induced,Downregulated,,8072483,4,C,Hypothetical protein
+SORBI_3004G217900,cold_induced,Downregulated,,8072486,4,C,Pentatricopeptide repeat-containing protein At1g33350
+SORBI_3004G218700,cold_induced,Downregulated,,8072489,4,C,Hypothetical protein
+SORBI_3004G218900,cold_induced,Downregulated,,8072490,4,C,Hypothetical protein
+SORBI_3004G219400,cold_induced,Downregulated,,8072492,4,C,Hypothetical protein
+SORBI_3004G219800,cold_induced,Downregulated,,8066164,4,C,Hypothetical protein
+SORBI_3004G220400,cold_induced,Downregulated,,8066166,4,C,Hypothetical protein
+SORBI_3004G220500,cold_induced,Downregulated,,8066167,4,C,Hypothetical protein
+SORBI_3004G220600,cold_induced,Downregulated,,8066169,4,C,Hypothetical protein
+SORBI_3004G220700,cold_induced,Downregulated,,8066170,4,C,Hypothetical protein
+SORBI_3004G221400,cold_induced,Downregulated,,8074777,4,C,Hypothetical protein
+SORBI_3004G227400,cold_induced,Downregulated,,8066201,4,C,Hypothetical protein
+SORBI_3004G229200,cold_induced,Downregulated,,8074815,4,C,Hypothetical protein
+SORBI_3004G229300,cold_induced,Downregulated,,8066209,4,C,Hypothetical protein
+SORBI_3004G232500,cold_induced,Downregulated,,8066406,4,C,Hypothetical protein
+SORBI_3004G233400,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G234100,cold_induced,Downregulated,,110434942,4,C,Hypothetical protein
+SORBI_3004G236500,cold_induced,Downregulated,,8066430,4,C,Hypothetical protein
+SORBI_3004G236600,cold_induced,Downregulated,,110434702,4,C,Hypothetical protein
+SORBI_3004G238100,cold_induced,Downregulated,NIP2-1,8066437,4,C,
+SORBI_3004G238700,cold_induced,Downregulated,,8075712,4,C,Hypothetical protein
+SORBI_3004G240700,cold_induced,Downregulated,,8075718,4,C,Hypothetical protein
+SORBI_3004G240900,cold_induced,Downregulated,,110434954,4,C,Auxin transport protein REH1
+SORBI_3004G243500,cold_induced,Downregulated,,110434514,4,C,Hypothetical protein
+SORBI_3004G244100,cold_induced,Downregulated,,8075735,4,C,Hypothetical protein
+SORBI_3004G244300,cold_induced,Downregulated,,8075738,4,C,Hypothetical protein
+SORBI_3004G244600,cold_induced,Downregulated,,8075740,4,C,Hypothetical protein
+SORBI_3004G245000,cold_induced,Downregulated,,8075742,4,C,Histidine kinase 4
+SORBI_3004G246600,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G247600,cold_induced,Downregulated,,8068621,4,C,Hypothetical protein
+SORBI_3004G247700,cold_induced,Downregulated,,8068622,4,C,Hypothetical protein
+SORBI_3004G253300,cold_induced,Downregulated,,8071745,4,C,Hypothetical protein
+SORBI_3004G255600,cold_induced,Downregulated,,8071756,4,C,Hypothetical protein
+SORBI_3004G257000,cold_induced,Downregulated,,110434915,4,C,Hypothetical protein
+SORBI_3004G257300,cold_induced,Downregulated,,8077721,4,C,Hypothetical protein
+SORBI_3004G258500,cold_induced,Downregulated,,8071771,4,C,Hypothetical protein
+SORBI_3004G259000,cold_induced,Downregulated,,8071774,4,C,Hypothetical protein
+SORBI_3004G260600,cold_induced,Downregulated,DES2,8066368,4,C,
+SORBI_3004G261200,cold_induced,Downregulated,,8071783,4,C,Hypothetical protein
+SORBI_3004G263000,cold_induced,Downregulated,,8073839,4,C,Hypothetical protein
+SORBI_3004G265600,cold_induced,Downregulated,,8073151,4,C,Hypothetical protein
+SORBI_3004G267000,cold_induced,Downregulated,,8073158,4,C,Hypothetical protein
+SORBI_3004G267700,cold_induced,Downregulated,,110434678,4,C,Hypothetical protein
+SORBI_3004G268400,cold_induced,Downregulated,,8073162,4,C,Hypothetical protein
+SORBI_3004G268700,cold_induced,Downregulated,,8073163,4,C,Hypothetical protein
+SORBI_3004G269400,cold_induced,Downregulated,,8073869,4,C,Hypothetical protein
+SORBI_3004G269900,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G272700,cold_induced,Downregulated,,8073882,4,C,"4-coumarate:coenzyme A ligase, Flavonoid biosynthesi"
+SORBI_3004G273200,cold_induced,Downregulated,,8073179,4,C,Hypothetical protein
+SORBI_3004G274800,cold_induced,Downregulated,,8073892,4,C,Hypothetical protein
+SORBI_3004G276200,cold_induced,Downregulated,,8073896,4,C,Hypothetical protein
+SORBI_3004G278200,cold_induced,Downregulated,,8078389,4,C,Hypothetical protein
+SORBI_3004G278300,cold_induced,Downregulated,,8078390,4,C,Hypothetical protein
+SORBI_3004G278400,cold_induced,Downregulated,,8078391,4,C,Hypothetical protein
+SORBI_3004G279200,cold_induced,Downregulated,,110434471,4,C,Hypothetical protein
+SORBI_3004G279300,cold_induced,Downregulated,,8073204,4,C,Hypothetical protein
+SORBI_3004G280200,cold_induced,Downregulated,,8073207,4,C,Hypothetical protein
+SORBI_3004G281400,cold_induced,Downregulated,,8076030,4,C,Hypothetical protein
+SORBI_3004G281800,cold_induced,Downregulated,,8076033,4,C,Hypothetical protein
+SORBI_3004G282900,cold_induced,Downregulated,,8073220,4,C,Hypothetical protein
+SORBI_3004G286400,cold_induced,Downregulated,,8076049,4,C,Hypothetical protein
+SORBI_3004G290600,cold_induced,Downregulated,,8076215,4,C,Hypothetical protein
+SORBI_3004G293400,cold_induced,Downregulated,,8076221,4,C,Hypothetical protein
+SORBI_3004G294300,cold_induced,Downregulated,,8073951,4,C,Hypothetical protein
+SORBI_3004G295500,cold_induced,Downregulated,,8073956,4,C,Hypothetical protein
+SORBI_3004G295700,cold_induced,Downregulated,,8073958,4,C,Hypothetical protein
+SORBI_3004G296200,cold_induced,Downregulated,,8076238,4,C,Hypothetical protein
+SORBI_3004G297600,cold_induced,Downregulated,,8073971,4,C,Hypothetical protein
+SORBI_3004G297700,cold_induced,Downregulated,,8073972,4,C,Ras-related protein RABD2a
+SORBI_3004G298200,cold_induced,Downregulated,,,4,C,Vesicle-associated protein 2-1
+SORBI_3004G300600,cold_induced,Downregulated,,8075158,4,C,Hypothetical protein
+SORBI_3004G300800,cold_induced,Downregulated,,8078880,4,C,Hypothetical protein
+SORBI_3004G302200,cold_induced,Downregulated,,8078884,4,C,Hypothetical protein
+SORBI_3004G303700,cold_induced,Downregulated,,8078891,4,C,Hypothetical protein
+SORBI_3004G303800,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G305000,cold_induced,Downregulated,,8078900,4,C,Hypothetical protein
+SORBI_3004G306100,cold_induced,Downregulated,,8078904,4,C,Hypothetical protein
+SORBI_3004G308900,cold_induced,Downregulated,,8078918,4,C,Hypothetical protein
+SORBI_3004G309600,cold_induced,Downregulated,ABF1,8075201,4,C,
+SORBI_3004G312300,cold_induced,Downregulated,,8075209,4,C,Hypothetical protein
+SORBI_3004G312500,cold_induced,Downregulated,,8078943,4,C,Hypothetical protein
+SORBI_3004G312600,cold_induced,Downregulated,,8078944,4,C,Hypothetical protein
+SORBI_3004G312800,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G313900,cold_induced,Downregulated,,8075216,4,C,Hypothetical protein
+SORBI_3004G315600,cold_induced,Downregulated,,8081926,4,C,Hypothetical protein
+SORBI_3004G317500,cold_induced,Downregulated,,8081939,4,C,Hypothetical protein
+SORBI_3004G318100,cold_induced,Downregulated,,8082676,4,C,Hypothetical protein
+SORBI_3004G318200,cold_induced,Downregulated,,8082677,4,C,Hypothetical protein
+SORBI_3004G319000,cold_induced,Downregulated,,8082685,4,C,Hypothetical protein
+SORBI_3004G319700,cold_induced,Downregulated,,8082690,4,C,Hypothetical protein
+SORBI_3004G322600,cold_induced,Downregulated,,110434614,4,C,Hypothetical protein
+SORBI_3004G323400,cold_induced,Downregulated,,8081957,4,C,Hypothetical protein
+SORBI_3004G324000,cold_induced,Downregulated,,8082712,4,C,Hypothetical protein
+SORBI_3004G325000,cold_induced,Downregulated,,8082721,4,C,Hypothetical protein
+SORBI_3004G326800,cold_induced,Downregulated,,8082727,4,C,Hypothetical protein
+SORBI_3004G326900,cold_induced,Downregulated,,8082728,4,C,Hypothetical protein
+SORBI_3004G327150,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G327600,cold_induced,Downregulated,,8082732,4,C,Hypothetical protein
+SORBI_3004G327700,cold_induced,Downregulated,,8081975,4,C,Protein TSS
+SORBI_3004G328300,cold_induced,Downregulated,,8081978,4,C,Hypothetical protein
+SORBI_3004G328601,cold_induced,Downregulated,,8082737,4,C,Hypothetical protein
+SORBI_3004G328700,cold_induced,Downregulated,,8081980,4,C,Hypothetical protein
+SORBI_3004G328800,cold_induced,Downregulated,,8081981,4,C,Hypothetical protein
+SORBI_3004G328900,cold_induced,Downregulated,,8081982,4,C,Hypothetical protein
+SORBI_3004G330300,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G331000,cold_induced,Downregulated,,8084641,4,C,Hypothetical protein
+SORBI_3004G331800,cold_induced,Downregulated,,8084646,4,C,Hypothetical protein
+SORBI_3004G332100,cold_induced,Downregulated,,8056392,4,C,Hypothetical protein
+SORBI_3004G334000,cold_induced,Downregulated,,8084656,4,C,Hypothetical protein
+SORBI_3004G337500,cold_induced,Downregulated,,8084674,4,C,Hypothetical protein
+SORBI_3004G337900,cold_induced,Downregulated,,8084676,4,C,Hypothetical protein
+SORBI_3004G341100,cold_induced,Downregulated,,8056430,4,C,Hypothetical protein
+SORBI_3004G341800,cold_induced,Downregulated,,8084697,4,C,Hypothetical protein
+SORBI_3004G343100,cold_induced,Downregulated,,8056436,4,C,Hypothetical protein
+SORBI_3004G343500,cold_induced,Downregulated,,8084705,4,C,"Carboxyl-terminal-processing peptidase 2, chloroplastic"
+SORBI_3004G343700,cold_induced,Downregulated,,8084706,4,C,Hypothetical protein
+SORBI_3004G344400,cold_induced,Downregulated,,110434896,4,C,Hypothetical protein
+SORBI_3004G344600,cold_induced,Downregulated,,8056443,4,C,Hypothetical protein
+SORBI_3004G352400,cold_induced,Downregulated,,,4,C,Hypothetical protein
+SORBI_3004G352500,cold_induced,Downregulated,,8055341,4,C,Hypothetical protein
+SORBI_3004G353100,cold_induced,Downregulated,,8055344,4,C,Hypothetical protein
+SORBI_3004G353700,cold_induced,Downregulated,,8084448,4,C,Hypothetical protein
+SORBI_3004G353800,cold_induced,Downregulated,,8084449,4,C,Hypothetical protein
+SORBI_3004G355700,cold_induced,Downregulated,,8056249,4,C,Hypothetical protein
+SORBI_3004G355900,cold_induced,Downregulated,,8056251,4,C,Hypothetical protein
+SORBI_3004G356300,cold_induced,Downregulated,,8056254,4,C,Hypothetical protein
+SORBI_3004G356400,cold_induced,Downregulated,,8056255,4,C,Hypothetical protein
+SORBI_3005G001700,cold_induced,Downregulated,,8079953,5,C,Hypothetical protein
+SORBI_3005G005200,cold_induced,Downregulated,,,5,C,Hypothetical protein
+SORBI_3005G005400,cold_induced,Downregulated,,,5,C,Hypothetical protein
+SORBI_3005G013600,cold_induced,Downregulated,,8080015,5,C,Hypothetical protein
+SORBI_3005G013800,cold_induced,Downregulated,,8081486,5,C,Hypothetical protein
+SORBI_3005G015300,cold_induced,Downregulated,,8083017,5,C,Hypothetical protein
+SORBI_3005G019400,cold_induced,Downregulated,,8083042,5,C,Hypothetical protein
+SORBI_3005G020600,cold_induced,Downregulated,,8069257,5,C,Hypothetical protein
+SORBI_3005G021000,cold_induced,Downregulated,,8069258,5,C,Hypothetical protein
+SORBI_3005G024200,cold_induced,Downregulated,CIPK03,110435572,5,C,
+SORBI_3005G024600,cold_induced,Downregulated,,,5,C,Hypothetical protein
+SORBI_3005G024800,cold_induced,Downregulated,,110435661,5,C,Hypothetical protein
+SORBI_3005G026100,cold_induced,Downregulated,,8069272,5,C,Hypothetical protein
+SORBI_3005G036500,cold_induced,Downregulated,,8058535,5,C,Hypothetical protein
+SORBI_3005G036800,cold_induced,Downregulated,,8070629,5,C,Hypothetical protein
+SORBI_3005G037000,cold_induced,Downregulated,,8058537,5,C,Hypothetical protein
+SORBI_3005G037300,cold_induced,Downregulated,,8058540,5,C,Hypothetical protein
+SORBI_3005G042900,cold_induced,Downregulated,,8058571,5,C,Hypothetical protein
+SORBI_3005G044900,cold_induced,Downregulated,,8070658,5,C,Hypothetical protein
+SORBI_3005G045900,cold_induced,Downregulated,,8083086,5,C,Hypothetical protein
+SORBI_3005G047100,cold_induced,Downregulated,,8083089,5,C,Hypothetical protein
+SORBI_3005G055300,cold_induced,Downregulated,,8073643,5,C,Hypothetical protein
+SORBI_3005G056000,cold_induced,Downregulated,,8072747,5,C,Hypothetical protein
+SORBI_3005G056400,cold_induced,Downregulated,,8073648,5,C,Hypothetical protein
+SORBI_3005G061700,cold_induced,Downregulated,,8079733,5,C,Hypothetical protein
+SORBI_3005G062000,cold_induced,Downregulated,,8072765,5,C,Hypothetical protein
+SORBI_3005G063300,cold_induced,Downregulated,,8072774,5,C,Hypothetical protein
+SORBI_3005G064200,cold_induced,Downregulated,,8072780,5,C,Hypothetical protein
+SORBI_3005G064600,cold_induced,Downregulated,,8079742,5,C,Hypothetical protein
+SORBI_3005G067200,cold_induced,Downregulated,,8079761,5,C,Hypothetical protein
+SORBI_3005G073200,cold_induced,Downregulated,,8076746,5,C,Hypothetical protein
+SORBI_3005G075900,cold_induced,Downregulated,,8056290,5,C,Hypothetical protein
+SORBI_3005G076600,cold_induced,Downregulated,,8076760,5,C,Hypothetical protein
+SORBI_3005G080200,cold_induced,Downregulated,,8076789,5,C,Shewanella-like protein phosphatase 2
+SORBI_3005G089600,cold_induced,Downregulated,,8071544,5,C,Probable sucrose-phosphate synthase 4
+SORBI_3005G091300,cold_induced,Downregulated,,8057178,5,C,Hypothetical protein
+SORBI_3005G091400,cold_induced,Downregulated,,,5,C,Hypothetical protein
+SORBI_3005G092000,cold_induced,Downregulated,,8060008,5,C,Hypothetical protein
+SORBI_3005G097800,cold_induced,Downregulated,,8071601,5,C,Hypothetical protein
+SORBI_3005G098200,cold_induced,Downregulated,,8071604,5,C,Hypothetical protein
+SORBI_3005G101200,cold_induced,Downregulated,,8060068,5,C,AtACDO1
+SORBI_3005G102100,cold_induced,Downregulated,,8060076,5,C,Hypothetical protein
+SORBI_3005G109000,cold_induced,Downregulated,,110435249,5,C,Hypothetical protein
+SORBI_3005G110436,cold_induced,Downregulated,,8155716,5,C,Hypothetical protein
+SORBI_3005G111400,cold_induced,Downregulated,,8064415,5,C,Hypothetical protein
+SORBI_3005G122500,cold_induced,Downregulated,,8083104,5,C,Hypothetical protein
+SORBI_3005G134100,cold_induced,Downregulated,,8064801,5,C,Hypothetical protein
+SORBI_3005G135100,cold_induced,Downregulated,,,5,C,Hypothetical protein
+SORBI_3005G136200,cold_induced,Downregulated,,8056975,5,C,Hypothetical protein
+SORBI_3005G137300,cold_induced,Downregulated,CHS6,8064820,5,C,
+SORBI_3005G139700,cold_induced,Downregulated,,8056984,5,C,Hypothetical protein
+SORBI_3005G141000,cold_induced,Downregulated,,8064833,5,C,Hypothetical protein
+SORBI_3005G165900,cold_induced,Downregulated,,8062663,5,C,Hypothetical protein
+SORBI_3005G167800,cold_induced,Downregulated,,8062676,5,C,Hypothetical protein
+SORBI_3005G168700,cold_induced,Downregulated,,8071984,5,C,Hypothetical protein
+SORBI_3005G175300,cold_induced,Downregulated,,8066679,5,C,Hypothetical protein
+SORBI_3005G176100,cold_induced,Downregulated,,8074345,5,C,Hypothetical protein
+SORBI_3005G183200,cold_induced,Downregulated,,8066716,5,C,Hypothetical protein
+SORBI_3005G191500,cold_induced,Downregulated,,,5,C,Hypothetical protein
+SORBI_3005G194100,cold_induced,Downregulated,,8079133,5,C,Hypothetical protein
+SORBI_3005G200200,cold_induced,Downregulated,,110435652,5,C,Hypothetical protein
+SORBI_3005G202500,cold_induced,Downregulated,,8082051,5,C,Hypothetical protein
+SORBI_3005G206500,cold_induced,Downregulated,,8070185,5,C,Magnesium/proton exchanger
+SORBI_3005G208801,cold_induced,Downregulated,,8070199,5,C,Hypothetical protein
+SORBI_3005G208900,cold_induced,Downregulated,,8070200,5,C,Hypothetical protein
+SORBI_3005G217000,cold_induced,Downregulated,,110435588,5,C,Glycosyl hydrolase superfamily protein
+SORBI_3005G220900,cold_induced,Downregulated,,8076331,5,C,Hypothetical protein
+SORBI_3005G230100,cold_induced,Downregulated,,110435509,5,C,Hypothetical protein
+SORBI_3005G231500,cold_induced,Downregulated,Rca2,8086040,5,C,
+SORBI_3006G004700,cold_induced,Downregulated,,8057339,6,C,Hypothetical protein
+SORBI_3006G008700,cold_induced,Downregulated,,8080261,6,C,ATP sulfurylase 2
+SORBI_3006G008800,cold_induced,Downregulated,,8080262,6,C,E2FC
+SORBI_3006G011300,cold_induced,Downregulated,,8065979,6,C,Hypothetical protein
+SORBI_3006G014400,cold_induced,Downregulated,,8080293,6,C,Hypothetical protein
+SORBI_3006G020200,cold_induced,Downregulated,,8067721,6,C,Hypothetical protein
+SORBI_3006G024600,cold_induced,Downregulated,,8083429,6,C,Hypothetical protein
+SORBI_3006G028600,cold_induced,Downregulated,,8067777,6,C,Hypothetical protein
+SORBI_3006G031400,cold_induced,Downregulated,,8069409,6,C,Hypothetical protein
+SORBI_3006G031833,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G032200,cold_induced,Downregulated,,8069413,6,C,Hypothetical protein
+SORBI_3006G033800,cold_induced,Downregulated,,8085763,6,C,Hypothetical protein
+SORBI_3006G035600,cold_induced,Downregulated,,8085783,6,C,Hypothetical protein
+SORBI_3006G037401,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G045500,cold_induced,Downregulated,,8082748,6,C,Hypothetical protein
+SORBI_3006G046300,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G048400,cold_induced,Downregulated,,8070794,6,C,Hypothetical protein
+SORBI_3006G054800,cold_induced,Downregulated,,8072002,6,C,Hypothetical protein
+SORBI_3006G054900,cold_induced,Downregulated,,8072003,6,C,Hypothetical protein
+SORBI_3006G055000,cold_induced,Downregulated,,8070835,6,C,Hypothetical protein
+SORBI_3006G056400,cold_induced,Downregulated,,8072010,6,C,Hypothetical protein
+SORBI_3006G057000,cold_induced,Downregulated,,8072020,6,C,Regulation of axillary meristem formatio
+SORBI_3006G057300,cold_induced,Downregulated,,8072022,6,C,Hypothetical protein
+SORBI_3006G062100,cold_induced,Downregulated,,8072055,6,C,Hypothetical protein
+SORBI_3006G065400,cold_induced,Downregulated,,8075253,6,C,Hypothetical protein
+SORBI_3006G066200,cold_induced,Downregulated,,8075256,6,C,Hypothetical protein
+SORBI_3006G066400,cold_induced,Downregulated,,8072954,6,C,Hypothetical protein
+SORBI_3006G067400,cold_induced,Downregulated,,8072956,6,C,Hypothetical protein
+SORBI_3006G068900,cold_induced,Downregulated,,8072965,6,C,Hypothetical protein
+SORBI_3006G069200,cold_induced,Downregulated,,8072968,6,C,Hypothetical protein
+SORBI_3006G075100,cold_induced,Downregulated,,8077578,6,C,Hypothetical protein
+SORBI_3006G076900,cold_induced,Downregulated,,8073018,6,C,Hypothetical protein
+SORBI_3006G077400,cold_induced,Downregulated,,8073023,6,C,"Probable plastid-lipid-associated protein 7, chloroplastic"
+SORBI_3006G077500,cold_induced,Downregulated,,8073024,6,C,Hypothetical protein
+SORBI_3006G080750,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G080800,cold_induced,Downregulated,,110436385,6,C,Hypothetical protein
+SORBI_3006G081200,cold_induced,Downregulated,,8074002,6,C,Hypothetical protein
+SORBI_3006G081600,cold_induced,Downregulated,,8074003,6,C,Hypothetical protein
+SORBI_3006G087900,cold_induced,Downregulated,,8080325,6,C,Hypothetical protein
+SORBI_3006G090300,cold_induced,Downregulated,,8075848,6,C,Hypothetical protein
+SORBI_3006G093700,cold_induced,Downregulated,,110436485,6,C,Hypothetical protein
+SORBI_3006G094800,cold_induced,Downregulated,,8075869,6,C,Hypothetical protein
+SORBI_3006G095300,cold_induced,Downregulated,,8080367,6,C,Hypothetical protein
+SORBI_3006G095500,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G095600,cold_induced,Downregulated,,8065835,6,C,Hypothetical protein
+SORBI_3006G098600,cold_induced,Downregulated,,8073387,6,C,Hypothetical protein
+SORBI_3006G099700,cold_induced,Downregulated,,8057441,6,C,Hypothetical protein
+SORBI_3006G100600,cold_induced,Downregulated,,110436307,6,C,Hypothetical protein
+SORBI_3006G103000,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G104600,cold_induced,Downregulated,,8057467,6,C,Hypothetical protein
+SORBI_3006G108832,cold_induced,Downregulated,,8057484,6,C,Hypothetical protein
+SORBI_3006G112100,cold_induced,Downregulated,,8073559,6,C,Hypothetical protein
+SORBI_3006G115200,cold_induced,Downregulated,,8058687,6,C,MYB80
+SORBI_3006G115700,cold_induced,Downregulated,,8058691,6,C,Hypothetical protein
+SORBI_3006G118400,cold_induced,Downregulated,,8058709,6,C,Hypothetical protein
+SORBI_3006G120000,cold_induced,Downregulated,,8058712,6,C,Hypothetical protein
+SORBI_3006G121800,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G127300,cold_induced,Downregulated,,8073690,6,C,"Protein STAY-GREEN LIKE, chloroplastic"
+SORBI_3006G128200,cold_induced,Downregulated,,8073694,6,C,Hypothetical protein
+SORBI_3006G130000,cold_induced,Downregulated,,8060180,6,C,Hypothetical protein
+SORBI_3006G130100,cold_induced,Downregulated,,8073705,6,C,Hypothetical protein
+SORBI_3006G131600,cold_induced,Downregulated,,8073712,6,C,Hypothetical protein
+SORBI_3006G136900,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G137200,cold_induced,Downregulated,,8075891,6,C,Hypothetical protein
+SORBI_3006G138300,cold_induced,Downregulated,,8075896,6,C,Hypothetical protein
+SORBI_3006G140500,cold_induced,Downregulated,,8060225,6,C,Hypothetical protein
+SORBI_3006G144300,cold_induced,Downregulated,,8064468,6,C,Hypothetical protein
+SORBI_3006G146100,cold_induced,Downregulated,,8064487,6,C,Hypothetical protein
+SORBI_3006G146500,cold_induced,Downregulated,,8068630,6,C,Hypothetical protein
+SORBI_3006G148000,cold_induced,Downregulated,,8075933,6,C,Hypothetical protein
+SORBI_3006G148300,cold_induced,Downregulated,,8075934,6,C,Hypothetical protein
+SORBI_3006G148900,cold_induced,Downregulated,,8054283,6,C,Hypothetical protein
+SORBI_3006G149600,cold_induced,Downregulated,,8056016,6,C,Hypothetical protein
+SORBI_3006G150100,cold_induced,Downregulated,,8075940,6,C,Hypothetical protein
+SORBI_3006G150800,cold_induced,Downregulated,,8078396,6,C,Hypothetical protein
+SORBI_3006G153300,cold_induced,Downregulated,,8082854,6,C,Pentatricopeptide repeat-containing protein At2g20540
+SORBI_3006G153400,cold_induced,Downregulated,,110436392,6,C,Hypothetical protein
+SORBI_3006G154400,cold_induced,Downregulated,,8056028,6,C,Hypothetical protein
+SORBI_3006G155600,cold_induced,Downregulated,,8082866,6,C,Hypothetical protein
+SORBI_3006G155900,cold_induced,Downregulated,,8056034,6,C,Hypothetical protein
+SORBI_3006G158800,cold_induced,Downregulated,,8083006,6,C,Hypothetical protein
+SORBI_3006G159100,cold_induced,Downregulated,,8056047,6,C,Hypothetical protein
+SORBI_3006G159350,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G160700,cold_induced,Downregulated,,8058343,6,C,Hypothetical protein
+SORBI_3006G161500,cold_induced,Downregulated,,8083327,6,C,"Elongation factor G, chloroplastic"
+SORBI_3006G162000,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G162100,cold_induced,Downregulated,,8083328,6,C,Hypothetical protein
+SORBI_3006G163401,cold_induced,Downregulated,Sb0283s002010,8155298,6,C,
+SORBI_3006G163900,cold_induced,Downregulated,,8083335,6,C,Similar to Homeobox-leucine zipper protein HOX22
+SORBI_3006G164000,cold_induced,Downregulated,,8083336,6,C,Hypothetical protein
+SORBI_3006G164100,cold_induced,Downregulated,,8083337,6,C,Hypothetical protein
+SORBI_3006G165100,cold_induced,Downregulated,,8055931,6,C,Hypothetical protein
+SORBI_3006G168000,cold_induced,Downregulated,,8083349,6,C,Hypothetical protein
+SORBI_3006G170100,cold_induced,Downregulated,,8083365,6,C,Hypothetical protein
+SORBI_3006G171400,cold_induced,Downregulated,,8083373,6,C,Hypothetical protein
+SORBI_3006G173000,cold_induced,Downregulated,,8083383,6,C,Hypothetical protein
+SORBI_3006G175500,cold_induced,Downregulated,,8056590,6,C,Hypothetical protein
+SORBI_3006G175700,cold_induced,Downregulated,,8056591,6,C,Hypothetical protein
+SORBI_3006G176400,cold_induced,Downregulated,,8064641,6,C,Hypothetical protein
+SORBI_3006G176500,cold_induced,Downregulated,,8056593,6,C,Hypothetical protein
+SORBI_3006G177400,cold_induced,Downregulated,,8057567,6,C,Hypothetical protein
+SORBI_3006G182300,cold_induced,Downregulated,,8056613,6,C,Hypothetical protein
+SORBI_3006G183200,cold_induced,Downregulated,,8057552,6,C,Similar to OCL1 homeobox protein
+SORBI_3006G183400,cold_induced,Downregulated,,8060403,6,C,Hypothetical protein
+SORBI_3006G183600,cold_induced,Downregulated,,8057603,6,C,Hypothetical protein
+SORBI_3006G183900,cold_induced,Downregulated,,8057606,6,C,Hypothetical protein
+SORBI_3006G184400,cold_induced,Downregulated,,8060406,6,C,Hypothetical protein
+SORBI_3006G187800,cold_induced,Downregulated,,8060426,6,C,Hypothetical protein
+SORBI_3006G187900,cold_induced,Downregulated,,8057616,6,C,Hypothetical protein
+SORBI_3006G188200,cold_induced,Downregulated,,8060428,6,C,Hypothetical protein
+SORBI_3006G188700,cold_induced,Downregulated,,8057618,6,C,Hypothetical protein
+SORBI_3006G188800,cold_induced,Downregulated,,8057675,6,C,Hypothetical protein
+SORBI_3006G189700,cold_induced,Downregulated,,8060433,6,C,Hypothetical protein
+SORBI_3006G191900,cold_induced,Downregulated,,8057696,6,C,Hypothetical protein
+SORBI_3006G192500,cold_induced,Downregulated,,8060443,6,C,Hypothetical protein
+SORBI_3006G192600,cold_induced,Downregulated,,8060444,6,C,Hypothetical protein
+SORBI_3006G193400,cold_induced,Downregulated,,8057706,6,C,Hypothetical protein
+SORBI_3006G193600,cold_induced,Downregulated,,8057708,6,C,Hypothetical protein
+SORBI_3006G193700,cold_induced,Downregulated,,8060447,6,C,Hypothetical protein
+SORBI_3006G198300,cold_induced,Downregulated,,8071087,6,C,Hypothetical protein
+SORBI_3006G200800,cold_induced,Downregulated,,8071104,6,C,Phosphoribulokinase
+SORBI_3006G202300,cold_induced,Downregulated,,8063920,6,C,Hypothetical protein
+SORBI_3006G204000,cold_induced,Downregulated,,110436335,6,C,Ascorbate peroxidase 4
+SORBI_3006G205600,cold_induced,Downregulated,,8072291,6,C,Hypothetical protein
+SORBI_3006G208800,cold_induced,Downregulated,,8072313,6,C,Hypothetical protein
+SORBI_3006G210300,cold_induced,Downregulated,,8063947,6,C,Hypothetical protein
+SORBI_3006G211400,cold_induced,Downregulated,,8072328,6,C,Hypothetical protein
+SORBI_3006G213700,cold_induced,Downregulated,,8063963,6,C,Hypothetical protein
+SORBI_3006G214300,cold_induced,Downregulated,,8063968,6,C,Hypothetical protein
+SORBI_3006G218900,cold_induced,Downregulated,,8074720,6,C,Probable receptor-like protein kinase At1g30570
+SORBI_3006G219100,cold_induced,Downregulated,,8074722,6,C,Hypothetical protein
+SORBI_3006G220100,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G220200,cold_induced,Downregulated,,8074727,6,C,"Polyamine oxidase, Seed germinatio"
+SORBI_3006G221300,cold_induced,Downregulated,,8066809,6,C,Hypothetical protein
+SORBI_3006G221500,cold_induced,Downregulated,,8066810,6,C,Hypothetical protein
+SORBI_3006G223300,cold_induced,Downregulated,,8066825,6,C,Hypothetical protein
+SORBI_3006G223900,cold_induced,Downregulated,,8074738,6,C,Hypothetical protein
+SORBI_3006G225200,cold_induced,Downregulated,,8074745,6,C,Cyclin-U1-1
+SORBI_3006G226200,cold_induced,Downregulated,,8074753,6,C,Hypothetical protein
+SORBI_3006G227000,cold_induced,Downregulated,,8066840,6,C,Hypothetical protein
+SORBI_3006G227300,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G234433,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G235350,cold_induced,Downregulated,,8068457,6,C,Hypothetical protein
+SORBI_3006G235400,cold_induced,Downregulated,,8079555,6,C,Hypothetical protein
+SORBI_3006G235600,cold_induced,Downregulated,,8079556,6,C,Hypothetical protein
+SORBI_3006G238100,cold_induced,Downregulated,,8079567,6,C,Hypothetical protein
+SORBI_3006G240400,cold_induced,Downregulated,,8068482,6,C,Hypothetical protein
+SORBI_3006G242100,cold_induced,Downregulated,,8068487,6,C,Hypothetical protein
+SORBI_3006G242900,cold_induced,Downregulated,,8079593,6,C,Hypothetical protein
+SORBI_3006G243200,cold_induced,Downregulated,,8079595,6,C,Hypothetical protein
+SORBI_3006G244000,cold_induced,Downregulated,,8068494,6,C,Probable sulfate transporter 3.3
+SORBI_3006G245600,cold_induced,Downregulated,,8068505,6,C,Hypothetical protein
+SORBI_3006G251800,cold_induced,Downregulated,,8070273,6,C,Molybdopterin biosynthesis protein CNX1
+SORBI_3006G253900,cold_induced,Downregulated,,8082549,6,C,Hypothetical protein
+SORBI_3006G254000,cold_induced,Downregulated,,,6,C,Hypothetical protein
+SORBI_3006G259000,cold_induced,Downregulated,,110436144,6,C,Hypothetical protein
+SORBI_3006G259201,cold_induced,Downregulated,,8070295,6,C,Hypothetical protein
+SORBI_3006G262100,cold_induced,Downregulated,,8082594,6,C,"Transcription factor, Regulator for phosphate homeostasi"
+SORBI_3006G263300,cold_induced,Downregulated,,8085850,6,C,"A-type response regulator, Cytokinin signalin"
+SORBI_3006G263600,cold_induced,Downregulated,,8085851,6,C,Hypothetical protein
+SORBI_3006G267500,cold_induced,Downregulated,,8076464,6,C,Hypothetical protein
+SORBI_3006G270100,cold_induced,Downregulated,,8085883,6,C,Allantoinase
+SORBI_3006G270300,cold_induced,Downregulated,MLO,8076479,6,C,
+SORBI_3006G272600,cold_induced,Downregulated,,8076488,6,C,Oxalate--CoA ligase
+SORBI_3006G272700,cold_induced,Downregulated,,8085896,6,C,Hypothetical protein
+SORBI_3006G273700,cold_induced,Downregulated,,8076495,6,C,Hypothetical protein
+SORBI_3006G273800,cold_induced,Downregulated,,8076496,6,C,Hypothetical protein
+SORBI_3006G274300,cold_induced,Downregulated,,8076499,6,C,Hypothetical protein
+SORBI_3006G278100,cold_induced,Downregulated,,110436242,6,C,Hypothetical protein
+SORBI_3006G280500,cold_induced,Downregulated,,8076524,6,C,Hypothetical protein
+SORBI_3007G000900,cold_induced,Downregulated,,8064314,7,C,Hypothetical protein
+SORBI_3007G002800,cold_induced,Downregulated,,8064321,7,C,Hypothetical protein
+SORBI_3007G004600,cold_induced,Downregulated,,8068511,7,C,Hypothetical protein
+SORBI_3007G004700,cold_induced,Downregulated,,8064335,7,C,Hypothetical protein
+SORBI_3007G004750,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G004800,cold_induced,Downregulated,,8064336,7,C,Hypothetical protein
+SORBI_3007G004850,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G004900,cold_induced,Downregulated,,8064337,7,C,Hypothetical protein
+SORBI_3007G011000,cold_induced,Downregulated,,8068542,7,C,Hypothetical protein
+SORBI_3007G011200,cold_induced,Downregulated,,8068543,7,C,Hypothetical protein
+SORBI_3007G016600,cold_induced,Downregulated,,8066092,7,C,Hypothetical protein
+SORBI_3007G018500,cold_induced,Downregulated,,8066101,7,C,Hypothetical protein
+SORBI_3007G020700,cold_induced,Downregulated,,8074024,7,C,Hypothetical protein
+SORBI_3007G024500,cold_induced,Downregulated,,8066126,7,C,Hypothetical protein
+SORBI_3007G027200,cold_induced,Downregulated,,8066139,7,C,Hypothetical protein
+SORBI_3007G028200,cold_induced,Downregulated,,8074071,7,C,Hypothetical protein
+SORBI_3007G029300,cold_induced,Downregulated,,8074076,7,C,"2-succinylbenzoate--CoA ligase, chloroplastic/peroxisomal"
+SORBI_3007G030800,cold_induced,Downregulated,,8074823,7,C,Hypothetical protein
+SORBI_3007G032100,cold_induced,Downregulated,,8067798,7,C,Hypothetical protein
+SORBI_3007G034300,cold_induced,Downregulated,,110436801,7,C,Hypothetical protein
+SORBI_3007G035700,cold_induced,Downregulated,,8067815,7,C,Hypothetical protein
+SORBI_3007G039100,cold_induced,Downregulated,,8067828,7,C,MYB transcription factor
+SORBI_3007G043700,cold_induced,Downregulated,,8067851,7,C,Hypothetical protein
+SORBI_3007G045500,cold_induced,Downregulated,,8069618,7,C,Hypothetical protein
+SORBI_3007G047400,cold_induced,Downregulated,,8080836,7,C,Hypothetical protein
+SORBI_3007G047700,cold_induced,Downregulated,,8080837,7,C,Hypothetical protein
+SORBI_3007G050600,cold_induced,Downregulated,,8069637,7,C,"MLG (mixed-linkage glucan) synthase, Biosynthesis of MLG (cell wall polysaccharide"
+SORBI_3007G050700,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G051300,cold_induced,Downregulated,,8080857,7,C,Hypothetical protein
+SORBI_3007G051800,cold_induced,Downregulated,,8069641,7,C,Hypothetical protein
+SORBI_3007G052400,cold_induced,Downregulated,,8069644,7,C,Hypothetical protein
+SORBI_3007G053000,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G053800,cold_induced,Downregulated,,8080867,7,C,RNA polymerase sigma factor sigA
+SORBI_3007G058100,cold_induced,Downregulated,,8080887,7,C,Light-mediated development protein DET1
+SORBI_3007G059900,cold_induced,Downregulated,,110437053,7,C,Hypothetical protein
+SORBI_3007G060000,cold_induced,Downregulated,,8069674,7,C,Hypothetical protein
+SORBI_3007G062100,cold_induced,Downregulated,,8080907,7,C,Hypothetical protein
+SORBI_3007G065300,cold_induced,Downregulated,,8071117,7,C,Hypothetical protein
+SORBI_3007G065600,cold_induced,Downregulated,,8071119,7,C,Hypothetical protein
+SORBI_3007G069500,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G069600,cold_induced,Downregulated,,110437107,7,C,Hypothetical protein
+SORBI_3007G074000,cold_induced,Downregulated,,8071166,7,C,Hypothetical protein
+SORBI_3007G076200,cold_induced,Downregulated,,8085158,7,C,Hypothetical protein
+SORBI_3007G077001,cold_induced,Downregulated,,8072153,7,C,Hypothetical protein
+SORBI_3007G077100,cold_induced,Downregulated,,8085844,7,C,Hypothetical protein
+SORBI_3007G077200,cold_induced,Downregulated,,8086050,7,C,Hypothetical protein
+SORBI_3007G077300,cold_induced,Downregulated,,8086051,7,C,Hypothetical protein
+SORBI_3007G079400,cold_induced,Downregulated,,110437030,7,C,Hypothetical protein
+SORBI_3007G084200,cold_induced,Downregulated,,110437077,7,C,Hypothetical protein
+SORBI_3007G085300,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G088000,cold_induced,Downregulated,SbCPR3,8057875,7,C,
+SORBI_3007G088600,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G089500,cold_induced,Downregulated,,8073250,7,C,Hypothetical protein
+SORBI_3007G091900,cold_induced,Downregulated,,8067936,7,C,Hypothetical protein
+SORBI_3007G092000,cold_induced,Downregulated,,8073262,7,C,Hypothetical protein
+SORBI_3007G094900,cold_induced,Downregulated,,8067957,7,C,Hypothetical protein
+SORBI_3007G105500,cold_induced,Downregulated,,8069866,7,C,Phototropin-2
+SORBI_3007G111200,cold_induced,Downregulated,,8071032,7,C,Hypothetical protein
+SORBI_3007G111300,cold_induced,Downregulated,,8069902,7,C,Hypothetical protein
+SORBI_3007G114500,cold_induced,Downregulated,,8071050,7,C,Hypothetical protein
+SORBI_3007G116500,cold_induced,Downregulated,,8073506,7,C,Probable phospholipid-transporting ATPase 8
+SORBI_3007G116800,cold_induced,Downregulated,,8073509,7,C,Hypothetical protein
+SORBI_3007G118301,cold_induced,Downregulated,,8070015,7,C,Hypothetical protein
+SORBI_3007G119101,cold_induced,Downregulated,,8073517,7,C,Hypothetical protein
+SORBI_3007G121300,cold_induced,Downregulated,,8070039,7,C,Pre-mRNA cleavage factor Im 25 kDa subunit 1
+SORBI_3007G122200,cold_induced,Downregulated,,8070054,7,C,Hypothetical protein
+SORBI_3007G122400,cold_induced,Downregulated,,8070055,7,C,Hypothetical protein
+SORBI_3007G122800,cold_induced,Downregulated,,8073535,7,C,Hypothetical protein
+SORBI_3007G124100,cold_induced,Downregulated,,8073540,7,C,Hypothetical protein
+SORBI_3007G125500,cold_induced,Downregulated,,8073548,7,C,Hypothetical protein
+SORBI_3007G125600,cold_induced,Downregulated,,8070077,7,C,Hypothetical protein
+SORBI_3007G131600,cold_induced,Downregulated,,8075382,7,C,Hypothetical protein
+SORBI_3007G132000,cold_induced,Downregulated,,8075385,7,C,Hypothetical protein
+SORBI_3007G132700,cold_induced,Downregulated,,8075393,7,C,Hypothetical protein
+SORBI_3007G133000,cold_induced,Downregulated,,8075643,7,C,Hypothetical protein
+SORBI_3007G133766,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G137400,cold_induced,Downregulated,,8077824,7,C,Hypothetical protein
+SORBI_3007G137600,cold_induced,Downregulated,,110436944,7,C,"Malate dehydrogenase, chloroplastic"
+SORBI_3007G139000,cold_induced,Downregulated,,8077832,7,C,Hypothetical protein
+SORBI_3007G140700,cold_induced,Downregulated,,8080604,7,C,Aldehyde dehydrogenase 11A3
+SORBI_3007G140800,cold_induced,Downregulated,,8077844,7,C,SFD4
+SORBI_3007G140900,cold_induced,Downregulated,CIPK22,8077845,7,C,
+SORBI_3007G141200,cold_induced,Downregulated,,8077848,7,C,Hypothetical protein
+SORBI_3007G142100,cold_induced,Downregulated,,8077854,7,C,Hypothetical protein
+SORBI_3007G142200,cold_induced,Downregulated,,8080611,7,C,Hypothetical protein
+SORBI_3007G142300,cold_induced,Downregulated,,8080613,7,C,Hypothetical protein
+SORBI_3007G143400,cold_induced,Downregulated,,8077861,7,C,Hypothetical protein
+SORBI_3007G143900,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G144000,cold_induced,Downregulated,,8080620,7,C,Hypothetical protein
+SORBI_3007G146200,cold_induced,Downregulated,,8077875,7,C,Hypothetical protein
+SORBI_3007G147800,cold_induced,Downregulated,,8077887,7,C,Hypothetical protein
+SORBI_3007G148300,cold_induced,Downregulated,,8077890,7,C,Hypothetical protein
+SORBI_3007G149300,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G150800,cold_induced,Downregulated,,8080647,7,C,Hypothetical protein
+SORBI_3007G153800,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G153900,cold_induced,Downregulated,,8083522,7,C,Hypothetical protein
+SORBI_3007G156700,cold_induced,Downregulated,,8083540,7,C,Hypothetical protein
+SORBI_3007G156900,cold_induced,Downregulated,,8083542,7,C,Hypothetical protein
+SORBI_3007G157300,cold_induced,Downregulated,,8083545,7,C,Hypothetical protein
+SORBI_3007G158600,cold_induced,Downregulated,,8056901,7,C,Hypothetical protein
+SORBI_3007G160200,cold_induced,Downregulated,,8056910,7,C,DIC3
+SORBI_3007G160300,cold_induced,Downregulated,,8056911,7,C,Hypothetical protein
+SORBI_3007G160600,cold_induced,Downregulated,,8083566,7,C,Hypothetical protein
+SORBI_3007G160700,cold_induced,Downregulated,,110437036,7,C,Hypothetical protein
+SORBI_3007G161100,cold_induced,Downregulated,,8083569,7,C,Hypothetical protein
+SORBI_3007G161450,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G161500,cold_induced,Downregulated,,8056916,7,C,Hypothetical protein
+SORBI_3007G165500,cold_induced,Downregulated,,8054843,7,C,Hypothetical protein
+SORBI_3007G165701,cold_induced,Downregulated,,8054845,7,C,Hypothetical protein
+SORBI_3007G165800,cold_induced,Downregulated,,8057553,7,C,BAHD acyltransferase DCR
+SORBI_3007G166800,cold_induced,Downregulated,,8056934,7,C,Hypothetical protein
+SORBI_3007G167200,cold_induced,Downregulated,,8057810,7,C,Hypothetical protein
+SORBI_3007G167300,cold_induced,Downregulated,,8056937,7,C,Hypothetical protein
+SORBI_3007G169700,cold_induced,Downregulated,,110437049,7,C,Hypothetical protein
+SORBI_3007G170800,cold_induced,Downregulated,,8057991,7,C,Hypothetical protein
+SORBI_3007G175200,cold_induced,Downregulated,,8057839,7,C,Hypothetical protein
+SORBI_3007G175600,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G175900,cold_induced,Downregulated,,8058027,7,C,Hypothetical protein
+SORBI_3007G178000,cold_induced,Downregulated,,8058042,7,C,Hypothetical protein
+SORBI_3007G179400,cold_induced,Downregulated,,8058047,7,C,Hypothetical protein
+SORBI_3007G180900,cold_induced,Downregulated,,8060552,7,C,Hypothetical protein
+SORBI_3007G181100,cold_induced,Downregulated,,8060553,7,C,Hypothetical protein
+SORBI_3007G181500,cold_induced,Downregulated,,8060554,7,C,Hypothetical protein
+SORBI_3007G184700,cold_induced,Downregulated,,8060907,7,C,Hypothetical protein
+SORBI_3007G185801,cold_induced,Downregulated,,8060571,7,C,Hypothetical protein
+SORBI_3007G196400,cold_induced,Downregulated,,8062407,7,C,Hypothetical protein
+SORBI_3007G196800,cold_induced,Downregulated,,8060967,7,C,Hypothetical protein
+SORBI_3007G197100,cold_induced,Downregulated,,8063894,7,C,Hypothetical protein
+SORBI_3007G201100,cold_induced,Downregulated,,8062427,7,C,Hypothetical protein
+SORBI_3007G202000,cold_induced,Downregulated,,8063996,7,C,Hypothetical protein
+SORBI_3007G206500,cold_induced,Downregulated,,8081353,7,C,Hypothetical protein
+SORBI_3007G209100,cold_induced,Downregulated,,8064019,7,C,Hypothetical protein
+SORBI_3007G211600,cold_induced,Downregulated,,8064035,7,C,Hypothetical protein
+SORBI_3007G212200,cold_induced,Downregulated,,8064039,7,C,"Gibberellin-induced A20/AN1 zinc-finger protein, Negative regulation of GA (gibberellin) -mediated cell elongatio"
+SORBI_3007G214700,cold_induced,Downregulated,,8066992,7,C,Hypothetical protein
+SORBI_3007G215100,cold_induced,Downregulated,,,7,C,Hypothetical protein
+SORBI_3007G216500,cold_induced,Downregulated,,8055208,7,C,Hypothetical protein
+SORBI_3007G219100,cold_induced,Downregulated,,8055221,7,C,Hypothetical protein
+SORBI_3007G220000,cold_induced,Downregulated,,8055228,7,C,Hypothetical protein
+SORBI_3007G220700,cold_induced,Downregulated,,8055233,7,C,Hypothetical protein
+SORBI_3007G221400,cold_induced,Downregulated,,8067027,7,C,Hypothetical protein
+SORBI_3007G222600,cold_induced,Downregulated,,8055361,7,C,Hypothetical protein
+SORBI_3007G223300,cold_induced,Downregulated,,8055367,7,C,Hypothetical protein
+SORBI_3007G224700,cold_induced,Downregulated,,8055373,7,C,Hypothetical protein
+SORBI_3007G225500,cold_induced,Downregulated,,8067040,7,C,Hypothetical protein
+SORBI_3007G226300,cold_induced,Downregulated,,8067044,7,C,Hypothetical protein
+SORBI_3007G226600,cold_induced,Downregulated,,8055382,7,C,Hypothetical protein
+SORBI_3007G227100,cold_induced,Downregulated,,8067047,7,C,Hypothetical protein
+SORBI_3008G005100,cold_induced,Downregulated,,8055488,8,C,Hypothetical protein
+SORBI_3008G014100,cold_induced,Downregulated,,8070361,8,C,Hypothetical protein
+SORBI_3008G015600,cold_induced,Downregulated,,8071421,8,C,Hypothetical protein
+SORBI_3008G015800,cold_induced,Downregulated,,110429720,8,C,Hypothetical protein
+SORBI_3008G016900,cold_induced,Downregulated,,8070372,8,C,Hypothetical protein
+SORBI_3008G018600,cold_induced,Downregulated,,8071437,8,C,Hypothetical protein
+SORBI_3008G018700,cold_induced,Downregulated,,8071438,8,C,Hypothetical protein
+SORBI_3008G018800,cold_induced,Downregulated,,8071439,8,C,Hypothetical protein
+SORBI_3008G019400,cold_induced,Downregulated,,8070389,8,C,Hypothetical protein
+SORBI_3008G024500,cold_induced,Downregulated,,8074828,8,C,Hypothetical protein
+SORBI_3008G025500,cold_induced,Downregulated,15A,8067160,8,C,
+SORBI_3008G026600,cold_induced,Downregulated,,8074842,8,C,Hypothetical protein
+SORBI_3008G026800,cold_induced,Downregulated,,8067165,8,C,Hypothetical protein
+SORBI_3008G030100,cold_induced,Downregulated,,110429758,8,C,Hypothetical protein
+SORBI_3008G032900,cold_induced,Downregulated,,8074871,8,C,U3 small nucleolar RNA-associated protein
+SORBI_3008G033000,cold_induced,Downregulated,,8066950,8,C,Hypothetical protein
+SORBI_3008G033200,cold_induced,Downregulated,,110429751,8,C,Hypothetical protein
+SORBI_3008G035600,cold_induced,Downregulated,,8066960,8,C,Hypothetical protein
+SORBI_3008G036000,cold_induced,Downregulated,,8066963,8,C,Hypothetical protein
+SORBI_3008G036900,cold_induced,Downregulated,,8074892,8,C,"Nitrate-inducible and autorepressible transcriptional repressor, Nitrogen respons"
+SORBI_3008G038300,cold_induced,Downregulated,,8074897,8,C,Hypothetical protein
+SORBI_3008G038500,cold_induced,Downregulated,NTH1,8066977,8,C,
+SORBI_3008G042900,cold_induced,Downregulated,,8073460,8,C,Hypothetical protein
+SORBI_3008G047100,cold_induced,Downregulated,,8073483,8,C,Pentatricopeptide repeat-containing protein At4g15720
+SORBI_3008G047400,cold_induced,Downregulated,,110429672,8,C,Hypothetical protein
+SORBI_3008G047600,cold_induced,Downregulated,,8079859,8,C,Hypothetical protein
+SORBI_3008G048501,cold_induced,Downregulated,,,8,C,Hypothetical protein
+SORBI_3008G055800,cold_induced,Downregulated,,8079894,8,C,Hypothetical protein
+SORBI_3008G058100,cold_induced,Downregulated,,8076304,8,C,Sirtuin 2
+SORBI_3008G058900,cold_induced,Downregulated,,8082760,8,C,Hypothetical protein
+SORBI_3008G059000,cold_induced,Downregulated,,8076311,8,C,Hypothetical protein
+SORBI_3008G059200,cold_induced,Downregulated,,8076312,8,C,Hypothetical protein
+SORBI_3008G062900,cold_induced,Downregulated,,8082773,8,C,Hypothetical protein
+SORBI_3008G064500,cold_induced,Downregulated,,8084735,8,C,Hypothetical protein
+SORBI_3008G064700,cold_induced,Downregulated,,8084736,8,C,Hypothetical protein
+SORBI_3008G065000,cold_induced,Downregulated,,8082785,8,C,"PsbP domain-containing protein 4, chloroplastic"
+SORBI_3008G070350,cold_induced,Downregulated,,110437693,8,C,Hypothetical protein
+SORBI_3008G073200,cold_induced,Downregulated,,8083097,8,C,Hypothetical protein
+SORBI_3008G075500,cold_induced,Downregulated,,8058139,8,C,Hypothetical protein
+SORBI_3008G077600,cold_induced,Downregulated,,110429786,8,C,Diacylglycerol kinase 2
+SORBI_3008G079400,cold_induced,Downregulated,,8084217,8,C,Hypothetical protein
+SORBI_3008G081200,cold_induced,Downregulated,,8084233,8,C,Hypothetical protein
+SORBI_3008G086700,cold_induced,Downregulated,,8086144,8,C,Hypothetical protein
+SORBI_3008G088863,cold_induced,Downregulated,,,8,C,Hypothetical protein
+SORBI_3008G091400,cold_induced,Downregulated,,,8,C,Hypothetical protein
+SORBI_3008G095000,cold_induced,Downregulated,,8063246,8,C,Hypothetical protein
+SORBI_3008G095200,cold_induced,Downregulated,,,8,C,Hypothetical protein
+SORBI_3008G108400,cold_induced,Downregulated,,110429755,8,C,Hypothetical protein
+SORBI_3008G110300,cold_induced,Downregulated,,8064603,8,C,Hypothetical protein
+SORBI_3008G110400,cold_induced,Downregulated,,8067204,8,C,Hypothetical protein
+SORBI_3008G112300,cold_induced,Downregulated,,8067215,8,C,"Dicarboxylate transporter 1, chloroplastic"
+SORBI_3008G114300,cold_induced,Downregulated,,8067222,8,C,Hypothetical protein
+SORBI_3008G114700,cold_induced,Downregulated,,8067223,8,C,Hypothetical protein
+SORBI_3008G115900,cold_induced,Downregulated,,8067234,8,C,Hypothetical protein
+SORBI_3008G129000,cold_induced,Downregulated,,110437464,8,C,Hypothetical protein
+SORBI_3008G129900,cold_induced,Downregulated,,8068841,8,C,Hypothetical protein
+SORBI_3008G130000,cold_induced,Downregulated,,8068842,8,C,"Pentatricopeptide repeat-containing protein At2g31400, chloroplastic"
+SORBI_3008G132300,cold_induced,Downregulated,,110429619,8,C,Hypothetical protein
+SORBI_3008G136500,cold_induced,Downregulated,,8068104,8,C,Hypothetical protein
+SORBI_3008G140100,cold_induced,Downregulated,,8074255,8,C,Hypothetical protein
+SORBI_3008G140200,cold_induced,Downregulated,,8068123,8,C,Hypothetical protein
+SORBI_3008G140800,cold_induced,Downregulated,,8068127,8,C,Hypothetical protein
+SORBI_3008G141300,cold_induced,Downregulated,,8068131,8,C,Hypothetical protein
+SORBI_3008G142200,cold_induced,Downregulated,,,8,C,Hypothetical protein
+SORBI_3008G149000,cold_induced,Downregulated,,8069719,8,C,Hypothetical protein
+SORBI_3008G151100,cold_induced,Downregulated,,8069730,8,C,Hypothetical protein
+SORBI_3008G159701,cold_induced,Downregulated,,8076660,8,C,Hypothetical protein
+SORBI_3008G167100,cold_induced,Downregulated,,8084393,8,C,Hypothetical protein
+SORBI_3008G171000,cold_induced,Downregulated,,8071468,8,C,Hypothetical protein
+SORBI_3008G180800,cold_induced,Downregulated,,8071502,8,C,"Similar to Phytoene synthase 1, chloroplast precursor (EC 2.5.1.-) (Fruit ripening specific protein pTOM5)"
+SORBI_3008G181300,cold_induced,Downregulated,,8086117,8,C,Hypothetical protein
+SORBI_3008G186800,cold_induced,Downregulated,,110429877,8,C,Hypothetical protein
+SORBI_3008G187100,cold_induced,Downregulated,,8065242,8,C,Hypothetical protein
+SORBI_3008G188000,cold_induced,Downregulated,,8071532,8,C,Hypothetical protein
+SORBI_3008G188400,cold_induced,Downregulated,,8071533,8,C,Hypothetical protein
+SORBI_3008G188800,cold_induced,Downregulated,,8071536,8,C,Hypothetical protein
+SORBI_3008G189400,cold_induced,Downregulated,,8065250,8,C,Hypothetical protein
+SORBI_3008G190200,cold_induced,Downregulated,,8065254,8,C,Hypothetical protein
+SORBI_3008G191000,cold_induced,Downregulated,,8065259,8,C,Hypothetical protein
+SORBI_3008G193200,cold_induced,Downregulated,,8065271,8,C,Hypothetical protein
+SORBI_3009G002200,cold_induced,Downregulated,,8066589,9,C,Hypothetical protein
+SORBI_3009G010400,cold_induced,Downregulated,,8067315,9,C,Probable E3 ubiquitin-protein ligase RHC2A
+SORBI_3009G014200,cold_induced,Downregulated,,8067331,9,C,Hypothetical protein
+SORBI_3009G015700,cold_induced,Downregulated,,8068689,9,C,Hypothetical protein
+SORBI_3009G016000,cold_induced,Downregulated,,8068691,9,C,PPa4
+SORBI_3009G017732,cold_induced,Downregulated,,8067348,9,C,Hypothetical protein
+SORBI_3009G023200,cold_induced,Downregulated,,8071238,9,C,Hypothetical protein
+SORBI_3009G024100,cold_induced,Downregulated,,8071242,9,C,Hypothetical protein
+SORBI_3009G026101,cold_induced,Downregulated,,8071252,9,C,Hypothetical protein
+SORBI_3009G027800,cold_induced,Downregulated,,8071261,9,C,Hypothetical protein
+SORBI_3009G028200,cold_induced,Downregulated,,8071264,9,C,Hypothetical protein
+SORBI_3009G028300,cold_induced,Downregulated,,8068166,9,C,Hypothetical protein
+SORBI_3009G028500,cold_induced,Downregulated,,8071266,9,C,Hypothetical protein
+SORBI_3009G033400,cold_induced,Downregulated,,8068192,9,C,Hypothetical protein
+SORBI_3009G036000,cold_induced,Downregulated,,,9,C,Hypothetical protein
+SORBI_3009G036100,cold_induced,Downregulated,,,9,C,Hypothetical protein
+SORBI_3009G036400,cold_induced,Downregulated,,8071295,9,C,Helix-loop-helix DNA-binding domain containing protein
+SORBI_3009G038900,cold_induced,Downregulated,,110430267,9,C,Hypothetical protein
+SORBI_3009G039800,cold_induced,Downregulated,,8069473,9,C,Hypothetical protein
+SORBI_3009G041301,cold_induced,Downregulated,,8075960,9,C,Hypothetical protein
+SORBI_3009G041400,cold_induced,Downregulated,,,9,C,Hypothetical protein
+SORBI_3009G042800,cold_induced,Downregulated,,8075965,9,C,Hypothetical protein
+SORBI_3009G048900,cold_induced,Downregulated,,8069528,9,C,Hypothetical protein
+SORBI_3009G054301,cold_induced,Downregulated,,8071195,9,C,Hypothetical protein
+SORBI_3009G054900,cold_induced,Downregulated,,8080920,9,C,Ca2+-activated RelA/spot-like protein
+SORBI_3009G060800,cold_induced,Downregulated,,8080941,9,C,Hypothetical protein
+SORBI_3009G063400,cold_induced,Downregulated,,8080953,9,C,Hypothetical protein
+SORBI_3009G065300,cold_induced,Downregulated,,8080960,9,C,Hypothetical protein
+SORBI_3009G066200,cold_induced,Downregulated,,8072723,9,C,Hypothetical protein
+SORBI_3009G067400,cold_induced,Downregulated,,8064202,9,C,Hypothetical protein
+SORBI_3009G069300,cold_induced,Downregulated,,8055696,9,C,Actin binding protein family
+SORBI_3009G069600,cold_induced,Downregulated,,8065884,9,C,Hypothetical protein
+SORBI_3009G070500,cold_induced,Downregulated,,8055706,9,C,Hypothetical protein
+SORBI_3009G071800,cold_induced,Downregulated,PFK,8065903,9,C,
+SORBI_3009G073300,cold_induced,Downregulated,,8065913,9,C,Hypothetical protein
+SORBI_3009G076800,cold_induced,Downregulated,,8065929,9,C,Hypothetical protein
+SORBI_3009G076900,cold_induced,Downregulated,,8065930,9,C,Hypothetical protein
+SORBI_3009G081400,cold_induced,Downregulated,,8066613,9,C,Hypothetical protein
+SORBI_3009G081700,cold_induced,Downregulated,,8066616,9,C,Hypothetical protein
+SORBI_3009G082600,cold_induced,Downregulated,,8066619,9,C,Hypothetical protein
+SORBI_3009G083600,cold_induced,Downregulated,,8066629,9,C,Hypothetical protein
+SORBI_3009G092300,cold_induced,Downregulated,,8066749,9,C,Hypothetical protein
+SORBI_3009G098700,cold_induced,Downregulated,,8066771,9,C,Hypothetical protein
+SORBI_3009G100500,cold_induced,Downregulated,,110430291,9,C,Hypothetical protein
+SORBI_3009G101100,cold_induced,Downregulated,,8066780,9,C,Patellin-6
+SORBI_3009G105000,cold_induced,Downregulated,,8061888,9,C,Hypothetical protein
+SORBI_3009G111500,cold_induced,Downregulated,,8061918,9,C,Hypothetical protein
+SORBI_3009G112500,cold_induced,Downregulated,,8077900,9,C,Hypothetical protein
+SORBI_3009G113800,cold_induced,Downregulated,,8062700,9,C,Hypothetical protein
+SORBI_3009G118700,cold_induced,Downregulated,,8076815,9,C,Hypothetical protein
+SORBI_3009G120600,cold_induced,Downregulated,,8077939,9,C,Hypothetical protein
+SORBI_3009G120800,cold_induced,Downregulated,,8076822,9,C,Hypothetical protein
+SORBI_3009G121300,cold_induced,Downregulated,,8076826,9,C,Hypothetical protein
+SORBI_3009G122400,cold_induced,Downregulated,,8077952,9,C,Hypothetical protein
+SORBI_3009G125900,cold_induced,Downregulated,,8085085,9,C,Hypothetical protein
+SORBI_3009G127500,cold_induced,Downregulated,,8076863,9,C,ISA2
+SORBI_3009G133700,cold_induced,Downregulated,,8076937,9,C,Hypothetical protein
+SORBI_3009G133800,cold_induced,Downregulated,,8076938,9,C,Hypothetical protein
+SORBI_3009G134000,cold_induced,Downregulated,,8085121,9,C,Hypothetical protein
+SORBI_3009G134450,cold_induced,Downregulated,,8076943,9,C,Hypothetical protein
+SORBI_3009G135100,cold_induced,Downregulated,,8076945,9,C,Hypothetical protein
+SORBI_3009G135550,cold_induced,Downregulated,,,9,C,Hypothetical protein
+SORBI_3009G136400,cold_induced,Downregulated,,8076952,9,C,Hypothetical protein
+SORBI_3009G136500,cold_induced,Downregulated,,8076953,9,C,Hypothetical protein
+SORBI_3009G136700,cold_induced,Downregulated,,8085131,9,C,Hypothetical protein
+SORBI_3009G137300,cold_induced,Downregulated,,,9,C,Hypothetical protein
+SORBI_3009G140000,cold_induced,Downregulated,MLO,8076967,9,C,
+SORBI_3009G140400,cold_induced,Downregulated,,8058461,9,C,"Pentatricopeptide repeat-containing protein At4g14050, mitochondrial"
+SORBI_3009G143900,cold_induced,Downregulated,,8077130,9,C,Hypothetical protein
+SORBI_3009G144050,cold_induced,Downregulated,,8058479,9,C,Hypothetical protein
+SORBI_3009G148100,cold_induced,Downregulated,,8058501,9,C,Hypothetical protein
+SORBI_3009G151100,cold_induced,Downregulated,,8077162,9,C,Hypothetical protein
+SORBI_3009G151600,cold_induced,Downregulated,,8077164,9,C,Hypothetical protein
+SORBI_3009G152600,cold_induced,Downregulated,,8072495,9,C,Hypothetical protein
+SORBI_3009G154000,cold_induced,Downregulated,,110430547,9,C,Hypothetical protein
+SORBI_3009G157100,cold_induced,Downregulated,,8072515,9,C,Hypothetical protein
+SORBI_3009G157700,cold_induced,Downregulated,,8061750,9,C,Phosphate transporter 4
+SORBI_3009G159400,cold_induced,Downregulated,,8061754,9,C,Hypothetical protein
+SORBI_3009G165200,cold_induced,Downregulated,,8061776,9,C,Hypothetical protein
+SORBI_3009G169400,cold_induced,Downregulated,,8076985,9,C,Hypothetical protein
+SORBI_3009G170800,cold_induced,Downregulated,,8061805,9,C,Hypothetical protein
+SORBI_3009G173300,cold_induced,Downregulated,,8064133,9,C,Hypothetical protein
+SORBI_3009G173700,cold_induced,Downregulated,,8077003,9,C,Hypothetical protein
+SORBI_3009G175100,cold_induced,Downregulated,,8077010,9,C,Hypothetical protein
+SORBI_3009G176800,cold_induced,Downregulated,,8077018,9,C,Hypothetical protein
+SORBI_3009G179500,cold_induced,Downregulated,,8064164,9,C,Hypothetical protein
+SORBI_3009G179600,cold_induced,Downregulated,,8064165,9,C,Hypothetical protein
+SORBI_3009G181800,cold_induced,Downregulated,CYP98A1,8077042,9,C,
+SORBI_3009G184000,cold_induced,Downregulated,,8064187,9,C,Hypothetical protein
+SORBI_3009G184200,cold_induced,Downregulated,,8064189,9,C,Structural maintenance of chromosomes protein
+SORBI_3009G184300,cold_induced,Downregulated,,8077053,9,C,Ethylene-responsive transcription factor 12
+SORBI_3009G184400,cold_induced,Downregulated,,8064190,9,C,Hypothetical protein
+SORBI_3009G185201,cold_induced,Downregulated,,8080060,9,C,Hypothetical protein
+SORBI_3009G185900,cold_induced,Downregulated,,8080063,9,C,Hypothetical protein
+SORBI_3009G186600,cold_induced,Downregulated,,8080065,9,C,Hypothetical protein
+SORBI_3009G189300,cold_induced,Downregulated,,8067479,9,C,Hypothetical protein
+SORBI_3009G190000,cold_induced,Downregulated,,8067482,9,C,Hypothetical protein
+SORBI_3009G190700,cold_induced,Downregulated,,,9,C,Hypothetical protein
+SORBI_3009G191100,cold_induced,Downregulated,,8080089,9,C,Hypothetical protein
+SORBI_3009G191800,cold_induced,Downregulated,,110430064,9,C,"Single-stranded DNA-binding protein, mitochondrial"
+SORBI_3009G191900,cold_induced,Downregulated,,8067486,9,C,Hypothetical protein
+SORBI_3009G192100,cold_induced,Downregulated,,8067487,9,C,Hypothetical protein
+SORBI_3009G192600,cold_induced,Downregulated,,8067489,9,C,Hypothetical protein
+SORBI_3009G194200,cold_induced,Downregulated,,8067497,9,C,Hypothetical protein
+SORBI_3009G195600,cold_induced,Downregulated,,8067502,9,C,Hypothetical protein
+SORBI_3009G195800,cold_induced,Downregulated,CIPK13,8067503,9,C,
+SORBI_3009G196001,cold_induced,Downregulated,,8082967,9,C,Hypothetical protein
+SORBI_3009G197600,cold_induced,Downregulated,,8067509,9,C,Hypothetical protein
+SORBI_3009G198600,cold_induced,Downregulated,,8082977,9,C,Hypothetical protein
+SORBI_3009G204100,cold_induced,Downregulated,,8068950,9,C,Hypothetical protein
+SORBI_3009G205000,cold_induced,Downregulated,,110429997,9,C,Hypothetical protein
+SORBI_3009G206000,cold_induced,Downregulated,,8068957,9,C,Hypothetical protein
+SORBI_3009G208400,cold_induced,Downregulated,,8068973,9,C,Hypothetical protein
+SORBI_3009G208800,cold_induced,Downregulated,,8085901,9,C,Hypothetical protein
+SORBI_3009G209800,cold_induced,Downregulated,,8061051,9,C,Hypothetical protein
+SORBI_3009G210200,cold_induced,Downregulated,,8068977,9,C,Hypothetical protein
+SORBI_3009G211100,cold_induced,Downregulated,,8061060,9,C,Hypothetical protein
+SORBI_3009G214300,cold_induced,Downregulated,,8061076,9,C,Hypothetical protein
+SORBI_3009G215000,cold_induced,Downregulated,,,9,C,Hypothetical protein
+SORBI_3009G217700,cold_induced,Downregulated,,110430608,9,C,Hypothetical protein
+SORBI_3009G218900,cold_induced,Downregulated,,8069007,9,C,Hypothetical protein
+SORBI_3009G223500,cold_induced,Downregulated,,8063551,9,C,Hypothetical protein
+SORBI_3009G224200,cold_induced,Downregulated,,8074562,9,C,Hypothetical protein
+SORBI_3009G225600,cold_induced,Downregulated,,8074566,9,C,Hypothetical protein
+SORBI_3009G226100,cold_induced,Downregulated,,,9,C,Hypothetical protein
+SORBI_3009G229100,cold_induced,Downregulated,,8063581,9,C,Hypothetical protein
+SORBI_3009G231400,cold_induced,Downregulated,,8074590,9,C,Hypothetical protein
+SORBI_3009G231800,cold_induced,Downregulated,,8074594,9,C,Hypothetical protein
+SORBI_3009G232200,cold_induced,Downregulated,,8063595,9,C,Hypothetical protein
+SORBI_3009G232900,cold_induced,Downregulated,,8063601,9,C,Hypothetical protein
+SORBI_3009G234300,cold_induced,Downregulated,,8063610,9,C,Hypothetical protein
+SORBI_3009G235500,cold_induced,Downregulated,,8063615,9,C,Hypothetical protein
+SORBI_3009G237100,cold_induced,Downregulated,,8074616,9,C,Hypothetical protein
+SORBI_3009G238200,cold_induced,Downregulated,,8064699,9,C,Hypothetical protein
+SORBI_3009G240300,cold_induced,Downregulated,,8064706,9,C,Hypothetical protein
+SORBI_3009G242100,cold_induced,Downregulated,,8083793,9,C,Hydroxyproline-rich glycoprotein family protein
+SORBI_3009G243200,cold_induced,Downregulated,,8064719,9,C,Hypothetical protein
+SORBI_3009G243500,cold_induced,Downregulated,,8064720,9,C,Hypothetical protein
+SORBI_3009G244700,cold_induced,Downregulated,,8083807,9,C,Hypothetical protein
+SORBI_3009G244900,cold_induced,Downregulated,,8064726,9,C,Hypothetical protein
+SORBI_3009G245000,cold_induced,Downregulated,,8083808,9,C,Hypothetical protein
+SORBI_3009G246300,cold_induced,Downregulated,,8083810,9,C,Hypothetical protein
+SORBI_3009G246400,cold_induced,Downregulated,,,9,C,Hypothetical protein
+SORBI_3009G247900,cold_induced,Downregulated,,8064749,9,C,Hypothetical protein
+SORBI_3009G249600,cold_induced,Downregulated,,8065292,9,C,Hypothetical protein
+SORBI_3009G250100,cold_induced,Downregulated,,8065296,9,C,Hypothetical protein
+SORBI_3009G250400,cold_induced,Downregulated,,8066537,9,C,Hypothetical protein
+SORBI_3009G250800,cold_induced,Downregulated,,8066541,9,C,Hypothetical protein
+SORBI_3009G251100,cold_induced,Downregulated,,8066542,9,C,Hypothetical protein
+SORBI_3009G251800,cold_induced,Downregulated,,8065306,9,C,Hypothetical protein
+SORBI_3009G252500,cold_induced,Downregulated,,8065309,9,C,Hypothetical protein
+SORBI_3009G256100,cold_induced,Downregulated,,8065322,9,C,Hypothetical protein
+SORBI_3009G259100,cold_induced,Downregulated,,8065341,9,C,Hypothetical protein
+SORBI_3009G259600,cold_induced,Downregulated,,8065343,9,C,Hypothetical protein
+SORBI_3010G005401,cold_induced,Downregulated,,8066878,10,C,Hypothetical protein
+SORBI_3010G006300,cold_induced,Downregulated,,8066883,10,C,Hypothetical protein
+SORBI_3010G007200,cold_induced,Downregulated,,8067907,10,C,Hypothetical protein
+SORBI_3010G007300,cold_induced,Downregulated,,8066886,10,C,Haloacid dehalogenase-like hydrolase domain-containing protein Sgpp
+SORBI_3010G008600,cold_induced,Downregulated,,8066890,10,C,Hypothetical protein
+SORBI_3010G016300,cold_induced,Downregulated,,8068368,10,C,Hypothetical protein
+SORBI_3010G016900,cold_induced,Downregulated,,8068369,10,C,PEPKR1
+SORBI_3010G019000,cold_induced,Downregulated,,110430709,10,C,Hypothetical protein
+SORBI_3010G019200,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G019900,cold_induced,Downregulated,,8069053,10,C,Hypothetical protein
+SORBI_3010G020600,cold_induced,Downregulated,,8069057,10,C,Hypothetical protein
+SORBI_3010G020800,cold_induced,Downregulated,,8068383,10,C,Hypothetical protein
+SORBI_3010G021800,cold_induced,Downregulated,,8068388,10,C,"Arginine decarboxylase, Chilling stress respons"
+SORBI_3010G022100,cold_induced,Downregulated,131L1.2,8069064,10,C,
+SORBI_3010G022850,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G023066,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G023200,cold_induced,Downregulated,131L1.10a,8069071,10,C,
+SORBI_3010G023300,cold_induced,Downregulated,131L1.10b,8069072,10,C,
+SORBI_3010G026500,cold_induced,Downregulated,,8068411,10,C,Hypothetical protein
+SORBI_3010G026925,cold_induced,Downregulated,,110431020,10,C,Hypothetical protein
+SORBI_3010G027000,cold_induced,Downregulated,,110431021,10,C,Hypothetical protein
+SORBI_3010G027500,cold_induced,Downregulated,,8068414,10,C,Hypothetical protein
+SORBI_3010G029300,cold_induced,Downregulated,,8068423,10,C,Hypothetical protein
+SORBI_3010G030200,cold_induced,Downregulated,,8070710,10,C,Hypothetical protein
+SORBI_3010G033300,cold_induced,Downregulated,,8070721,10,C,Hypothetical protein
+SORBI_3010G036000,cold_induced,Downregulated,,8068774,10,C,Hypothetical protein
+SORBI_3010G036301,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G039500,cold_induced,Downregulated,,8071319,10,C,Hypothetical protein
+SORBI_3010G039700,cold_induced,Downregulated,,8071321,10,C,Hypothetical protein
+SORBI_3010G043700,cold_induced,Downregulated,,8069169,10,C,Hypothetical protein
+SORBI_3010G044700,cold_induced,Downregulated,,8071343,10,C,Hypothetical protein
+SORBI_3010G047100,cold_induced,Downregulated,,8071357,10,C,Histone H3
+SORBI_3010G047200,cold_induced,Downregulated,,8070857,10,C,Hypothetical protein
+SORBI_3010G052200,cold_induced,Downregulated,,8070884,10,C,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+SORBI_3010G052800,cold_induced,Downregulated,,8070887,10,C,Hypothetical protein
+SORBI_3010G053900,cold_induced,Downregulated,,8070900,10,C,Hypothetical protein
+SORBI_3010G054000,cold_induced,Downregulated,,110431000,10,C,Hypothetical protein
+SORBI_3010G057000,cold_induced,Downregulated,,8072578,10,C,Hypothetical protein
+SORBI_3010G059000,cold_induced,Downregulated,,110430686,10,C,Hypothetical protein
+SORBI_3010G067950,cold_induced,Downregulated,,8077167,10,C,Hypothetical protein
+SORBI_3010G071800,cold_induced,Downregulated,,8077296,10,C,Hypothetical protein
+SORBI_3010G076600,cold_induced,Downregulated,,8077318,10,C,Hypothetical protein
+SORBI_3010G076700,cold_induced,Downregulated,,8070746,10,C,Hypothetical protein
+SORBI_3010G077100,cold_induced,Downregulated,,8070747,10,C,Hypothetical protein
+SORBI_3010G077300,cold_induced,Downregulated,SB35P03.15,8077323,10,C,
+SORBI_3010G078300,cold_induced,Downregulated,,8077333,10,C,Hypothetical protein
+SORBI_3010G079300,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G081800,cold_induced,Downregulated,,8077354,10,C,"BZIP transcription factor, Positive regulator of ABA signaling, Drought toleranc"
+SORBI_3010G083050,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G083200,cold_induced,Downregulated,,8080024,10,C,Hypothetical protein
+SORBI_3010G083400,cold_induced,Downregulated,,8080026,10,C,Hypothetical protein
+SORBI_3010G083600,cold_induced,Downregulated,,8070769,10,C,Hypothetical protein
+SORBI_3010G084400,cold_induced,Downregulated,,8070774,10,C,Hypothetical protein
+SORBI_3010G084700,cold_induced,Downregulated,,8070776,10,C,Hypothetical protein
+SORBI_3010G085100,cold_induced,Downregulated,,8070779,10,C,Kinesin like protein for actin based chloroplast movement 2
+SORBI_3010G086800,cold_induced,Downregulated,,8080045,10,C,Hypothetical protein
+SORBI_3010G089700,cold_induced,Downregulated,,8080057,10,C,Hypothetical protein
+SORBI_3010G092600,cold_induced,Downregulated,NIP2-2,8081289,10,C,
+SORBI_3010G093500,cold_induced,Downregulated,,8057882,10,C,Hypothetical protein
+SORBI_3010G097600,cold_induced,Downregulated,,8065548,10,C,Hypothetical protein
+SORBI_3010G097700,cold_induced,Downregulated,,8065549,10,C,"Putative pentatricopeptide repeat-containing protein At5g13230, mitochondrial"
+SORBI_3010G099000,cold_induced,Downregulated,,8065702,10,C,Hypothetical protein
+SORBI_3010G099400,cold_induced,Downregulated,,8061483,10,C,Hypothetical protein
+SORBI_3010G099600,cold_induced,Downregulated,,8065704,10,C,Hypothetical protein
+SORBI_3010G100300,cold_induced,Downregulated,,8065709,10,C,Hypothetical protein
+SORBI_3010G101000,cold_induced,Downregulated,,8061494,10,C,"Peptide methionine sulfoxide reductase B1, chloroplastic"
+SORBI_3010G101400,cold_induced,Downregulated,,8061497,10,C,Hypothetical protein
+SORBI_3010G101900,cold_induced,Downregulated,,8061500,10,C,Hypothetical protein
+SORBI_3010G104400,cold_induced,Downregulated,,8061512,10,C,Hypothetical protein
+SORBI_3010G104700,cold_induced,Downregulated,,8065740,10,C,Hypothetical protein
+SORBI_3010G104800,cold_induced,Downregulated,,8065741,10,C,Hypothetical protein
+SORBI_3010G104900,cold_induced,Downregulated,,8065742,10,C,Hypothetical protein
+SORBI_3010G105000,cold_induced,Downregulated,,8065743,10,C,Hypothetical protein
+SORBI_3010G105300,cold_induced,Downregulated,,8061516,10,C,Hypothetical protein
+SORBI_3010G106000,cold_induced,Downregulated,,8061519,10,C,Hypothetical protein
+SORBI_3010G107200,cold_induced,Downregulated,,8065756,10,C,Hypothetical protein
+SORBI_3010G109100,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G109200,cold_induced,Downregulated,,8061532,10,C,Protein NRT1/ PTR FAMILY 3.1
+SORBI_3010G111900,cold_induced,Downregulated,,8061539,10,C,Hypothetical protein
+SORBI_3010G113200,cold_induced,Downregulated,,8061544,10,C,Hypothetical protein
+SORBI_3010G114600,cold_induced,Downregulated,,8062093,10,C,Hypothetical protein
+SORBI_3010G116400,cold_induced,Downregulated,,8076392,10,C,Hypothetical protein
+SORBI_3010G118300,cold_induced,Downregulated,,8076398,10,C,Hypothetical protein
+SORBI_3010G120200,cold_induced,Downregulated,,8073750,10,C,Hypothetical protein
+SORBI_3010G120600,cold_induced,Downregulated,,8076410,10,C,Hypothetical protein
+SORBI_3010G125800,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G131700,cold_induced,Downregulated,,8078250,10,C,"Carboxyl-terminal-processing peptidase 3, chloroplastic"
+SORBI_3010G134000,cold_induced,Downregulated,PFP-ALPHA,110430758,10,C,
+SORBI_3010G136000,cold_induced,Downregulated,,8072914,10,C,Hypothetical protein
+SORBI_3010G138700,cold_induced,Downregulated,,8078298,10,C,Hypothetical protein
+SORBI_3010G138800,cold_induced,Downregulated,,8072930,10,C,Hypothetical protein
+SORBI_3010G150200,cold_induced,Downregulated,,8073064,10,C,Hypothetical protein
+SORBI_3010G155300,cold_induced,Downregulated,,8058862,10,C,Hypothetical protein
+SORBI_3010G156100,cold_induced,Downregulated,,8058866,10,C,Hypothetical protein
+SORBI_3010G159400,cold_induced,Downregulated,,8072674,10,C,"Cationic amino acid transporter 8, vacuolar"
+SORBI_3010G160700,cold_induced,Downregulated,,8058886,10,C,Hypothetical protein
+SORBI_3010G164400,cold_induced,Downregulated,,8061953,10,C,Hypothetical protein
+SORBI_3010G165500,cold_induced,Downregulated,,8076705,10,C,Hypothetical protein
+SORBI_3010G169200,cold_induced,Downregulated,,8076725,10,C,Hypothetical protein
+SORBI_3010G170000,cold_induced,Downregulated,,8076727,10,C,Hypothetical protein
+SORBI_3010G175800,cold_induced,Downregulated,,8079320,10,C,Hypothetical protein
+SORBI_3010G176900,cold_induced,Downregulated,,8065041,10,C,Hypothetical protein
+SORBI_3010G177100,cold_induced,Downregulated,,8079324,10,C,Hypothetical protein
+SORBI_3010G178000,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G179150,cold_induced,Downregulated,,8079337,10,C,Hypothetical protein
+SORBI_3010G180400,cold_induced,Downregulated,,8065057,10,C,Hypothetical protein
+SORBI_3010G180600,cold_induced,Downregulated,,8082238,10,C,Hypothetical protein
+SORBI_3010G180800,cold_induced,Downregulated,,8082240,10,C,Hypothetical protein
+SORBI_3010G181100,cold_induced,Downregulated,,8065058,10,C,Hypothetical protein
+SORBI_3010G181500,cold_induced,Downregulated,,8082244,10,C,Hypothetical protein
+SORBI_3010G182700,cold_induced,Downregulated,,8082248,10,C,Hypothetical protein
+SORBI_3010G183100,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G183201,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G183600,cold_induced,Downregulated,,8082252,10,C,Hypothetical protein
+SORBI_3010G183700,cold_induced,Downregulated,,8082253,10,C,Hypothetical protein
+SORBI_3010G185200,cold_induced,Downregulated,,8065074,10,C,Hypothetical protein
+SORBI_3010G185700,cold_induced,Downregulated,,8082262,10,C,Hypothetical protein
+SORBI_3010G185800,cold_induced,Downregulated,,8082263,10,C,Hypothetical protein
+SORBI_3010G186700,cold_induced,Downregulated,,8082268,10,C,Hypothetical protein
+SORBI_3010G187100,cold_induced,Downregulated,,8082269,10,C,Hypothetical protein
+SORBI_3010G188300,cold_induced,Downregulated,,8082275,10,C,Hypothetical protein
+SORBI_3010G190700,cold_induced,Downregulated,,8082442,10,C,Hypothetical protein
+SORBI_3010G196200,cold_induced,Downregulated,,8067671,10,C,Hypothetical protein
+SORBI_3010G196300,cold_induced,Downregulated,,8083471,10,C,Hypothetical protein
+SORBI_3010G196400,cold_induced,Downregulated,,8083472,10,C,Hypothetical protein
+SORBI_3010G196600,cold_induced,Downregulated,,8083474,10,C,Hypothetical protein
+SORBI_3010G200900,cold_induced,Downregulated,,8083493,10,C,Hypothetical protein
+SORBI_3010G201388,cold_induced,Downregulated,,8083495,10,C,Hypothetical protein
+SORBI_3010G205000,cold_induced,Downregulated,,8067708,10,C,Heptahelical transmembrane protein 1
+SORBI_3010G207250,cold_induced,Downregulated,,110430884,10,C,Hypothetical protein
+SORBI_3010G209100,cold_induced,Downregulated,,8058420,10,C,Hypothetical protein
+SORBI_3010G209200,cold_induced,Downregulated,,8058421,10,C,Hypothetical protein
+SORBI_3010G210600,cold_induced,Downregulated,,8069346,10,C,Hypothetical protein
+SORBI_3010G212100,cold_induced,Downregulated,,8069353,10,C,Hypothetical protein
+SORBI_3010G214100,cold_induced,Downregulated,,8069362,10,C,Hypothetical protein
+SORBI_3010G217532,cold_induced,Downregulated,,8061571,10,C,Hypothetical protein
+SORBI_3010G217700,cold_induced,Downregulated,,8061575,10,C,Hypothetical protein
+SORBI_3010G219600,cold_induced,Downregulated,,110430968,10,C,Hypothetical protein
+SORBI_3010G224800,cold_induced,Downregulated,,8061600,10,C,Patellin-4
+SORBI_3010G227800,cold_induced,Downregulated,,8083203,10,C,"Integral membrane protein, Metal ion transpor"
+SORBI_3010G230000,cold_induced,Downregulated,,8083212,10,C,Hypothetical protein
+SORBI_3010G231200,cold_induced,Downregulated,,8061621,10,C,Hypothetical protein
+SORBI_3010G231300,cold_induced,Downregulated,,110430943,10,C,Hypothetical protein
+SORBI_3010G233700,cold_induced,Downregulated,,8083303,10,C,Hypothetical protein
+SORBI_3010G234000,cold_induced,Downregulated,,8061631,10,C,Hypothetical protein
+SORBI_3010G236300,cold_induced,Downregulated,,8064947,10,C,Hypothetical protein
+SORBI_3010G238600,cold_induced,Downregulated,,8063779,10,C,Hypothetical protein
+SORBI_3010G241200,cold_induced,Downregulated,,8063790,10,C,IAA-amino acid hydrolase
+SORBI_3010G244150,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G246000,cold_induced,Downregulated,,8063811,10,C,Hypothetical protein
+SORBI_3010G246300,cold_induced,Downregulated,,8065131,10,C,ATL43
+SORBI_3010G246400,cold_induced,Downregulated,,8065132,10,C,Hypothetical protein
+SORBI_3010G246500,cold_induced,Downregulated,,8063813,10,C,Hypothetical protein
+SORBI_3010G247200,cold_induced,Downregulated,,8065135,10,C,Hypothetical protein
+SORBI_3010G249700,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G250200,cold_induced,Downregulated,,8063826,10,C,"Aminodeoxychorismate synthase, chloroplastic"
+SORBI_3010G250400,cold_induced,Downregulated,,8063828,10,C,Hypothetical protein
+SORBI_3010G251300,cold_induced,Downregulated,,8065567,10,C,Hypothetical protein
+SORBI_3010G251400,cold_induced,Downregulated,,8063832,10,C,Hypothetical protein
+SORBI_3010G251700,cold_induced,Downregulated,,8065571,10,C,Hypothetical protein
+SORBI_3010G254300,cold_induced,Downregulated,,8064297,10,C,Hypothetical protein
+SORBI_3010G254801,cold_induced,Downregulated,,8064951,10,C,Hypothetical protein
+SORBI_3010G255300,cold_induced,Downregulated,,8064953,10,C,Hypothetical protein
+SORBI_3010G256600,cold_induced,Downregulated,,8064957,10,C,Hypothetical protein
+SORBI_3010G257700,cold_induced,Downregulated,,8064962,10,C,Hypothetical protein
+SORBI_3010G258600,cold_induced,Downregulated,,8065602,10,C,Pentatricopeptide repeat-containing protein At2g36730
+SORBI_3010G259001,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G259100,cold_induced,Downregulated,,8064970,10,C,Hypothetical protein
+SORBI_3010G261200,cold_induced,Downregulated,,8065611,10,C,Hypothetical protein
+SORBI_3010G261500,cold_induced,Downregulated,,8065613,10,C,Lysophospholipid acyltransferase LPEAT2
+SORBI_3010G267600,cold_induced,Downregulated,,8069198,10,C,Hypothetical protein
+SORBI_3010G269700,cold_induced,Downregulated,,8065008,10,C,Hypothetical protein
+SORBI_3010G272000,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G273700,cold_induced,Downregulated,,8066377,10,C,Hypothetical protein
+SORBI_3010G275700,cold_induced,Downregulated,,110431210,10,C,Hypothetical protein
+SORBI_3010G276400,cold_induced,Downregulated,PSY1,110431022,10,C,
+SORBI_3010G276500,cold_induced,Downregulated,,,10,C,Hypothetical protein
+SORBI_3010G277800,cold_induced,Downregulated,,8066391,10,C,Hypothetical protein

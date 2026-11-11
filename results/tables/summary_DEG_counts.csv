@@ -1,0 +1,13 @@
+"contrast","description","model","up","down","total","tested"
+"cold_vs_control_all_lines","Cold vs Control, average over all 6 lines","M1 nested",2155,2479,4634,22494
+"cold_vs_control_low_tolerance","Cold vs Control within low-tolerance lines (Sb1, Sb4, Sb5)","M1 nested",2235,2545,4780,22494
+"cold_vs_control_high_tolerance","Cold vs Control within high-tolerance lines (Sb2, Sb3, Sb6)","M1 nested",2012,1996,4008,22494
+"cold_response_High_vs_Low","Interaction: cold response in High minus Low tolerance lines","M1 nested",286,202,488,22494
+"cold_vs_control_Sb1","Cold vs Control in Sb1 (SB14011, low tolerance)","M2 per genotype",1839,1882,3721,22629
+"cold_vs_control_Sb2","Cold vs Control in Sb2 (GG12 5051, high tolerance)","M2 per genotype",1811,1910,3721,22629
+"cold_vs_control_Sb3","Cold vs Control in Sb3 (ES-17-02, high tolerance)","M2 per genotype",1712,1864,3576,22629
+"cold_vs_control_Sb4","Cold vs Control in Sb4 (GG12 338, low tolerance)","M2 per genotype",2564,3527,6091,22629
+"cold_vs_control_Sb5","Cold vs Control in Sb5 (B18107, low tolerance)","M2 per genotype",2353,2299,4652,22629
+"cold_vs_control_Sb6","Cold vs Control in Sb6 (GG12 477, high tolerance)","M2 per genotype",2737,2503,5240,22629
+"tolerance_High_vs_Low_control","High vs Low tolerance lines under Control (genotype-level, n = 3 vs 3)","M3 pseudo-bulk",203,360,563,21634
+"tolerance_High_vs_Low_cold","High vs Low tolerance lines under Cold (genotype-level, n = 3 vs 3)","M3 pseudo-bulk",81,109,190,21475

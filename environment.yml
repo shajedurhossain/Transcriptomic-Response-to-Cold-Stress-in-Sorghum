@@ -1,0 +1,10 @@
+name: sorghum-cold-rnaseq
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.4
+  - bioconductor-deseq2=1.46
+  - r-ggplot2
+  - r-ggrepel
+  - r-pheatmap

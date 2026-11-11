@@ -1,0 +1,15 @@
+# raw data are not distributed
+data/raw/*
+!data/raw/.gitkeep
+
+# intermediate R objects (contain the count matrix)
+results/rds/
+
+# R / OS clutter
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store
+Thumbs.db
+~$*

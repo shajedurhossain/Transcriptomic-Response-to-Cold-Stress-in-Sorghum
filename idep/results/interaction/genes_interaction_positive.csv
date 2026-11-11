@@ -1,0 +1,129 @@
+gene_id,meaning,idep_label,symbol,entrez_id,chromosome,type,description
+SORBI_3001G003700,interaction_positive,Upregulated,,8059242,1,C,Protein DETOXIFICATION
+SORBI_3001G023300,interaction_positive,Upregulated,,,1,C,Hypothetical protein
+SORBI_3001G174500,interaction_positive,Upregulated,,8062981,1,C,Hypothetical protein
+SORBI_3001G186401,interaction_positive,Upregulated,,110431722,1,C,Hypothetical protein
+SORBI_3001G186500,interaction_positive,Upregulated,,8065649,1,C,Hypothetical protein
+SORBI_3001G190700,interaction_positive,Upregulated,,,1,C,Hypothetical protein
+SORBI_3001G190900,interaction_positive,Upregulated,,8065676,1,C,Hypothetical protein
+SORBI_3001G230700,interaction_positive,Upregulated,,8070528,1,C,Hypothetical protein
+SORBI_3001G268000,interaction_positive,Upregulated,,,1,C,Hypothetical protein
+SORBI_3001G273000,interaction_positive,Upregulated,,8083880,1,C,Hypothetical protein
+SORBI_3001G277000,interaction_positive,Upregulated,,8083642,1,C,Hypothetical protein
+SORBI_3001G304700,interaction_positive,Upregulated,,8058116,1,C,Hypothetical protein
+SORBI_3001G343300,interaction_positive,Upregulated,,8077069,1,C,Hypothetical protein
+SORBI_3001G351700,interaction_positive,Upregulated,,8077118,1,C,Hypothetical protein
+SORBI_3001G362001,interaction_positive,Upregulated,,8080786,1,C,Probable serine/threonine-protein kinase PBL15
+SORBI_3001G362500,interaction_positive,Upregulated,,8082608,1,C,Hypothetical protein
+SORBI_3001G372100,interaction_positive,Upregulated,,8082292,1,C,Hypothetical protein
+SORBI_3001G373100,interaction_positive,Upregulated,,8082656,1,C,MIEL1
+SORBI_3001G424400,interaction_positive,Upregulated,,8084948,1,C,Hypothetical protein
+SORBI_3001G466000,interaction_positive,Upregulated,,8081872,1,C,Hypothetical protein
+SORBI_3001G490700,interaction_positive,Upregulated,,8059822,1,C,Hypothetical protein
+SORBI_3002G024500,interaction_positive,Upregulated,,,2,C,Hypothetical protein
+SORBI_3002G032500,interaction_positive,Upregulated,,8079921,2,C,Hypothetical protein
+SORBI_3002G035200,interaction_positive,Upregulated,,8086413,2,C,Probable inositol transporter 2
+SORBI_3002G062300,interaction_positive,Upregulated,,,2,C,Hypothetical protein
+SORBI_3002G062600,interaction_positive,Upregulated,,8063640,2,C,Hypothetical protein
+SORBI_3002G107900,interaction_positive,Upregulated,,8084620,2,C,Hypothetical protein
+SORBI_3002G128400,interaction_positive,Upregulated,,8061655,2,C,Hypothetical protein
+SORBI_3002G168400,interaction_positive,Upregulated,,8071917,2,C,Hypothetical protein
+SORBI_3002G178000,interaction_positive,Upregulated,,,2,C,Hypothetical protein
+SORBI_3002G220000,interaction_positive,Upregulated,,110433007,2,C,Hypothetical protein
+SORBI_3002G242900,interaction_positive,Upregulated,,8063767,2,C,Hypothetical protein
+SORBI_3002G245300,interaction_positive,Upregulated,,8064842,2,C,Hypothetical protein
+SORBI_3002G246600,interaction_positive,Upregulated,,110433186,2,C,Hypothetical protein
+SORBI_3002G250000,interaction_positive,Upregulated,,,2,C,Hypothetical protein
+SORBI_3002G299500,interaction_positive,Upregulated,,8077275,2,C,Hypothetical protein
+SORBI_3002G301900,interaction_positive,Upregulated,,8080679,2,C,Hypothetical protein
+SORBI_3002G333900,interaction_positive,Upregulated,,8084110,2,C,Hypothetical protein
+SORBI_3002G338500,interaction_positive,Upregulated,,8056329,2,C,Hypothetical protein
+SORBI_3002G342400,interaction_positive,Upregulated,,8081764,2,C,Hypothetical protein
+SORBI_3002G356000,interaction_positive,Upregulated,,8078968,2,C,Hypothetical protein
+SORBI_3002G376400,interaction_positive,Upregulated,,8079197,2,C,Hypothetical protein
+SORBI_3002G421800,interaction_positive,Upregulated,,8074464,2,C,"WUSCHEL-related homeobox protein, Transcription factor, Crown root developmen"
+SORBI_3002G431200,interaction_positive,Upregulated,,,2,C,Hypothetical protein
+SORBI_3003G022900,interaction_positive,Upregulated,,8081424,3,C,Hypothetical protein
+SORBI_3003G034300,interaction_positive,Upregulated,,8084355,3,C,Hypothetical protein
+SORBI_3003G045900,interaction_positive,Upregulated,,8078789,3,C,Hypothetical protein
+SORBI_3003G048000,interaction_positive,Upregulated,,8078797,3,C,Hypothetical protein
+SORBI_3003G088200,interaction_positive,Upregulated,,8066527,3,C,Hypothetical protein
+SORBI_3003G088450,interaction_positive,Upregulated,,,3,C,Hypothetical protein
+SORBI_3003G090500,interaction_positive,Upregulated,,8070412,3,C,Hypothetical protein
+SORBI_3003G146400,interaction_positive,Upregulated,,8079616,3,C,Hypothetical protein
+SORBI_3003G276000,interaction_positive,Upregulated,,8059180,3,C,Hypothetical protein
+SORBI_3003G295500,interaction_positive,Upregulated,,8062188,3,C,Hypothetical protein
+SORBI_3003G335501,interaction_positive,Upregulated,,,3,C,Hypothetical protein
+SORBI_3003G348400,interaction_positive,Upregulated,,8057765,3,C,Hypothetical protein
+SORBI_3003G378700,interaction_positive,Upregulated,,8061470,3,C,Hypothetical protein
+SORBI_3003G400000,interaction_positive,Upregulated,,8056166,3,C,Hypothetical protein
+SORBI_3003G405300,interaction_positive,Upregulated,,8079800,3,C,Hypothetical protein
+SORBI_3003G406120,interaction_positive,Upregulated,,,3,C,Hypothetical protein
+SORBI_3003G406600,interaction_positive,Upregulated,,8079806,3,C,Hypothetical protein
+SORBI_3003G436800,interaction_positive,Upregulated,,8074110,3,C,Hypothetical protein
+SORBI_3004G043400,interaction_positive,Upregulated,,8069979,4,C,Hypothetical protein
+SORBI_3004G084100,interaction_positive,Upregulated,,8082920,4,C,Hypothetical protein
+SORBI_3004G097700,interaction_positive,Upregulated,,8073792,4,C,Hypothetical protein
+SORBI_3004G122500,interaction_positive,Upregulated,,8080390,4,C,Hypothetical protein
+SORBI_3004G167800,interaction_positive,Upregulated,,8061017,4,C,Hypothetical protein
+SORBI_3004G169200,interaction_positive,Upregulated,,8064235,4,C,Hypothetical protein
+SORBI_3004G199300,interaction_positive,Upregulated,,8055442,4,C,Hypothetical protein
+SORBI_3004G217900,interaction_positive,Upregulated,,8072486,4,C,Pentatricopeptide repeat-containing protein At1g33350
+SORBI_3004G248700,interaction_positive,Upregulated,,8077685,4,C,Hypothetical protein
+SORBI_3004G259900,interaction_positive,Upregulated,,8071779,4,C,Hypothetical protein
+SORBI_3004G315100,interaction_positive,Upregulated,,110434338,4,C,WCRKC thioredoxin 1
+SORBI_3004G315600,interaction_positive,Upregulated,,8081926,4,C,Hypothetical protein
+SORBI_3004G333300,interaction_positive,Upregulated,,8056396,4,C,Hypothetical protein
+SORBI_3005G019300,interaction_positive,Upregulated,,,5,C,Hypothetical protein
+SORBI_3005G019750,interaction_positive,Upregulated,,,5,C,Hypothetical protein
+SORBI_3005G024100,interaction_positive,Upregulated,,8083068,5,C,Hypothetical protein
+SORBI_3005G032100,interaction_positive,Upregulated,,,5,C,Hypothetical protein
+SORBI_3005G049600,interaction_positive,Upregulated,,8073609,5,C,Hypothetical protein
+SORBI_3005G071300,interaction_positive,Upregulated,,8079784,5,C,Hypothetical protein
+SORBI_3005G075500,interaction_positive,Upregulated,,110435329,5,C,Hypothetical protein
+SORBI_3005G085200,interaction_positive,Upregulated,,8057145,5,C,Hypothetical protein
+SORBI_3005G137100,interaction_positive,Upregulated,CHS3,8064818,5,C,
+SORBI_3005G215400,interaction_positive,Upregulated,,8083095,5,C,Hypothetical protein
+SORBI_3005G230100,interaction_positive,Upregulated,,110435509,5,C,Hypothetical protein
+SORBI_3006G045000,interaction_positive,Upregulated,,8058668,6,C,Hypothetical protein
+SORBI_3006G058732,interaction_positive,Upregulated,,8070848,6,C,Hypothetical protein
+SORBI_3006G132500,interaction_positive,Upregulated,,8060195,6,C,Hypothetical protein
+SORBI_3006G134100,interaction_positive,Upregulated,,8075877,6,C,Hypothetical protein
+SORBI_3006G150800,interaction_positive,Upregulated,,8078396,6,C,Hypothetical protein
+SORBI_3006G180100,interaction_positive,Upregulated,,8057586,6,C,Hypothetical protein
+SORBI_3006G192100,interaction_positive,Upregulated,,8060442,6,C,Hypothetical protein
+SORBI_3006G192600,interaction_positive,Upregulated,,8060444,6,C,Hypothetical protein
+SORBI_3006G280400,interaction_positive,Upregulated,,8076523,6,C,Hypothetical protein
+SORBI_3007G008100,interaction_positive,Upregulated,,8068527,7,C,Hypothetical protein
+SORBI_3007G030900,interaction_positive,Upregulated,,8076530,7,C,E3 ubiquitin-protein ligase RGLG4
+SORBI_3007G064800,interaction_positive,Upregulated,,8085003,7,C,Hypothetical protein
+SORBI_3007G074200,interaction_positive,Upregulated,,8085149,7,C,Hypothetical protein
+SORBI_3007G126300,interaction_positive,Upregulated,,8070080,7,C,Hypothetical protein
+SORBI_3007G148700,interaction_positive,Upregulated,,110437378,7,C,Hypothetical protein
+SORBI_3008G043200,interaction_positive,Upregulated,,,8,C,Hypothetical protein
+SORBI_3008G050600,interaction_positive,Upregulated,,8079868,8,C,Hypothetical protein
+SORBI_3008G139000,interaction_positive,Upregulated,,8074247,8,C,Hypothetical protein
+SORBI_3008G164450,interaction_positive,Upregulated,,,8,C,Hypothetical protein
+SORBI_3008G168700,interaction_positive,Upregulated,,8084401,8,C,Hypothetical protein
+SORBI_3008G188000,interaction_positive,Upregulated,,8071532,8,C,Hypothetical protein
+SORBI_3009G018900,interaction_positive,Upregulated,,110430273,9,C,Hypothetical protein
+SORBI_3009G040900,interaction_positive,Upregulated,,8069481,9,C,Hypothetical protein
+SORBI_3009G041301,interaction_positive,Upregulated,,8075960,9,C,Hypothetical protein
+SORBI_3009G064600,interaction_positive,Upregulated,,8080957,9,C,Hypothetical protein
+SORBI_3009G116700,interaction_positive,Upregulated,DHN,8077913,9,C,
+SORBI_3009G145500,interaction_positive,Upregulated,,8058484,9,C,Hypothetical protein
+SORBI_3009G145600,interaction_positive,Upregulated,,8058485,9,C,Hypothetical protein
+SORBI_3009G168700,interaction_positive,Upregulated,AMT2-1,8072566,9,C,
+SORBI_3009G212800,interaction_positive,Upregulated,,8061067,9,C,Hypothetical protein
+SORBI_3009G238200,interaction_positive,Upregulated,,8064699,9,C,Hypothetical protein
+SORBI_3009G248500,interaction_positive,Upregulated,,8079295,9,C,Hypothetical protein
+SORBI_3010G016000,interaction_positive,Upregulated,,8069033,10,C,Hypothetical protein
+SORBI_3010G023066,interaction_positive,Upregulated,,,10,C,Hypothetical protein
+SORBI_3010G045100,interaction_positive,Upregulated,,8069174,10,C,"Florigen, Flowering time, Long-day promotio"
+SORBI_3010G090100,interaction_positive,Upregulated,,8081274,10,C,Hypothetical protein
+SORBI_3010G110100,interaction_positive,Upregulated,,8065773,10,C,Transcription factor PERIANTHIA
+SORBI_3010G193300,interaction_positive,Upregulated,,8083459,10,C,Hypothetical protein
+SORBI_3010G221800,interaction_positive,Upregulated,,110431217,10,C,Hypothetical protein
+SORBI_3010G237800,interaction_positive,Upregulated,,8065099,10,C,Hypothetical protein
+SORBI_3010G243300,interaction_positive,Upregulated,,8063802,10,C,Hypothetical protein
+SORBI_3010G264601,interaction_positive,Upregulated,,,10,C,Hypothetical protein
